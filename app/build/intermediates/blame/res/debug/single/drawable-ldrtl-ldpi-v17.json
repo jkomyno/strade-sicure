@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Work\\Apps\\stradesicure-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-ldpi-v17\\ic_previous.png",
+        "source": "C:\\Work\\Apps\\stradesicure-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldrtl-ldpi\\ic_previous.png"
+    },
+    {
+        "merged": "C:\\Work\\Apps\\stradesicure-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-ldpi-v17\\ic_skip.png",
+        "source": "C:\\Work\\Apps\\stradesicure-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldrtl-ldpi\\ic_skip.png"
+    },
+    {
+        "merged": "C:\\Work\\Apps\\stradesicure-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-ldpi-v17\\ic_next.png",
+        "source": "C:\\Work\\Apps\\stradesicure-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldrtl-ldpi\\ic_next.png"
+    }
+]

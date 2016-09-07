@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="@color/guillotine_background"
+    android:orientation="vertical"
+    android:paddingTop="20dp"
+    android:id="@+id/menu_container"
+    tools:context="it.concorso.sanstino.stradesicure.activity.MainActivity"
+    android:weightSum="1">
+
+    <ImageView
+        android:layout_width="fill_parent"
+        android:layout_height="60dp"
+        android:layout_weight="0.20" />
+
+    <LinearLayout
+        android:id="@+id/go_to_quiz"
+        style="@style/LinearLayout.GuillotineItem"
+        android:layout_marginTop="@dimen/guillotine_medium_margin">
+
+        <ImageView
+            style="@style/ImageView.GuillotineItem"
+            android:src="@drawable/ic_question_answer_white_24dp" />
+
+        <it.concorso.sanstino.stradesicure.widget.CanaroTextView
+            style="@style/TextView.GuillotineItem"
+            android:text="@string/menu_go_to_quiz"
+            app:textAllCaps="true"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/go_to_game"
+        style="@style/LinearLayout.GuillotineItem">
+
+        <ImageView
+            style="@style/ImageView.GuillotineItem"
+            android:src="@drawable/ic_gamepad_white_24dp" />
+
+        <it.concorso.sanstino.stradesicure.widget.CanaroTextView
+            style="@style/TextView.GuillotineItem"
+            android:text="@string/menu_go_to_game"
+            app:textAllCaps="true"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/go_to_site"
+        style="@style/LinearLayout.GuillotineItem">
+
+        <ImageView
+            style="@style/ImageView.GuillotineItem"
+            android:src="@drawable/ic_open_in_browser_white_24dp" />
+
+        <it.concorso.sanstino.stradesicure.widget.CanaroTextView
+            style="@style/TextView.GuillotineItem"
+            android:text="@string/menu_go_to_site"
+            app:textAllCaps="true"/>
+    </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/guillotine_divider_height" />
+
+    <LinearLayout
+        android:id="@+id/settings_group"
+        style="@style/LinearLayout.GuillotineItem">
+
+        <ImageView
+            style="@style/ImageView.GuillotineItem"
+            android:src="@drawable/ic_settings_white_24dp" />
+
+        <it.concorso.sanstino.stradesicure.widget.CanaroTextView
+            style="@style/TextView.GuillotineItem"
+            android:text="@string/menu_go_to_settings"
+            app:textAllCaps="true"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/go_to_about"
+        style="@style/LinearLayout.GuillotineItem">
+
+        <ImageView
+            style="@style/ImageView.GuillotineItem"
+            android:src="@drawable/ic_github_white_24dp" />
+
+        <it.concorso.sanstino.stradesicure.widget.CanaroTextView
+            style="@style/TextView.GuillotineItem"
+            android:text="@string/menu_go_to_about"
+            app:textAllCaps="true"/>
+    </LinearLayout>
+</LinearLayout>

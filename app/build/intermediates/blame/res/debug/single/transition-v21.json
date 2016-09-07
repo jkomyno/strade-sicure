@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Work\\Apps\\stradesicure-master\\app\\build\\intermediates\\res\\merged\\debug\\transition-v21\\quiz_shared_enter.xml",
+        "source": "C:\\Work\\Apps\\stradesicure-master\\app\\src\\main\\res\\transition-v21\\quiz_shared_enter.xml"
+    },
+    {
+        "merged": "C:\\Work\\Apps\\stradesicure-master\\app\\build\\intermediates\\res\\merged\\debug\\transition-v21\\category_enter.xml",
+        "source": "C:\\Work\\Apps\\stradesicure-master\\app\\src\\main\\res\\transition-v21\\category_enter.xml"
+    },
+    {
+        "merged": "C:\\Work\\Apps\\stradesicure-master\\app\\build\\intermediates\\res\\merged\\debug\\transition-v21\\category_shared_enter.xml",
+        "source": "C:\\Work\\Apps\\stradesicure-master\\app\\src\\main\\res\\transition-v21\\category_shared_enter.xml"
+    },
+    {
+        "merged": "C:\\Work\\Apps\\stradesicure-master\\app\\build\\intermediates\\res\\merged\\debug\\transition-v21\\category_exit.xml",
+        "source": "C:\\Work\\Apps\\stradesicure-master\\app\\src\\main\\res\\transition-v21\\category_exit.xml"
+    }
+]

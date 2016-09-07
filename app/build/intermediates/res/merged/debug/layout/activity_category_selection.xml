@@ -1,0 +1,51 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              xmlns:tools="http://schemas.android.com/tools"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:background="@color/color_blank"
+              android:transitionGroup="false"
+              android:orientation="vertical"
+              tools:ignore="Overdraw,UnusedAttribute">
+
+    <android.support.v7.widget.Toolbar
+            android:id="@+id/toolbar_player"
+            android:layout_width="match_parent"
+            android:layout_height="?android:attr/actionBarSize"
+            style="@style/StradeSicure.TextAppearance.Title"
+            android:background="@color/color_primary"
+            android:elevation="@dimen/elevation_header"
+            tools:ignore="UnusedAttribute">
+
+        <TextView android:id="@+id/title"
+                  android:layout_width="wrap_content"
+                  android:layout_height="wrap_content"
+                  tools:ignore="PrivateResource"
+                  style="@style/StradeSicure.TextAppearance.Title.Inverse"
+                  android:layout_gravity="center_vertical|start"
+                  android:text="Quiz"/>
+
+        <TextView android:id="@+id/score"
+                  android:layout_width="wrap_content"
+                  android:layout_height="wrap_content"
+                  style="@style/StradeSicure.TextAppearance.Title.Inverse"
+                  android:layout_gravity="center_vertical|end"
+                  android:paddingEnd="@dimen/spacing_micro"
+                  android:paddingStart="@dimen/spacing_micro"
+                  tools:ignore="NewApi" />
+    </android.support.v7.widget.Toolbar>
+
+    <FrameLayout android:id="@+id/category_container"
+                 android:layout_width="match_parent"
+                 android:layout_height="match_parent"
+                 tools:context="activity.QuizSelectionActivity"
+                 tools:ignore="MergeRootFrame">
+
+        <ProgressBar android:id="@+id/progress"
+                     android:layout_width="@dimen/size_fab"
+                     android:layout_height="@dimen/size_fab"
+                     android:layout_gravity="center"
+                     android:indeterminateOnly="true" />
+
+    </FrameLayout>
+
+</LinearLayout>

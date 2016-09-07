@@ -1,0 +1,82 @@
+[
+    {
+        "merged": "C:\\Work\\Apps\\stradesicure-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "C:\\Work\\Apps\\stradesicure-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable-v21\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Work\\Apps\\stradesicure-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "C:\\Work\\Apps\\stradesicure-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "C:\\Work\\Apps\\stradesicure-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-v21\\ic_arrow_back.xml",
+        "source": "C:\\Work\\Apps\\stradesicure-master\\app\\src\\main\\res\\drawable-v21\\ic_arrow_back.xml"
+    },
+    {
+        "merged": "C:\\Work\\Apps\\stradesicure-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-v21\\ic_sync_black_24dp.xml",
+        "source": "C:\\Work\\Apps\\stradesicure-master\\app\\src\\main\\res\\drawable-v21\\ic_sync_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Work\\Apps\\stradesicure-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-v21\\ic_notifications_black_24dp.xml",
+        "source": "C:\\Work\\Apps\\stradesicure-master\\app\\src\\main\\res\\drawable-v21\\ic_notifications_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Work\\Apps\\stradesicure-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-v21\\avd_tick_to_cross.xml",
+        "source": "C:\\Work\\Apps\\stradesicure-master\\app\\src\\main\\res\\drawable-v21\\avd_tick_to_cross.xml"
+    },
+    {
+        "merged": "C:\\Work\\Apps\\stradesicure-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-v21\\selector_checkable.xml",
+        "source": "C:\\Work\\Apps\\stradesicure-master\\app\\src\\main\\res\\drawable-v21\\selector_checkable.xml"
+    },
+    {
+        "merged": "C:\\Work\\Apps\\stradesicure-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-v21\\avd_cross_to_tick.xml",
+        "source": "C:\\Work\\Apps\\stradesicure-master\\app\\src\\main\\res\\drawable-v21\\avd_cross_to_tick.xml"
+    },
+    {
+        "merged": "C:\\Work\\Apps\\stradesicure-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-v21\\ic_tick.xml",
+        "source": "C:\\Work\\Apps\\stradesicure-master\\app\\src\\main\\res\\drawable-v21\\ic_tick.xml"
+    },
+    {
+        "merged": "C:\\Work\\Apps\\stradesicure-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-v21\\selector_button.xml",
+        "source": "C:\\Work\\Apps\\stradesicure-master\\app\\src\\main\\res\\drawable-v21\\selector_button.xml"
+    },
+    {
+        "merged": "C:\\Work\\Apps\\stradesicure-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-v21\\button_background.xml",
+        "source": "C:\\Work\\Apps\\stradesicure-master\\app\\src\\main\\res\\drawable-v21\\button_background.xml"
+    },
+    {
+        "merged": "C:\\Work\\Apps\\stradesicure-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-v21\\ic_info_black_24dp.xml",
+        "source": "C:\\Work\\Apps\\stradesicure-master\\app\\src\\main\\res\\drawable-v21\\ic_info_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Work\\Apps\\stradesicure-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-v21\\selector_false.xml",
+        "source": "C:\\Work\\Apps\\stradesicure-master\\app\\src\\main\\res\\drawable-v21\\selector_false.xml"
+    },
+    {
+        "merged": "C:\\Work\\Apps\\stradesicure-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-v21\\answer_quiz_fab.xml",
+        "source": "C:\\Work\\Apps\\stradesicure-master\\app\\src\\main\\res\\drawable-v21\\answer_quiz_fab.xml"
+    },
+    {
+        "merged": "C:\\Work\\Apps\\stradesicure-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-v21\\ic_play.xml",
+        "source": "C:\\Work\\Apps\\stradesicure-master\\app\\src\\main\\res\\drawable-v21\\ic_play.xml"
+    },
+    {
+        "merged": "C:\\Work\\Apps\\stradesicure-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-v21\\selector_subtle.xml",
+        "source": "C:\\Work\\Apps\\stradesicure-master\\app\\src\\main\\res\\drawable-v21\\selector_subtle.xml"
+    },
+    {
+        "merged": "C:\\Work\\Apps\\stradesicure-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-v21\\selector_true.xml",
+        "source": "C:\\Work\\Apps\\stradesicure-master\\app\\src\\main\\res\\drawable-v21\\selector_true.xml"
+    },
+    {
+        "merged": "C:\\Work\\Apps\\stradesicure-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-v21\\ic_cross.xml",
+        "source": "C:\\Work\\Apps\\stradesicure-master\\app\\src\\main\\res\\drawable-v21\\ic_cross.xml"
+    },
+    {
+        "merged": "C:\\Work\\Apps\\stradesicure-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "C:\\Work\\Apps\\stradesicure-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Work\\Apps\\stradesicure-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-v21\\button_rect_normal.xml",
+        "source": "C:\\Work\\Apps\\stradesicure-master\\app\\build\\intermediates\\exploded-aar\\com.mikepenz\\aboutlibraries\\5.6.5\\res\\drawable-v21\\button_rect_normal.xml"
+    }
+]

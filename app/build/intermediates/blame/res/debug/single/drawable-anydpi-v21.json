@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Work\\Apps\\stradesicure-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_finish.xml",
+        "source": "C:\\Work\\Apps\\stradesicure-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_finish.xml"
+    },
+    {
+        "merged": "C:\\Work\\Apps\\stradesicure-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_previous.xml",
+        "source": "C:\\Work\\Apps\\stradesicure-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_previous.xml"
+    },
+    {
+        "merged": "C:\\Work\\Apps\\stradesicure-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_next.xml",
+        "source": "C:\\Work\\Apps\\stradesicure-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_next.xml"
+    },
+    {
+        "merged": "C:\\Work\\Apps\\stradesicure-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_skip.xml",
+        "source": "C:\\Work\\Apps\\stradesicure-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_skip.xml"
+    }
+]
