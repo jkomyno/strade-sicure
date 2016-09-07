@@ -1,0 +1,13 @@
+<!--suppress AndroidElementNotAllowed -->
+<transitionSet xmlns:android="http://schemas.android.com/apk/res/android"
+               android:interpolator="@android:interpolator/fast_out_slow_in"
+               android:duration="@integer/toolbar_transition_duration">
+
+    <changeBounds/>
+    <arcMotion android:maximumAngle="50"/>
+    <transition class="it.concorso.sanstino.stradesicure.widget.TextResizeTransition">
+        <targets>
+            <target android:targetId="@id/category_title"/>
+        </targets>
+    </transition>
+</transitionSet>

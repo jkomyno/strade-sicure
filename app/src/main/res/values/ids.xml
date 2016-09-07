@@ -1,0 +1,20 @@
+<resources>
+    <item name="submitAnswer" type="id" />
+    <item name="absQuizViewContainer" type="id" />
+    <item name="quiz_content" type="id" />
+    <item name="quiz_done" type="id" />
+    <item name="quiz_edit_text_two" type="id" />
+    <item name="solved" type="id" />
+
+    <item name="mi_frame" type="id"/>
+    <item name="mi_pager" type="id"/>
+    <item name="mi_pager_indicator" type="id"/>
+    <item name="mi_button_next" type="id"/>
+    <item name="mi_button_skip" type="id"/>
+
+    <item name="mi_title" type="id"/>
+    <item name="mi_description" type="id"/>
+    <item name="mi_button_grant_permissions" type="id"/>
+    <item name="mi_image" type="id"/>
+
+</resources>

@@ -1,0 +1,87 @@
+<resources>
+    <string name="app_name">Strade Sicure</string>
+    <string name="player_display_name">%1$s %2$s</string>
+    <string name="quiz_of_quizzes">%1$s / %2$s</string>
+    <string name="btn_true">Vero</string>
+    <string name="btn_false">Falso</string>
+    <string name="category">Cateogoria</string>
+    <string name="sign_out">Reset</string>
+    <string name="x_points">%1$d punti</string>
+    <string name="back">Indietro</string>
+
+    <!-- MENU -->
+
+    <string name="menu_go_to_quiz">VAI AL QUIZ</string>
+    <string name="menu_go_to_game">VAI AL GAME</string>
+    <string name="menu_go_to_site">VAI AL SITO</string>
+    <string name="menu_contact_us">CONTATTACI</string>
+    <string name="menu_go_to_settings">IMPOSTAZIONI</string>
+    <string name="menu_go_to_about">OPEN SOURCE</string>
+
+    <!-- END MENU -->
+
+    <!-- INTRO TUTORIAL -->
+
+    <string name="mi_content_description_skip">Salta</string>
+    <string name="mi_content_description_next">Prossimo</string>
+    <plurals name="mi_label_grant_permission">
+        <item quantity="one">Conferma permesso</item>
+        <item quantity="other">Conferma permessi</item>
+    </plurals>
+
+    <string name="intro_slide_bike_title">Educazione Stradale</string>
+    <string name="intro_slide_game_title">Gioco</string>
+    <string name="intro_slide_quiz_title">Quiz</string>
+    <string name="intro_slide_nointernet_title">Nessuna Connessione</string>
+    <string name="intro_slide_sanstino_title">S. Stino di Livenza</string>
+
+    <string name="intro_slide_bike_description">Impara le norme della strada giocando e divertendoti</string>
+    <string name="intro_slide_game_description">Divertiti guidando vari mezzi di trasporto</string>
+    <string name="intro_slide_quiz_description">Approfondisci e pondera la tua conoscenza</string>
+    <string name="intro_slide_nointernet_description">Gioca senza consumare dati</string>
+    <string name="intro_slide_sanstino_description">Applicazione finalizzata alla sensibilizzazione dei giovani in ambito di sicurezza stradale</string>
+    <string name="title_activity_settings">Impostazioni</string>
+
+    <!-- END INTRO TUTORIAL -->
+
+    <!-- SETTINGS -->
+
+    <!-- Main Entries -->
+    <string name="pref_header_general">Generale</string>
+    <string name="pref_header_info">Informazioni</string>
+
+    <!-- General Entries -->
+    <string name="pref_title_splash_enable">Abilita animazioni splash</string>
+    <string name="pref_description_splash_enable">Consente la visualizzazione dinamica della schermata d\'avvio iniziale</string>
+
+    <string name="pref_title_splash_duration">Durata splash</string>
+    <string-array name="pref_titles_splash_duration">
+        <item>2 secondi</item>
+        <item>3 secondi</item>
+        <item>4 secondi</item>
+        <item>5 secondi</item>
+    </string-array>
+    <string-array name="pref_values_splash_duration">
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+
+    <string name="pref_title_tutorial_enable">Abilita tutorial</string>
+    <string name="pref_description_tutorial_enable">Mostra il tutorial iniziale ad ogni avvio</string>
+
+    <string name="pref_title_share_app">Condividi l\'app coi tuoi amici!</string>
+    <string name="pref_title_launch_tutorial">Avvia il tutorial</string>
+    <!-- Info Entries -->
+
+    <!-- END SETTINGS -->
+
+    <!-- ABOUT -->
+
+    <string name="aboutLibraries_description_showIcon">true</string>
+    <string name="aboutLibraries_description_showVersion">true</string>
+    <string name="aboutLibraries_description_text">Quest\'applicazione usa le seguenti librerie:</string>
+
+    <!-- END ABOUT -->
+</resources>

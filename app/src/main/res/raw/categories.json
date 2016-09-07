@@ -1,0 +1,570 @@
+[
+  {
+    "name": "Primi passi",
+    "id": "first",
+    "theme": "blue",
+    "quizzes": [
+      {
+        "type": "single-select-item",
+        "question": "Che cos'è la strada?",
+        "options": [
+          "Uno spazio per giocare",
+          "Uno spazio riservato ai veicoli e ai pedoni",
+          "Uno spazio riservato ai pedoni",
+          "Una tipologia particolare di parco"
+        ],
+        "answer": [1]
+      },
+      {
+        "type": "single-select-item",
+        "question": "Che cos'è la carreggiata?",
+        "options": [
+          "Uno spazio riservato ai carri",
+          "Uno spazio riservato ai veicoli",
+          "Uno spazio per andare con il monopattino",
+          "Uno spazio riservato alle biciclette"
+        ],
+        "answer": [1]
+      },
+      {
+        "type": "true-false",
+        "question": "Un percorso può essere riservato contemporaneamente a pedoni e biciclette.",
+        "answer": true
+      },
+      {
+        "type": "single-select-item",
+        "question": "Da chi può essere utilizzato il marciapiede?",
+        "options": [
+          "Dai ciclisti così sono più sicuri",
+          "Dagli automobilisti",
+          "Dai pedoni",
+          "Dai caravan"
+        ],
+        "answer": [2]
+      },
+      {
+        "type": "single-select-item",
+        "question": "Chi è il pedone?",
+        "options": [
+          "Un bambino che va in bicicletta",
+          "Un adulto che ha i piedi molto grandi",
+          "Chi circola sulla strada a piedi",
+          "Chi circola sulla strada in bici"
+        ],
+        "answer": [2]
+      },
+      {
+        "type": "true-false",
+        "question": "Le auto non possono transitare nei parchi pubblici.",
+        "answer": true
+      },
+      {
+        "type": "single-select-item",
+        "question": "La funzione principale del vigile è ...?",
+        "options": [
+          "Dirigere il traffico dei veicoli e dei pedoni",
+          "Dare le multe",
+          "Arrestare i pedoni",
+          "Pulire le strade"
+        ],
+        "answer": [0]
+      },
+      {
+        "type": "single-select",
+        "question": "Quali parti deve avere la bicicletta per circolare in sicurezza sulla strada?",
+        "options": [
+          "Basta il fanale bianco o giallo davanti",
+          "Il campanello, il fanale bianco o giallo davanti, il fanale rosso dietro e i catarifrangenti",
+          "Solo il campanello",
+          "Catena e ruote funzionanti"
+        ],
+        "answer": [1]
+      },
+      {
+        "type": "picker",
+        "question": "In caso di incidente stradale, quale numero devi chiamare per il soccorso ai feriti?",
+        "min": 112,
+        "max": 122,
+        "answer": 118
+      },
+      {
+        "type": "true-false",
+        "question": "I dissuasori servono per incentivare le corse automobilistiche in città.",
+        "answer": false
+      }
+    ],
+    "scores": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "solved": "false"
+  },
+  {
+    "name": "Segnaletica",
+    "id": "second",
+    "theme": "red",
+    "quizzes": [
+      {
+        "type": "multi-select",
+        "question": "Cosa bisogna fare prima di attraversare la strada?",
+        "options": [
+          "Verificare l'assenza di vento",
+          "Verificare che non vi siano auto in transito",
+          "Telefonare alla mamma per avvisarla che si sta tornando a casa",
+          "Cercare le strisce pedonali più vicine",
+          "Prepararsi a correre per attraversarla",
+          "Guardare a destra e a sinistra",
+          "Nessuna delle precedenti"
+        ],
+        "answer": [
+          1,
+          3,
+          5
+        ]
+      },
+      {
+        "type": "single-select",
+        "question": "Che cosa indicano i cartelli triangolari?",
+        "options": [
+          "Un'informazione",
+          "Un divieto",
+          "Un obbligo",
+          "Una segnalazione di pericolo"
+        ],
+        "answer": [3]
+      },
+      {
+        "type": "true-false",
+        "question": "I cartelli rotondi blu indicano un obbligo",
+        "answer": true
+      },
+      {
+        "type": "single-select",
+        "question": "Che cosa indicano i cartelli rotondi bordati di rosso?",
+        "options": [
+          "Un'informazione",
+          "Un divieto",
+          "Un obbligo",
+          "Una segnalazione di pericolo"
+        ],
+        "answer": [1]
+      },
+      {
+        "type": "multi-select",
+        "question": "A cosa serve il segnale di stop e com'è fatto?",
+        "options": [
+          "È rappresentato da un triangolo rosso",
+          "È rappresentato da un ottagono rosso",
+          "Obbliga a fermarsi",
+          "Indica di rallentare",
+          "Consente di risparmiare benzina",
+          "Indica di dare la precedenza sia a destra che a sinistra",
+          "Serve per non rischiare la multa con gli autovelox"
+        ],
+        "answer": [
+          1,
+          2,
+          5
+        ]
+      },
+      {
+        "type": "single-select-item",
+        "question": "A cosa serve la segnaletica stradale?",
+        "options": [
+          "Ad abbellire e colorare le strade",
+          "A mostrare pubblicità",
+          "A rendere complicata la vita dei pedoni",
+          "A far rispettare il codice della strada"
+        ],
+        "answer": [3]
+      },
+      {
+        "type": "true-false",
+        "question": "Esiste un segnale appositamente dedicato alle aree di sosta degli autobus.",
+        "answer": true
+      },
+      {
+        "type": "true-false",
+        "question": "In autostrada ci sono gli stessi cartelli presenti in centro storico.",
+        "answer": false
+      },
+      {
+        "type": "multi-select",
+        "question": "Com'è fatto il cartello che impone di dare la precedenza?",
+        "options": [
+          "Triangolare",
+          "Triangolare ma al contrario",
+          "Quadrato ruotato di 45 gradi",
+          "Bianco col bordo rosso",
+          "Giallo col bordo bianco",
+          "Rosso col bordo bianco"
+        ],
+        "answer": [
+          1,
+          3
+        ]
+      },
+      {
+        "type": "true-false",
+        "question": "Come esiste il limite di velocità massima, esistono anche cartelli che limitano la velocità minima di un veicolo.",
+        "answer": true
+      }
+    ],
+    "scores": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "solved": "false"
+  },
+  {
+    "name": "Generali",
+    "id": "third",
+    "theme": "purple",
+    "quizzes": [
+      {
+        "type": "true-false",
+        "question": "Quando sei alla fermata di un autobus devi aspettare che si fermi prima di muoverti per salirci.",
+        "answer": true
+      },
+      {
+        "type": "true-false",
+        "question": "Parlare al conducente può essere per lui motivo di distrazione, ed è dunque sconsigliato.",
+        "answer": true
+      },
+      {
+        "type": "single-select",
+        "question": "Cos'è opportuno fare nei pressi di un passaggio a livello con le barriere che si stanno abbassando?",
+        "options": [
+          "Affrettare il passo e attraversarlo prima che le sbarre scendano completamente",
+          "Aspettare che le sbarre scendano e scavalcarle",
+          "Aspettare che le sbarre scendano, che il treno passi, e che le sbarre si rialzino per poter attraversare",
+          "Aspetto in mezzo alle rotaie, tanto il treno può frenare"
+        ],
+        "answer": [2]
+      },
+      {
+        "type": "true-false",
+        "question": "Le cinture di sicurezza devono sempre essere allacciate, sia per i passeggeri sui sedili anteriori che posteriori.",
+        "answer": true
+      },
+      {
+        "type": "picker",
+        "question": "Dopo che età potrai farti il patentino per i 50cc?",
+        "min": 14,
+        "max": 18,
+        "answer": 14
+      },
+      {
+        "type": "true-false",
+        "question": "E’ maleducato cedere il posto alle persone anziane o a quelle invalide o a quelle che si trovano in difficoltà.",
+        "answer": false
+      },
+      {
+        "type": "multi-select",
+        "question": "Cos'è opportuno fare quando si cammina in un marciapiede?",
+        "options": [
+          "Riprodurre musica ad alto volume dallo smartphone",
+          "Fare a gara a chi schiva meglio i passanti",
+          "Procedere senza disturbare",
+          "Fissare le altre persone",
+          "Evitare di correre se può infastidire qualcuno",
+          "Lanciare rifiuti per terra"
+        ],
+        "answer": [
+          2,
+          4
+        ]
+      },
+      {
+        "type": "picker",
+        "question": "Dopo che età potrai farti la patente?",
+        "min": 14,
+        "max": 21,
+        "answer": 18
+      },
+      {
+        "type": "true-false",
+        "question": "L’autobus è a volte in ritardo, per cui, prima si lasciano salire i passeggeri e solamente dopo si lasciano scendere.",
+        "answer": false
+      },
+      {
+        "type": "true-false",
+        "question": "Quando sei sceso dall’autobus, per attraversare la carreggiata puoi passare davanti al mezzo pubblico.",
+        "answer": false
+      }
+    ],
+    "scores": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "solved": "false"
+  },
+  {
+    "name": "Bicicletta",
+    "id": "fourth",
+    "theme": "green",
+    "quizzes": [
+      {
+        "type": "true-false",
+        "question": "Quando sei in bicicletta puoi circolare sulle autostrade e sulle superstrade.",
+        "answer": false
+      },
+      {
+        "type": "true-false",
+        "question": "Non è prudente guidare la bicicletta su una ruota sola , si rischia di cadere e farsi male.",
+        "answer": true
+      },
+      {
+        "type": "true-false",
+        "question": "Quando sei sulla tua bicicletta puoi viaggiare sia sul lato destro della strada che sul lato sinistro.",
+        "answer": false
+      },
+      {
+        "type": "true-false",
+        "question": "Per poter attraversare le strisce pedonali è necessario scendere dalla bicicletta, in quanto veicolo.",
+        "answer": true
+      },
+      {
+        "type": "true-false",
+        "question": "Dove sono disponibili è doveroso utilizzare sempre le piste ciclabili.",
+        "answer": true
+      },
+      {
+        "type": "true-false",
+        "question": "Quando guidi la tua bicicletta puoi tranquillamente condurre il tuo cane e farti trainare.",
+        "answer": false
+      },
+      {
+        "type": "picker",
+        "question": "Qual è la velocità media in bicicletta (in pianura)?",
+        "min": 5,
+        "max": 35,
+        "answer": 20
+      },
+      {
+        "type": "true-false",
+        "question": "Se si è in possesso della patente, non è più consentito andare in bicicletta nel centro storico.",
+        "answer": false
+      },
+      {
+        "type": "true-false",
+        "question": "Sulla pista ciclabile possono circolare anche i ciclomotori e i pedoni.",
+        "answer": false
+      },
+      {
+        "type": "true-false",
+        "question": "Il casco in bicicletta non è mai obbligatorio.",
+        "answer": false
+      }
+    ],
+    "scores": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "solved": "false"
+  },
+  {
+    "name": "Motocicletta",
+    "id": "fifth",
+    "theme": "orange",
+    "quizzes": [
+      {
+        "type": "picker",
+        "question": "Con la patente A2, è possibile guidare moto con potenza fino a quanti KW?",
+        "min": 20,
+        "max": 40,
+        "answer": 35
+      },
+      {
+        "type": "true-false",
+        "question": "Durante la marcia dei ciclomotori è sempre obbligatorio l'uso dei proiettori a luce anabbagliante, in ogni condizione di tempo.",
+        "answer": true
+      },
+      {
+        "type": "true-false",
+        "question": "I tombini presenti sulla carreggiata sono un elemento stradale che può essere pericoloso per la circolazione dei veicoli a due ruote",
+        "answer": true
+      },
+      {
+        "type": "true-false",
+        "question": "Durante la marcia dei ciclomotori è obbligatorio l'uso dei proiettori a luce anabbagliante solo di notte.",
+        "answer": false
+      },
+      {
+        "type": "picker",
+        "question": "A che età è possibile guidare motocicli di cilindrata 125cc?",
+        "min": 14,
+        "max": 21,
+        "answer": 16
+      },
+      {
+        "type": "true-false",
+        "question": "I conducenti degli autoveicoli, nell'aprire le portiere, devono prestare particolare attenzione ai veicoli a motore a due ruote, in quanto meno visibili",
+        "answer": true
+      },
+      {
+        "type": "picker",
+        "question": "A che età è possibile guidare motocicli di cilindrata 50cc?",
+        "min": 12,
+        "max": 18,
+        "answer": 14
+      },
+      {
+        "type": "picker",
+        "question": "A che età è possibile ottenere la patente A2?",
+        "min": 14,
+        "max": 21,
+        "answer": 18
+      },
+      {
+        "type": "single-select",
+        "question": "Guidare un ciclomotore o motociclo senza casco cosa comporta?",
+        "options": [
+          "Decurtamento di 3 punti dalla patente",
+          "149€ di multa",
+          "Decurtamento di 3 punti dalla patente e 79€ di multa",
+          "Decurtamento di 5 punti dalla patente"
+        ],
+        "answer": [3]
+      },
+      {
+        "type": "picker",
+        "question": "Qual è il limite di velocità massimo nelle autostrade?",
+        "min": 100,
+        "max": 150,
+        "answer": 130
+      }
+    ],
+    "scores": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "solved": "false"
+  },
+  {
+    "name": "Auto",
+    "id": "sixth",
+    "theme": "yellow",
+    "quizzes": [
+      {
+        "type": "true-false",
+        "question": "Le persone che soffrono di particolari malattie certificate non sono tenute ad agganciare la cintura di sicurezza.",
+        "answer": true
+      },
+      {
+        "type": "true-false",
+        "question": "È vietato condurre un autoveicolo sulle strade pubbliche quando non si possiede la patente di guida necessaria per quel tipo di veicolo.",
+        "answer": true
+      },
+      {
+        "type": "picker",
+        "question": "Qual è il limite di velocità massimo nei centri abitati?",
+        "min": 30,
+        "max": 70,
+        "answer": 50
+      },
+      {
+        "type": "true-false",
+        "question": "In un centro abitato, bisogna considerare che i pedoni e i diversamente abili devono sempre dare la precedenza ai veicoli a motore.",
+        "answer": false
+      },
+      {
+        "type": "true-false",
+        "question": "La striscia bianca tratteggiata di mezzo permette la manovra di sorpasso.",
+        "answer": true
+      },
+      {
+        "type": "picker",
+        "question": "Qual è il limite di velocità massimo nelle strade extraurbane principali?",
+        "min": 90,
+        "max": 110,
+        "answer": 110
+      },
+      {
+        "type": "true-false",
+        "question": "Il conducente coinvolto in un incidente stradale non ha l’obbligo di fermarsi e di prestare assistenza agli eventuali feriti.",
+        "answer": false
+      },
+      {
+        "type": "single-select",
+        "question": "Se il limite di velocità viene superato di non oltre 10 km/h la sanzione amministrativa prevede il pagamento di una somma ...",
+        "options": [
+          "Da euro 49 a euro 129",
+          "Da euro 39 a euro 159",
+          "Da euro 159 a euro 339",
+          "Da euro 59 a euro 179 e il decurtamento di 3 punti sulla patente"
+        ],
+        "answer": [1]
+      },
+      {
+        "type": "true-false",
+        "question": "Durante la marcia per file parallele è consentito cambiare corsia solo per effettuare manovre di svolta.",
+        "answer": true
+      },
+      {
+        "type": "single-select",
+        "question": "Se il limite di velocità viene superato di non oltre 60 km/h la sanzione amministrativa prevede il pagamento di una somma ...",
+        "options": [
+          "Da euro 750 a euro 2.500",
+          "Da euro 500 a euro 2.000, il decurtamento di 3 punti sulla patente e la sospensione temporanea della patente",
+          "Da euro 500 a euro 2.000, il decurtamento di 5 punti sulla patente e la sospensione temporanea della patente",
+          "Da euro 750 a euro 2.500 e il decurtamento di 3 punti sulla patente"
+        ],
+        "answer": [2]
+      }
+    ],
+    "scores": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "solved": "false"
+  }
+]

@@ -1,0 +1,25 @@
+<resources>
+    <style name="StradeSicure" parent="StradeSicure.Base">
+        <item name="android:windowDrawsSystemBarBackgrounds">true</item>
+        <item name="android:windowContentTransitions">true</item>
+        <item name="android:actionOverflowButtonStyle">@style/Topeka.ActionButton</item>
+    </style>
+
+    <style name="StradeSicure.CategorySelectionActivity">
+        <item name="android:windowSharedElementEnterTransition">
+            @transition/category_shared_enter
+        </item>
+        <item name="android:windowEnterTransition">@transition/category_enter</item>
+        <item name="android:windowExitTransition">@transition/category_exit</item>
+        <item name="android:windowBackground">@color/color_blank</item>
+    </style>
+
+    <style name="StradeSicure.QuizActivity">
+        <item name="android:windowSharedElementEnterTransition">@transition/quiz_shared_enter</item>
+    </style>
+
+    <style name="Topeka.ActionButton" parent="Widget.AppCompat.ActionButton.Overflow">
+        <item name="android:tint">@color/light_grey</item>
+    </style>
+
+</resources>

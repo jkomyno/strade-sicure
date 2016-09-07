@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Work\Apps\stradesicure-master\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="C:\Work\Apps\stradesicure-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.0_655b94fa7c3af20019f3e8dadd5836b1d73d34a8.jar" />
+    </item>
+    <item
+        jar="C:\Work\Apps\stradesicure-master\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="C:\Work\Apps\stradesicure-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.0_4d9f8d69f6b30622796c49f2d496c37fa59ffa07.jar" />
+    </item>
+    <item
+        jar="C:\Work\Apps\stradesicure-master\app\build\intermediates\exploded-aar\com.mikepenz\aboutlibraries\5.6.5\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="5f85a8a551abf8b5c52b1efe1f1e02821c96afa6">
+        <dex dex="C:\Work\Apps\stradesicure-master\app\build\intermediates\pre-dexed\debug\com.mikepenz-aboutlibraries-5.6.5_bb0cd7d420d263cf64cb08e34f6c85ae0832ed81.jar" />
+    </item>
+    <item
+        jar="C:\Work\Apps\stradesicure-master\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="C:\Work\Apps\stradesicure-master\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_5ac1bf0e3a700ecbb3a8828ccc1ab7d4277297c1.jar" />
+    </item>
+    <item
+        jar="C:\Work\Apps\stradesicure-master\app\build\intermediates\exploded-aar\com.mikepenz\fastadapter\1.4.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="4c5bfb989e99b9308bcbe7ad2dfd56fa81e63440">
+        <dex dex="C:\Work\Apps\stradesicure-master\app\build\intermediates\pre-dexed\debug\com.mikepenz-fastadapter-1.4.1_fc86952d94067b4753eee260749515ccc975a45a.jar" />
+    </item>
+    <item
+        jar="C:\Work\Apps\stradesicure-master\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="C:\Work\Apps\stradesicure-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.0_e912d31aef324b57abcbea02d69cf767cfd4a538.jar" />
+    </item>
+    <item
+        jar="C:\Work\Apps\stradesicure-master\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="C:\Work\Apps\stradesicure-master\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.0_2563ad72b01e5e0d856f187da5bf5c28a8ee8cd6.jar" />
+    </item>
+    <item
+        jar="C:\Work\Apps\stradesicure-master\app\build\intermediates\exploded-aar\com.android.support\design\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="23eb0d2998a782213b56168cbf23a0688b9111d9">
+        <dex dex="C:\Work\Apps\stradesicure-master\app\build\intermediates\pre-dexed\debug\com.android.support-design-24.2.0_ce166a119d92d49ba584e6ea17c820387c980e61.jar" />
+    </item>
+    <item
+        jar="C:\Work\Apps\stradesicure-master\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="C:\Work\Apps\stradesicure-master\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_830dc0a04683d3b818edaa05d21897a55550c88f.jar" />
+    </item>
+    <item
+        jar="C:\Work\Apps\stradesicure-master\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="C:\Work\Apps\stradesicure-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.0_57e5626e5ddc23f43f5a5e97b90c9e00a6525bfa.jar" />
+    </item>
+    <item
+        jar="C:\Work\Apps\stradesicure-master\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="af71198f6d62bc16b6df529ffa675c0cdfd33798">
+        <dex dex="C:\Work\Apps\stradesicure-master\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_3a52cdc751df80e05f8ce8370349b64854bef53e.jar" />
+    </item>
+    <item
+        jar="C:\Work\Apps\stradesicure-master\app\build\intermediates\exploded-aar\com.android.support.test.espresso\espresso-idling-resource\2.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="83e81537012f1975aa902eedbdb8da5aa515aea5">
+        <dex dex="C:\Work\Apps\stradesicure-master\app\build\intermediates\pre-dexed\debug\com.android.support.test.espresso-espresso-idling-resource-2.2.1_3f2725e08addeeb16411af6b26d5ecb90a1b06cc.jar" />
+    </item>
+    <item
+        jar="C:\Work\Apps\stradesicure-master\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="C:\Work\Apps\stradesicure-master\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_02bf19595b083812fbacee763312531b8edf470d.jar" />
+    </item>
+    <item
+        jar="C:\Work\Apps\stradesicure-master\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="C:\Work\Apps\stradesicure-master\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_82ed480bef7088d2ae4183c93630d16deebade9e.jar" />
+    </item>
+    <item
+        jar="C:\Work\Apps\stradesicure-master\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="c755536e5a100d9c76c8ea0b72f76c018f7a9de2">
+        <dex dex="C:\Work\Apps\stradesicure-master\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-24.2.0_be0da8651846810cb96d0d80a1637aa772694478.jar" />
+    </item>
+    <item
+        jar="C:\Work\Apps\stradesicure-master\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="C:\Work\Apps\stradesicure-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.0_960ffbe8ab6042c02473d2b9ee08ce37482b32c3.jar" />
+    </item>
+    <item
+        jar="C:\Work\Apps\stradesicure-master\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="d93433923f9b8f746fe75219fdc54be4818cc7fe">
+        <dex dex="C:\Work\Apps\stradesicure-master\app\build\intermediates\pre-dexed\debug\instant-run_250f412510fdf60e0323e1c18f8216dfa3bd704f.jar" />
+    </item>
+    <item
+        jar="C:\Users\jkomyno\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.0\support-annotations-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="C:\Work\Apps\stradesicure-master\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.0_5c92f903d0d36e9bd71ed6c903fdf0becf6018e3.jar" />
+    </item>
+    <item
+        jar="C:\Users\jkomyno\AppData\Local\Android\Sdk\build-tools\24.0.2\renderscript\lib\renderscript-v8.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="05668b8cd6c7b07f152b6a5b4c6cff620817ba0f">
+        <dex dex="C:\Work\Apps\stradesicure-master\app\build\intermediates\pre-dexed\debug\renderscript-v8_ea066289e26f478679b2ebe67268ce7834cff67a.jar" />
+    </item>
+    <item
+        jar="C:\Work\Apps\stradesicure-master\app\libs\unity-classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="2f07f600bd717d8e5e311673fb7f82a46afa6bb4">
+        <dex dex="C:\Work\Apps\stradesicure-master\app\build\intermediates\pre-dexed\debug\unity-classes_f2e55b5e227adaa58ee50f82620780aae6be324d.jar" />
+    </item>
+    <item
+        jar="C:\Work\Apps\stradesicure-master\app\build\intermediates\exploded-aar\com.mikepenz\iconics-core\2.5.11\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="98a135c7935e62ac041acc1fcb148973bde828d5">
+        <dex dex="C:\Work\Apps\stradesicure-master\app\build\intermediates\pre-dexed\debug\com.mikepenz-iconics-core-2.5.11_e615d86622624f629eec40be2aba58deae77141c.jar" />
+    </item>
+    <item
+        jar="C:\Work\Apps\stradesicure-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="C:\Work\Apps\stradesicure-master\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.0_512b19e023883aaefccbe7c585f016f45f395739.jar" />
+    </item>
+    <item
+        jar="C:\Work\Apps\stradesicure-master\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="C:\Work\Apps\stradesicure-master\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_9013aa64e59ce515447c428f1edb36c0af16156a.jar" />
+    </item>
+    <item
+        jar="C:\Work\Apps\stradesicure-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="C:\Work\Apps\stradesicure-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.0_06b840f59cb8ae71748c77c763d5b15589920f60.jar" />
+    </item>
+    <item
+        jar="C:\Work\Apps\stradesicure-master\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="96e33a7aaee00ab64270e2a9887b8f9ef32c8b73">
+        <dex dex="C:\Work\Apps\stradesicure-master\app\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-24.2.0_5fd040badc63a2160b7e5395a37db637c1eaf6b1.jar" />
+    </item>
+    <item
+        jar="C:\Work\Apps\stradesicure-master\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="C:\Work\Apps\stradesicure-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.0_857f077337dd892ff0239a6e6f1cdc235d49180c.jar" />
+    </item>
+
+</items>

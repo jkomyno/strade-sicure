@@ -1,0 +1,51 @@
+Applications Memory Usage (kB):
+Uptime: 748898 Realtime: 748898
+
+** MEMINFO in pid 4723 [it.sanstino.stradesicure] **
+                   Pss  Private  Private  Swapped     Heap     Heap     Heap
+                 Total    Dirty    Clean    Dirty     Size    Alloc     Free
+                ------   ------   ------   ------   ------   ------   ------
+  Native Heap    17989    17920        0        0    76096    73714     2381
+  Dalvik Heap    31605    31568        0        0    37286    34226     3060
+ Dalvik Other      805      804        0        0                           
+        Stack      444      444        0        0                           
+       Ashmem        8        0        0        0                           
+    Other dev        4        0        4        0                           
+     .so mmap    10360      380     8860        0                           
+    .apk mmap      506        0      164        0                           
+    .ttf mmap      104        0       68        0                           
+    .dex mmap     3916      140     3776        0                           
+    .oat mmap     2301        0      608        0                           
+    .art mmap     1304      928        0        0                           
+   Other mmap       34        8        0        0                           
+      Unknown     2613     2612        0        0                           
+        TOTAL    71993    54804    13480        0   113382   107940     5441
+ 
+ App Summary
+                       Pss(KB)
+                        ------
+           Java Heap:    32496
+         Native Heap:    17920
+                Code:    13996
+               Stack:      444
+            Graphics:        0
+       Private Other:     3428
+              System:     3709
+ 
+               TOTAL:    71993      TOTAL SWAP (KB):        0
+ 
+ Objects
+               Views:      129         ViewRootImpl:        2
+         AppContexts:        4           Activities:        3
+              Assets:        2        AssetManagers:        2
+       Local Binders:       16        Proxy Binders:       21
+       Parcel memory:        5         Parcel count:       21
+    Death Recipients:        0      OpenSSL Sockets:        0
+ 
+ SQL
+         MEMORY_USED:      124
+  PAGECACHE_OVERFLOW:       44          MALLOC_SIZE:       62
+ 
+ DATABASES
+      pgsz     dbsz   Lookaside(b)          cache  Dbname
+         4       36             59        15/18/4  /data/user/0/it.sanstino.stradesicure/databases/stradesicure.db

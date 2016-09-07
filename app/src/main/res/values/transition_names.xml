@@ -1,0 +1,4 @@
+<resources>
+    <string name="transition_toolbar">ToolbarTransition</string>
+    <string name="transition_avatar">AvatarTransition</string>
+</resources>
