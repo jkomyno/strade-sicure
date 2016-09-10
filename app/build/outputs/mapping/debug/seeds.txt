@@ -9,7 +9,6 @@ android.support.design.R$anim: int abc_slide_in_bottom
 android.support.design.R$anim: int abc_slide_in_top
 android.support.design.R$anim: int abc_slide_out_bottom
 android.support.design.R$anim: int abc_slide_out_top
-android.support.design.R$anim: int design_appbar_state_list_animator
 android.support.design.R$anim: int design_bottom_sheet_slide_in
 android.support.design.R$anim: int design_bottom_sheet_slide_out
 android.support.design.R$anim: int design_fab_in
@@ -55,7 +54,6 @@ android.support.design.R$attr: int alertDialogCenterButtons
 android.support.design.R$attr: int alertDialogStyle
 android.support.design.R$attr: int alertDialogTheme
 android.support.design.R$attr: int allowStacking
-android.support.design.R$attr: int alpha
 android.support.design.R$attr: int arrowHeadLength
 android.support.design.R$attr: int arrowShaftLength
 android.support.design.R$attr: int autoCompleteTextViewStyle
@@ -65,11 +63,9 @@ android.support.design.R$attr: int backgroundStacked
 android.support.design.R$attr: int backgroundTint
 android.support.design.R$attr: int backgroundTintMode
 android.support.design.R$attr: int barLength
-android.support.design.R$attr: int behavior_autoHide
 android.support.design.R$attr: int behavior_hideable
 android.support.design.R$attr: int behavior_overlapTop
 android.support.design.R$attr: int behavior_peekHeight
-android.support.design.R$attr: int behavior_skipCollapsed
 android.support.design.R$attr: int borderWidth
 android.support.design.R$attr: int borderlessButtonStyle
 android.support.design.R$attr: int bottomSheetDialogTheme
@@ -79,7 +75,6 @@ android.support.design.R$attr: int buttonBarNegativeButtonStyle
 android.support.design.R$attr: int buttonBarNeutralButtonStyle
 android.support.design.R$attr: int buttonBarPositiveButtonStyle
 android.support.design.R$attr: int buttonBarStyle
-android.support.design.R$attr: int buttonGravity
 android.support.design.R$attr: int buttonPanelSideLayout
 android.support.design.R$attr: int buttonStyle
 android.support.design.R$attr: int buttonStyleSmall
@@ -95,7 +90,6 @@ android.support.design.R$attr: int collapsedTitleGravity
 android.support.design.R$attr: int collapsedTitleTextAppearance
 android.support.design.R$attr: int color
 android.support.design.R$attr: int colorAccent
-android.support.design.R$attr: int colorBackgroundFloating
 android.support.design.R$attr: int colorButtonNormal
 android.support.design.R$attr: int colorControlActivated
 android.support.design.R$attr: int colorControlHighlight
@@ -105,11 +99,9 @@ android.support.design.R$attr: int colorPrimaryDark
 android.support.design.R$attr: int colorSwitchThumbNormal
 android.support.design.R$attr: int commitIcon
 android.support.design.R$attr: int contentInsetEnd
-android.support.design.R$attr: int contentInsetEndWithActions
 android.support.design.R$attr: int contentInsetLeft
 android.support.design.R$attr: int contentInsetRight
 android.support.design.R$attr: int contentInsetStart
-android.support.design.R$attr: int contentInsetStartWithNavigation
 android.support.design.R$attr: int contentScrim
 android.support.design.R$attr: int controlBackground
 android.support.design.R$attr: int counterEnabled
@@ -176,8 +168,6 @@ android.support.design.R$attr: int layout_anchorGravity
 android.support.design.R$attr: int layout_behavior
 android.support.design.R$attr: int layout_collapseMode
 android.support.design.R$attr: int layout_collapseParallaxMultiplier
-android.support.design.R$attr: int layout_dodgeInsetEdges
-android.support.design.R$attr: int layout_insetEdge
 android.support.design.R$attr: int layout_keyline
 android.support.design.R$attr: int layout_scrollFlags
 android.support.design.R$attr: int layout_scrollInterpolator
@@ -185,7 +175,6 @@ android.support.design.R$attr: int listChoiceBackgroundIndicator
 android.support.design.R$attr: int listDividerAlertDialog
 android.support.design.R$attr: int listItemLayout
 android.support.design.R$attr: int listLayout
-android.support.design.R$attr: int listMenuViewStyle
 android.support.design.R$attr: int listPopupWindowStyle
 android.support.design.R$attr: int listPreferredItemHeight
 android.support.design.R$attr: int listPreferredItemHeightLarge
@@ -208,11 +197,6 @@ android.support.design.R$attr: int paddingStart
 android.support.design.R$attr: int panelBackground
 android.support.design.R$attr: int panelMenuListTheme
 android.support.design.R$attr: int panelMenuListWidth
-android.support.design.R$attr: int passwordToggleContentDescription
-android.support.design.R$attr: int passwordToggleDrawable
-android.support.design.R$attr: int passwordToggleEnabled
-android.support.design.R$attr: int passwordToggleTint
-android.support.design.R$attr: int passwordToggleTintMode
 android.support.design.R$attr: int popupMenuStyle
 android.support.design.R$attr: int popupTheme
 android.support.design.R$attr: int popupWindowStyle
@@ -228,8 +212,6 @@ android.support.design.R$attr: int ratingBarStyleIndicator
 android.support.design.R$attr: int ratingBarStyleSmall
 android.support.design.R$attr: int reverseLayout
 android.support.design.R$attr: int rippleColor
-android.support.design.R$attr: int scrimAnimationDuration
-android.support.design.R$attr: int scrimVisibleHeightTrigger
 android.support.design.R$attr: int searchHintIcon
 android.support.design.R$attr: int searchIcon
 android.support.design.R$attr: int searchViewStyle
@@ -248,11 +230,8 @@ android.support.design.R$attr: int splitTrack
 android.support.design.R$attr: int srcCompat
 android.support.design.R$attr: int stackFromEnd
 android.support.design.R$attr: int state_above_anchor
-android.support.design.R$attr: int state_collapsed
-android.support.design.R$attr: int state_collapsible
 android.support.design.R$attr: int statusBarBackground
 android.support.design.R$attr: int statusBarScrim
-android.support.design.R$attr: int subMenuArrow
 android.support.design.R$attr: int submitBackground
 android.support.design.R$attr: int subtitle
 android.support.design.R$attr: int subtitleTextAppearance
@@ -283,7 +262,6 @@ android.support.design.R$attr: int textAllCaps
 android.support.design.R$attr: int textAppearanceLargePopupMenu
 android.support.design.R$attr: int textAppearanceListItem
 android.support.design.R$attr: int textAppearanceListItemSmall
-android.support.design.R$attr: int textAppearancePopupMenuHeader
 android.support.design.R$attr: int textAppearanceSearchResultSubtitle
 android.support.design.R$attr: int textAppearanceSearchResultTitle
 android.support.design.R$attr: int textAppearanceSmallPopupMenu
@@ -293,14 +271,8 @@ android.support.design.R$attr: int textColorSearchUrl
 android.support.design.R$attr: int theme
 android.support.design.R$attr: int thickness
 android.support.design.R$attr: int thumbTextPadding
-android.support.design.R$attr: int thumbTint
-android.support.design.R$attr: int thumbTintMode
-android.support.design.R$attr: int tickMark
-android.support.design.R$attr: int tickMarkTint
-android.support.design.R$attr: int tickMarkTintMode
 android.support.design.R$attr: int title
 android.support.design.R$attr: int titleEnabled
-android.support.design.R$attr: int titleMargin
 android.support.design.R$attr: int titleMarginBottom
 android.support.design.R$attr: int titleMarginEnd
 android.support.design.R$attr: int titleMarginStart
@@ -313,8 +285,6 @@ android.support.design.R$attr: int toolbarId
 android.support.design.R$attr: int toolbarNavigationButtonStyle
 android.support.design.R$attr: int toolbarStyle
 android.support.design.R$attr: int track
-android.support.design.R$attr: int trackTint
-android.support.design.R$attr: int trackTintMode
 android.support.design.R$attr: int useCompatPadding
 android.support.design.R$attr: int voiceIcon
 android.support.design.R$attr: int windowActionBar
@@ -328,13 +298,15 @@ android.support.design.R$attr: int windowMinWidthMajor
 android.support.design.R$attr: int windowMinWidthMinor
 android.support.design.R$attr: int windowNoTitle
 android.support.design.R$bool: int abc_action_bar_embed_tabs
+android.support.design.R$bool: int abc_action_bar_embed_tabs_pre_jb
+android.support.design.R$bool: int abc_action_bar_expanded_action_views_exclusive
 android.support.design.R$bool: int abc_allow_stacked_button_bar
 android.support.design.R$bool: int abc_config_actionMenuItemAllCaps
+android.support.design.R$bool: int abc_config_allowActionMenuItemTextWithIcon
 android.support.design.R$bool: int abc_config_closeDialogWhenTouchOutside
 android.support.design.R$bool: int abc_config_showMenuShortcutsWhenKeyboardPresent
 android.support.design.R$color: int abc_background_cache_hint_selector_material_dark
 android.support.design.R$color: int abc_background_cache_hint_selector_material_light
-android.support.design.R$color: int abc_btn_colored_borderless_text_material
 android.support.design.R$color: int abc_color_highlight_material
 android.support.design.R$color: int abc_input_method_navigation_guard
 android.support.design.R$color: int abc_primary_text_disable_only_material_dark
@@ -347,13 +319,6 @@ android.support.design.R$color: int abc_search_url_text_pressed
 android.support.design.R$color: int abc_search_url_text_selected
 android.support.design.R$color: int abc_secondary_text_material_dark
 android.support.design.R$color: int abc_secondary_text_material_light
-android.support.design.R$color: int abc_tint_btn_checkable
-android.support.design.R$color: int abc_tint_default
-android.support.design.R$color: int abc_tint_edittext
-android.support.design.R$color: int abc_tint_seek_thumb
-android.support.design.R$color: int abc_tint_spinner
-android.support.design.R$color: int abc_tint_switch_thumb
-android.support.design.R$color: int abc_tint_switch_track
 android.support.design.R$color: int accent_material_dark
 android.support.design.R$color: int accent_material_light
 android.support.design.R$color: int background_floating_material_dark
@@ -368,7 +333,6 @@ android.support.design.R$color: int bright_foreground_material_dark
 android.support.design.R$color: int bright_foreground_material_light
 android.support.design.R$color: int button_material_dark
 android.support.design.R$color: int button_material_light
-android.support.design.R$color: int design_error
 android.support.design.R$color: int design_fab_shadow_end_color
 android.support.design.R$color: int design_fab_shadow_mid_color
 android.support.design.R$color: int design_fab_shadow_start_color
@@ -379,7 +343,6 @@ android.support.design.R$color: int design_fab_stroke_top_outer_color
 android.support.design.R$color: int design_snackbar_background_color
 android.support.design.R$color: int design_textinput_error_color_dark
 android.support.design.R$color: int design_textinput_error_color_light
-android.support.design.R$color: int design_tint_password_toggle
 android.support.design.R$color: int dim_foreground_disabled_material_dark
 android.support.design.R$color: int dim_foreground_disabled_material_light
 android.support.design.R$color: int dim_foreground_material_dark
@@ -423,11 +386,9 @@ android.support.design.R$color: int switch_thumb_material_light
 android.support.design.R$color: int switch_thumb_normal_material_dark
 android.support.design.R$color: int switch_thumb_normal_material_light
 android.support.design.R$dimen: int abc_action_bar_content_inset_material
-android.support.design.R$dimen: int abc_action_bar_content_inset_with_nav
 android.support.design.R$dimen: int abc_action_bar_default_height_material
 android.support.design.R$dimen: int abc_action_bar_default_padding_end_material
 android.support.design.R$dimen: int abc_action_bar_default_padding_start_material
-android.support.design.R$dimen: int abc_action_bar_elevation_material
 android.support.design.R$dimen: int abc_action_bar_icon_vertical_padding_material
 android.support.design.R$dimen: int abc_action_bar_overflow_padding_end_material
 android.support.design.R$dimen: int abc_action_bar_overflow_padding_start_material
@@ -444,7 +405,6 @@ android.support.design.R$dimen: int abc_button_inset_horizontal_material
 android.support.design.R$dimen: int abc_button_inset_vertical_material
 android.support.design.R$dimen: int abc_button_padding_horizontal_material
 android.support.design.R$dimen: int abc_button_padding_vertical_material
-android.support.design.R$dimen: int abc_cascading_menus_min_smallest_width
 android.support.design.R$dimen: int abc_config_prefDialogWidth
 android.support.design.R$dimen: int abc_control_corner_material
 android.support.design.R$dimen: int abc_control_inset_material
@@ -469,9 +429,8 @@ android.support.design.R$dimen: int abc_edit_text_inset_top_material
 android.support.design.R$dimen: int abc_floating_window_z
 android.support.design.R$dimen: int abc_list_item_padding_horizontal_material
 android.support.design.R$dimen: int abc_panel_menu_list_width
-android.support.design.R$dimen: int abc_progress_bar_height_material
-android.support.design.R$dimen: int abc_search_view_preferred_height
 android.support.design.R$dimen: int abc_search_view_preferred_width
+android.support.design.R$dimen: int abc_search_view_text_min_width
 android.support.design.R$dimen: int abc_seekbar_track_background_height_material
 android.support.design.R$dimen: int abc_seekbar_track_progress_height_material
 android.support.design.R$dimen: int abc_select_dialog_padding_start_material
@@ -487,7 +446,6 @@ android.support.design.R$dimen: int abc_text_size_display_4_material
 android.support.design.R$dimen: int abc_text_size_headline_material
 android.support.design.R$dimen: int abc_text_size_large_material
 android.support.design.R$dimen: int abc_text_size_medium_material
-android.support.design.R$dimen: int abc_text_size_menu_header_material
 android.support.design.R$dimen: int abc_text_size_menu_material
 android.support.design.R$dimen: int abc_text_size_small_material
 android.support.design.R$dimen: int abc_text_size_subhead_material
@@ -495,14 +453,8 @@ android.support.design.R$dimen: int abc_text_size_subtitle_material_toolbar
 android.support.design.R$dimen: int abc_text_size_title_material
 android.support.design.R$dimen: int abc_text_size_title_material_toolbar
 android.support.design.R$dimen: int design_appbar_elevation
-android.support.design.R$dimen: int design_bottom_navigation_active_item_max_width
-android.support.design.R$dimen: int design_bottom_navigation_active_text_size
-android.support.design.R$dimen: int design_bottom_navigation_height
-android.support.design.R$dimen: int design_bottom_navigation_item_max_width
-android.support.design.R$dimen: int design_bottom_navigation_margin
-android.support.design.R$dimen: int design_bottom_navigation_text_size
 android.support.design.R$dimen: int design_bottom_sheet_modal_elevation
-android.support.design.R$dimen: int design_bottom_sheet_peek_height_min
+android.support.design.R$dimen: int design_bottom_sheet_modal_peek_height
 android.support.design.R$dimen: int design_fab_border_width
 android.support.design.R$dimen: int design_fab_elevation
 android.support.design.R$dimen: int design_fab_image_size
@@ -544,40 +496,26 @@ android.support.design.R$drawable: int abc_ab_share_pack_mtrl_alpha
 android.support.design.R$drawable: int abc_action_bar_item_background_material
 android.support.design.R$drawable: int abc_btn_borderless_material
 android.support.design.R$drawable: int abc_btn_check_material
-android.support.design.R$drawable: int abc_btn_check_to_on_mtrl_000
-android.support.design.R$drawable: int abc_btn_check_to_on_mtrl_015
 android.support.design.R$drawable: int abc_btn_colored_material
 android.support.design.R$drawable: int abc_btn_default_mtrl_shape
 android.support.design.R$drawable: int abc_btn_radio_material
-android.support.design.R$drawable: int abc_btn_radio_to_on_mtrl_000
-android.support.design.R$drawable: int abc_btn_radio_to_on_mtrl_015
+android.support.design.R$drawable: int abc_btn_rating_star_off_mtrl_alpha
+android.support.design.R$drawable: int abc_btn_rating_star_on_mtrl_alpha
 android.support.design.R$drawable: int abc_btn_switch_to_on_mtrl_00001
 android.support.design.R$drawable: int abc_btn_switch_to_on_mtrl_00012
 android.support.design.R$drawable: int abc_cab_background_internal_bg
 android.support.design.R$drawable: int abc_cab_background_top_material
 android.support.design.R$drawable: int abc_cab_background_top_mtrl_alpha
 android.support.design.R$drawable: int abc_control_background_material
-android.support.design.R$drawable: int abc_dialog_material_background
+android.support.design.R$drawable: int abc_dialog_material_background_dark
+android.support.design.R$drawable: int abc_dialog_material_background_light
 android.support.design.R$drawable: int abc_edit_text_material
-android.support.design.R$drawable: int abc_ic_ab_back_material
-android.support.design.R$drawable: int abc_ic_arrow_drop_right_black_24dp
-android.support.design.R$drawable: int abc_ic_clear_material
 android.support.design.R$drawable: int abc_ic_commit_search_api_mtrl_alpha
-android.support.design.R$drawable: int abc_ic_go_search_api_material
-android.support.design.R$drawable: int abc_ic_menu_copy_mtrl_am_alpha
-android.support.design.R$drawable: int abc_ic_menu_cut_mtrl_alpha
-android.support.design.R$drawable: int abc_ic_menu_overflow_material
-android.support.design.R$drawable: int abc_ic_menu_paste_mtrl_am_alpha
-android.support.design.R$drawable: int abc_ic_menu_selectall_mtrl_alpha
-android.support.design.R$drawable: int abc_ic_menu_share_mtrl_alpha
-android.support.design.R$drawable: int abc_ic_search_api_material
+android.support.design.R$drawable: int abc_ic_search_api_mtrl_alpha
 android.support.design.R$drawable: int abc_ic_star_black_16dp
 android.support.design.R$drawable: int abc_ic_star_black_36dp
-android.support.design.R$drawable: int abc_ic_star_black_48dp
 android.support.design.R$drawable: int abc_ic_star_half_black_16dp
 android.support.design.R$drawable: int abc_ic_star_half_black_36dp
-android.support.design.R$drawable: int abc_ic_star_half_black_48dp
-android.support.design.R$drawable: int abc_ic_voice_search_api_material
 android.support.design.R$drawable: int abc_item_background_holo_dark
 android.support.design.R$drawable: int abc_item_background_holo_light
 android.support.design.R$drawable: int abc_list_divider_mtrl_alpha
@@ -593,8 +531,8 @@ android.support.design.R$drawable: int abc_list_selector_holo_dark
 android.support.design.R$drawable: int abc_list_selector_holo_light
 android.support.design.R$drawable: int abc_menu_hardkey_panel_mtrl_mult
 android.support.design.R$drawable: int abc_popup_background_mtrl_mult
+android.support.design.R$drawable: int abc_ratingbar_full_material
 android.support.design.R$drawable: int abc_ratingbar_indicator_material
-android.support.design.R$drawable: int abc_ratingbar_material
 android.support.design.R$drawable: int abc_ratingbar_small_material
 android.support.design.R$drawable: int abc_scrubber_control_off_mtrl_alpha
 android.support.design.R$drawable: int abc_scrubber_control_to_pressed_mtrl_000
@@ -602,7 +540,6 @@ android.support.design.R$drawable: int abc_scrubber_control_to_pressed_mtrl_005
 android.support.design.R$drawable: int abc_scrubber_primary_mtrl_alpha
 android.support.design.R$drawable: int abc_scrubber_track_mtrl_alpha
 android.support.design.R$drawable: int abc_seekbar_thumb_material
-android.support.design.R$drawable: int abc_seekbar_tick_mark_material
 android.support.design.R$drawable: int abc_seekbar_track_material
 android.support.design.R$drawable: int abc_spinner_mtrl_am_alpha
 android.support.design.R$drawable: int abc_spinner_textfield_background_material
@@ -611,19 +548,13 @@ android.support.design.R$drawable: int abc_switch_track_mtrl_alpha
 android.support.design.R$drawable: int abc_tab_indicator_material
 android.support.design.R$drawable: int abc_tab_indicator_mtrl_alpha
 android.support.design.R$drawable: int abc_text_cursor_material
-android.support.design.R$drawable: int abc_text_select_handle_left_mtrl_alpha
-android.support.design.R$drawable: int abc_text_select_handle_middle_mtrl_alpha
-android.support.design.R$drawable: int abc_text_select_handle_right_mtrl_alpha
 android.support.design.R$drawable: int abc_textfield_activated_mtrl_alpha
 android.support.design.R$drawable: int abc_textfield_default_mtrl_alpha
 android.support.design.R$drawable: int abc_textfield_search_activated_mtrl_alpha
 android.support.design.R$drawable: int abc_textfield_search_default_mtrl_alpha
 android.support.design.R$drawable: int abc_textfield_search_material
-android.support.design.R$drawable: int abc_vector_test
 android.support.design.R$drawable: int design_fab_background
-android.support.design.R$drawable: int design_ic_visibility
 android.support.design.R$drawable: int design_snackbar_background
-android.support.design.R$drawable: int navigation_empty_icon
 android.support.design.R$drawable: int notification_template_icon_bg
 android.support.design.R$id: int action0
 android.support.design.R$id: int action_bar
@@ -641,11 +572,8 @@ android.support.design.R$id: int action_mode_bar
 android.support.design.R$id: int action_mode_bar_stub
 android.support.design.R$id: int action_mode_close_button
 android.support.design.R$id: int activity_chooser_view_content
-android.support.design.R$id: int add
 android.support.design.R$id: int alertTitle
-android.support.design.R$id: int all
 android.support.design.R$id: int always
-android.support.design.R$id: int auto
 android.support.design.R$id: int beginning
 android.support.design.R$id: int bottom
 android.support.design.R$id: int buttonPanel
@@ -739,19 +667,16 @@ android.support.design.R$id: int src_in
 android.support.design.R$id: int src_over
 android.support.design.R$id: int start
 android.support.design.R$id: int status_bar_latest_event_content
-android.support.design.R$id: int submenuarrow
 android.support.design.R$id: int submit_area
 android.support.design.R$id: int tabMode
 android.support.design.R$id: int text
 android.support.design.R$id: int text2
 android.support.design.R$id: int textSpacerNoButtons
-android.support.design.R$id: int text_input_password_toggle
 android.support.design.R$id: int time
 android.support.design.R$id: int title
 android.support.design.R$id: int title_template
 android.support.design.R$id: int top
 android.support.design.R$id: int topPanel
-android.support.design.R$id: int touch_outside
 android.support.design.R$id: int up
 android.support.design.R$id: int useLogo
 android.support.design.R$id: int view_offset_helper
@@ -759,7 +684,7 @@ android.support.design.R$id: int withText
 android.support.design.R$id: int wrap_content
 android.support.design.R$integer: int abc_config_activityDefaultDur
 android.support.design.R$integer: int abc_config_activityShortDur
-android.support.design.R$integer: int app_bar_elevation_anim_duration
+android.support.design.R$integer: int abc_max_action_buttons
 android.support.design.R$integer: int bottom_sheet_slide_duration
 android.support.design.R$integer: int cancel_button_image_alpha
 android.support.design.R$integer: int design_snackbar_text_max_lines
@@ -781,7 +706,6 @@ android.support.design.R$layout: int abc_list_menu_item_checkbox
 android.support.design.R$layout: int abc_list_menu_item_icon
 android.support.design.R$layout: int abc_list_menu_item_layout
 android.support.design.R$layout: int abc_list_menu_item_radio
-android.support.design.R$layout: int abc_popup_menu_header_item_layout
 android.support.design.R$layout: int abc_popup_menu_item_layout
 android.support.design.R$layout: int abc_screen_content_include
 android.support.design.R$layout: int abc_screen_simple
@@ -802,7 +726,6 @@ android.support.design.R$layout: int design_navigation_item_separator
 android.support.design.R$layout: int design_navigation_item_subheader
 android.support.design.R$layout: int design_navigation_menu
 android.support.design.R$layout: int design_navigation_menu_item
-android.support.design.R$layout: int design_text_input_password_icon
 android.support.design.R$layout: int notification_media_action
 android.support.design.R$layout: int notification_media_cancel_action
 android.support.design.R$layout: int notification_template_big_media
@@ -825,18 +748,6 @@ android.support.design.R$string: int abc_activity_chooser_view_see_all
 android.support.design.R$string: int abc_activitychooserview_choose_application
 android.support.design.R$string: int abc_capital_off
 android.support.design.R$string: int abc_capital_on
-android.support.design.R$string: int abc_font_family_body_1_material
-android.support.design.R$string: int abc_font_family_body_2_material
-android.support.design.R$string: int abc_font_family_button_material
-android.support.design.R$string: int abc_font_family_caption_material
-android.support.design.R$string: int abc_font_family_display_1_material
-android.support.design.R$string: int abc_font_family_display_2_material
-android.support.design.R$string: int abc_font_family_display_3_material
-android.support.design.R$string: int abc_font_family_display_4_material
-android.support.design.R$string: int abc_font_family_headline_material
-android.support.design.R$string: int abc_font_family_menu_material
-android.support.design.R$string: int abc_font_family_subhead_material
-android.support.design.R$string: int abc_font_family_title_material
 android.support.design.R$string: int abc_search_hint
 android.support.design.R$string: int abc_searchview_description_clear
 android.support.design.R$string: int abc_searchview_description_query
@@ -849,7 +760,6 @@ android.support.design.R$string: int abc_toolbar_collapse_description
 android.support.design.R$string: int appbar_scrolling_view_behavior
 android.support.design.R$string: int bottom_sheet_behavior
 android.support.design.R$string: int character_counter_pattern
-android.support.design.R$string: int search_menu_title
 android.support.design.R$string: int status_bar_notification_info_overflow
 android.support.design.R$style: int AlertDialog_AppCompat
 android.support.design.R$style: int AlertDialog_AppCompat_Light
@@ -899,7 +809,6 @@ android.support.design.R$style: int Base_TextAppearance_AppCompat_Widget_ActionM
 android.support.design.R$style: int Base_TextAppearance_AppCompat_Widget_Button
 android.support.design.R$style: int Base_TextAppearance_AppCompat_Widget_Button_Inverse
 android.support.design.R$style: int Base_TextAppearance_AppCompat_Widget_DropDownItem
-android.support.design.R$style: int Base_TextAppearance_AppCompat_Widget_PopupMenu_Header
 android.support.design.R$style: int Base_TextAppearance_AppCompat_Widget_PopupMenu_Large
 android.support.design.R$style: int Base_TextAppearance_AppCompat_Widget_PopupMenu_Small
 android.support.design.R$style: int Base_TextAppearance_AppCompat_Widget_Switch
@@ -911,8 +820,6 @@ android.support.design.R$style: int Base_ThemeOverlay_AppCompat
 android.support.design.R$style: int Base_ThemeOverlay_AppCompat_ActionBar
 android.support.design.R$style: int Base_ThemeOverlay_AppCompat_Dark
 android.support.design.R$style: int Base_ThemeOverlay_AppCompat_Dark_ActionBar
-android.support.design.R$style: int Base_ThemeOverlay_AppCompat_Dialog
-android.support.design.R$style: int Base_ThemeOverlay_AppCompat_Dialog_Alert
 android.support.design.R$style: int Base_ThemeOverlay_AppCompat_Light
 android.support.design.R$style: int Base_Theme_AppCompat
 android.support.design.R$style: int Base_Theme_AppCompat_CompactMenu
@@ -928,12 +835,10 @@ android.support.design.R$style: int Base_Theme_AppCompat_Light_DialogWhenLarge
 android.support.design.R$style: int Base_Theme_AppCompat_Light_Dialog_Alert
 android.support.design.R$style: int Base_Theme_AppCompat_Light_Dialog_FixedSize
 android.support.design.R$style: int Base_Theme_AppCompat_Light_Dialog_MinWidth
-android.support.design.R$style: int Base_V11_ThemeOverlay_AppCompat_Dialog
 android.support.design.R$style: int Base_V11_Theme_AppCompat_Dialog
 android.support.design.R$style: int Base_V11_Theme_AppCompat_Light_Dialog
 android.support.design.R$style: int Base_V12_Widget_AppCompat_AutoCompleteTextView
 android.support.design.R$style: int Base_V12_Widget_AppCompat_EditText
-android.support.design.R$style: int Base_V21_ThemeOverlay_AppCompat_Dialog
 android.support.design.R$style: int Base_V21_Theme_AppCompat
 android.support.design.R$style: int Base_V21_Theme_AppCompat_Dialog
 android.support.design.R$style: int Base_V21_Theme_AppCompat_Light
@@ -942,7 +847,6 @@ android.support.design.R$style: int Base_V22_Theme_AppCompat
 android.support.design.R$style: int Base_V22_Theme_AppCompat_Light
 android.support.design.R$style: int Base_V23_Theme_AppCompat
 android.support.design.R$style: int Base_V23_Theme_AppCompat_Light
-android.support.design.R$style: int Base_V7_ThemeOverlay_AppCompat_Dialog
 android.support.design.R$style: int Base_V7_Theme_AppCompat
 android.support.design.R$style: int Base_V7_Theme_AppCompat_Dialog
 android.support.design.R$style: int Base_V7_Theme_AppCompat_Light
@@ -984,7 +888,6 @@ android.support.design.R$style: int Base_Widget_AppCompat_Light_ActionBar_TabTex
 android.support.design.R$style: int Base_Widget_AppCompat_Light_ActionBar_TabView
 android.support.design.R$style: int Base_Widget_AppCompat_Light_PopupMenu
 android.support.design.R$style: int Base_Widget_AppCompat_Light_PopupMenu_Overflow
-android.support.design.R$style: int Base_Widget_AppCompat_ListMenuView
 android.support.design.R$style: int Base_Widget_AppCompat_ListPopupWindow
 android.support.design.R$style: int Base_Widget_AppCompat_ListView
 android.support.design.R$style: int Base_Widget_AppCompat_ListView_DropDown
@@ -1000,13 +903,11 @@ android.support.design.R$style: int Base_Widget_AppCompat_RatingBar_Small
 android.support.design.R$style: int Base_Widget_AppCompat_SearchView
 android.support.design.R$style: int Base_Widget_AppCompat_SearchView_ActionBar
 android.support.design.R$style: int Base_Widget_AppCompat_SeekBar
-android.support.design.R$style: int Base_Widget_AppCompat_SeekBar_Discrete
 android.support.design.R$style: int Base_Widget_AppCompat_Spinner
 android.support.design.R$style: int Base_Widget_AppCompat_Spinner_Underlined
 android.support.design.R$style: int Base_Widget_AppCompat_TextView_SpinnerItem
 android.support.design.R$style: int Base_Widget_AppCompat_Toolbar
 android.support.design.R$style: int Base_Widget_AppCompat_Toolbar_Button_Navigation
-android.support.design.R$style: int Base_Widget_Design_AppBarLayout
 android.support.design.R$style: int Base_Widget_Design_TabLayout
 android.support.design.R$style: int Platform_AppCompat
 android.support.design.R$style: int Platform_AppCompat_Light
@@ -1072,7 +973,6 @@ android.support.design.R$style: int TextAppearance_AppCompat_Widget_ActionMode_T
 android.support.design.R$style: int TextAppearance_AppCompat_Widget_Button
 android.support.design.R$style: int TextAppearance_AppCompat_Widget_Button_Inverse
 android.support.design.R$style: int TextAppearance_AppCompat_Widget_DropDownItem
-android.support.design.R$style: int TextAppearance_AppCompat_Widget_PopupMenu_Header
 android.support.design.R$style: int TextAppearance_AppCompat_Widget_PopupMenu_Large
 android.support.design.R$style: int TextAppearance_AppCompat_Widget_PopupMenu_Small
 android.support.design.R$style: int TextAppearance_AppCompat_Widget_Switch
@@ -1096,8 +996,6 @@ android.support.design.R$style: int ThemeOverlay_AppCompat
 android.support.design.R$style: int ThemeOverlay_AppCompat_ActionBar
 android.support.design.R$style: int ThemeOverlay_AppCompat_Dark
 android.support.design.R$style: int ThemeOverlay_AppCompat_Dark_ActionBar
-android.support.design.R$style: int ThemeOverlay_AppCompat_Dialog
-android.support.design.R$style: int ThemeOverlay_AppCompat_Dialog_Alert
 android.support.design.R$style: int ThemeOverlay_AppCompat_Light
 android.support.design.R$style: int Theme_AppCompat
 android.support.design.R$style: int Theme_AppCompat_CompactMenu
@@ -1174,7 +1072,6 @@ android.support.design.R$style: int Widget_AppCompat_Light_PopupMenu
 android.support.design.R$style: int Widget_AppCompat_Light_PopupMenu_Overflow
 android.support.design.R$style: int Widget_AppCompat_Light_SearchView
 android.support.design.R$style: int Widget_AppCompat_Light_Spinner_DropDown_ActionBar
-android.support.design.R$style: int Widget_AppCompat_ListMenuView
 android.support.design.R$style: int Widget_AppCompat_ListPopupWindow
 android.support.design.R$style: int Widget_AppCompat_ListView
 android.support.design.R$style: int Widget_AppCompat_ListView_DropDown
@@ -1190,7 +1087,6 @@ android.support.design.R$style: int Widget_AppCompat_RatingBar_Small
 android.support.design.R$style: int Widget_AppCompat_SearchView
 android.support.design.R$style: int Widget_AppCompat_SearchView_ActionBar
 android.support.design.R$style: int Widget_AppCompat_SeekBar
-android.support.design.R$style: int Widget_AppCompat_SeekBar_Discrete
 android.support.design.R$style: int Widget_AppCompat_Spinner
 android.support.design.R$style: int Widget_AppCompat_Spinner_DropDown
 android.support.design.R$style: int Widget_AppCompat_Spinner_DropDown_ActionBar
@@ -1215,11 +1111,9 @@ android.support.design.R$styleable: int ActionBar_background
 android.support.design.R$styleable: int ActionBar_backgroundSplit
 android.support.design.R$styleable: int ActionBar_backgroundStacked
 android.support.design.R$styleable: int ActionBar_contentInsetEnd
-android.support.design.R$styleable: int ActionBar_contentInsetEndWithActions
 android.support.design.R$styleable: int ActionBar_contentInsetLeft
 android.support.design.R$styleable: int ActionBar_contentInsetRight
 android.support.design.R$styleable: int ActionBar_contentInsetStart
-android.support.design.R$styleable: int ActionBar_contentInsetStartWithNavigation
 android.support.design.R$styleable: int ActionBar_customNavigationLayout
 android.support.design.R$styleable: int ActionBar_displayOptions
 android.support.design.R$styleable: int ActionBar_divider
@@ -1261,31 +1155,15 @@ android.support.design.R$styleable: int AlertDialog_listLayout
 android.support.design.R$styleable: int AlertDialog_multiChoiceItemLayout
 android.support.design.R$styleable: int AlertDialog_singleChoiceItemLayout
 android.support.design.R$styleable: int[] AppBarLayout
-android.support.design.R$styleable: int[] AppBarLayoutStates
-android.support.design.R$styleable: int AppBarLayoutStates_state_collapsed
-android.support.design.R$styleable: int AppBarLayoutStates_state_collapsible
-android.support.design.R$styleable: int[] AppBarLayout_Layout
-android.support.design.R$styleable: int AppBarLayout_Layout_layout_scrollFlags
-android.support.design.R$styleable: int AppBarLayout_Layout_layout_scrollInterpolator
+android.support.design.R$styleable: int[] AppBarLayout_LayoutParams
+android.support.design.R$styleable: int AppBarLayout_LayoutParams_layout_scrollFlags
+android.support.design.R$styleable: int AppBarLayout_LayoutParams_layout_scrollInterpolator
 android.support.design.R$styleable: int AppBarLayout_android_background
 android.support.design.R$styleable: int AppBarLayout_elevation
 android.support.design.R$styleable: int AppBarLayout_expanded
 android.support.design.R$styleable: int[] AppCompatImageView
 android.support.design.R$styleable: int AppCompatImageView_android_src
 android.support.design.R$styleable: int AppCompatImageView_srcCompat
-android.support.design.R$styleable: int[] AppCompatSeekBar
-android.support.design.R$styleable: int AppCompatSeekBar_android_thumb
-android.support.design.R$styleable: int AppCompatSeekBar_tickMark
-android.support.design.R$styleable: int AppCompatSeekBar_tickMarkTint
-android.support.design.R$styleable: int AppCompatSeekBar_tickMarkTintMode
-android.support.design.R$styleable: int[] AppCompatTextHelper
-android.support.design.R$styleable: int AppCompatTextHelper_android_drawableBottom
-android.support.design.R$styleable: int AppCompatTextHelper_android_drawableEnd
-android.support.design.R$styleable: int AppCompatTextHelper_android_drawableLeft
-android.support.design.R$styleable: int AppCompatTextHelper_android_drawableRight
-android.support.design.R$styleable: int AppCompatTextHelper_android_drawableStart
-android.support.design.R$styleable: int AppCompatTextHelper_android_drawableTop
-android.support.design.R$styleable: int AppCompatTextHelper_android_textAppearance
 android.support.design.R$styleable: int[] AppCompatTextView
 android.support.design.R$styleable: int AppCompatTextView_android_textAppearance
 android.support.design.R$styleable: int AppCompatTextView_textAllCaps
@@ -1339,7 +1217,6 @@ android.support.design.R$styleable: int AppCompatTheme_buttonStyleSmall
 android.support.design.R$styleable: int AppCompatTheme_checkboxStyle
 android.support.design.R$styleable: int AppCompatTheme_checkedTextViewStyle
 android.support.design.R$styleable: int AppCompatTheme_colorAccent
-android.support.design.R$styleable: int AppCompatTheme_colorBackgroundFloating
 android.support.design.R$styleable: int AppCompatTheme_colorButtonNormal
 android.support.design.R$styleable: int AppCompatTheme_colorControlActivated
 android.support.design.R$styleable: int AppCompatTheme_colorControlHighlight
@@ -1361,7 +1238,6 @@ android.support.design.R$styleable: int AppCompatTheme_homeAsUpIndicator
 android.support.design.R$styleable: int AppCompatTheme_imageButtonStyle
 android.support.design.R$styleable: int AppCompatTheme_listChoiceBackgroundIndicator
 android.support.design.R$styleable: int AppCompatTheme_listDividerAlertDialog
-android.support.design.R$styleable: int AppCompatTheme_listMenuViewStyle
 android.support.design.R$styleable: int AppCompatTheme_listPopupWindowStyle
 android.support.design.R$styleable: int AppCompatTheme_listPreferredItemHeight
 android.support.design.R$styleable: int AppCompatTheme_listPreferredItemHeightLarge
@@ -1387,7 +1263,6 @@ android.support.design.R$styleable: int AppCompatTheme_switchStyle
 android.support.design.R$styleable: int AppCompatTheme_textAppearanceLargePopupMenu
 android.support.design.R$styleable: int AppCompatTheme_textAppearanceListItem
 android.support.design.R$styleable: int AppCompatTheme_textAppearanceListItemSmall
-android.support.design.R$styleable: int AppCompatTheme_textAppearancePopupMenuHeader
 android.support.design.R$styleable: int AppCompatTheme_textAppearanceSearchResultSubtitle
 android.support.design.R$styleable: int AppCompatTheme_textAppearanceSearchResultTitle
 android.support.design.R$styleable: int AppCompatTheme_textAppearanceSmallPopupMenu
@@ -1405,16 +1280,15 @@ android.support.design.R$styleable: int AppCompatTheme_windowFixedWidthMinor
 android.support.design.R$styleable: int AppCompatTheme_windowMinWidthMajor
 android.support.design.R$styleable: int AppCompatTheme_windowMinWidthMinor
 android.support.design.R$styleable: int AppCompatTheme_windowNoTitle
-android.support.design.R$styleable: int[] BottomSheetBehavior_Layout
-android.support.design.R$styleable: int BottomSheetBehavior_Layout_behavior_hideable
-android.support.design.R$styleable: int BottomSheetBehavior_Layout_behavior_peekHeight
-android.support.design.R$styleable: int BottomSheetBehavior_Layout_behavior_skipCollapsed
+android.support.design.R$styleable: int[] BottomSheetBehavior_Params
+android.support.design.R$styleable: int BottomSheetBehavior_Params_behavior_hideable
+android.support.design.R$styleable: int BottomSheetBehavior_Params_behavior_peekHeight
 android.support.design.R$styleable: int[] ButtonBarLayout
 android.support.design.R$styleable: int ButtonBarLayout_allowStacking
+android.support.design.R$styleable: int[] CollapsingAppBarLayout_LayoutParams
+android.support.design.R$styleable: int CollapsingAppBarLayout_LayoutParams_layout_collapseMode
+android.support.design.R$styleable: int CollapsingAppBarLayout_LayoutParams_layout_collapseParallaxMultiplier
 android.support.design.R$styleable: int[] CollapsingToolbarLayout
-android.support.design.R$styleable: int[] CollapsingToolbarLayout_Layout
-android.support.design.R$styleable: int CollapsingToolbarLayout_Layout_layout_collapseMode
-android.support.design.R$styleable: int CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier
 android.support.design.R$styleable: int CollapsingToolbarLayout_collapsedTitleGravity
 android.support.design.R$styleable: int CollapsingToolbarLayout_collapsedTitleTextAppearance
 android.support.design.R$styleable: int CollapsingToolbarLayout_contentScrim
@@ -1425,29 +1299,21 @@ android.support.design.R$styleable: int CollapsingToolbarLayout_expandedTitleMar
 android.support.design.R$styleable: int CollapsingToolbarLayout_expandedTitleMarginStart
 android.support.design.R$styleable: int CollapsingToolbarLayout_expandedTitleMarginTop
 android.support.design.R$styleable: int CollapsingToolbarLayout_expandedTitleTextAppearance
-android.support.design.R$styleable: int CollapsingToolbarLayout_scrimAnimationDuration
-android.support.design.R$styleable: int CollapsingToolbarLayout_scrimVisibleHeightTrigger
 android.support.design.R$styleable: int CollapsingToolbarLayout_statusBarScrim
 android.support.design.R$styleable: int CollapsingToolbarLayout_title
 android.support.design.R$styleable: int CollapsingToolbarLayout_titleEnabled
 android.support.design.R$styleable: int CollapsingToolbarLayout_toolbarId
-android.support.design.R$styleable: int[] ColorStateListItem
-android.support.design.R$styleable: int ColorStateListItem_alpha
-android.support.design.R$styleable: int ColorStateListItem_android_alpha
-android.support.design.R$styleable: int ColorStateListItem_android_color
 android.support.design.R$styleable: int[] CompoundButton
 android.support.design.R$styleable: int CompoundButton_android_button
 android.support.design.R$styleable: int CompoundButton_buttonTint
 android.support.design.R$styleable: int CompoundButton_buttonTintMode
 android.support.design.R$styleable: int[] CoordinatorLayout
-android.support.design.R$styleable: int[] CoordinatorLayout_Layout
-android.support.design.R$styleable: int CoordinatorLayout_Layout_android_layout_gravity
-android.support.design.R$styleable: int CoordinatorLayout_Layout_layout_anchor
-android.support.design.R$styleable: int CoordinatorLayout_Layout_layout_anchorGravity
-android.support.design.R$styleable: int CoordinatorLayout_Layout_layout_behavior
-android.support.design.R$styleable: int CoordinatorLayout_Layout_layout_dodgeInsetEdges
-android.support.design.R$styleable: int CoordinatorLayout_Layout_layout_insetEdge
-android.support.design.R$styleable: int CoordinatorLayout_Layout_layout_keyline
+android.support.design.R$styleable: int[] CoordinatorLayout_LayoutParams
+android.support.design.R$styleable: int CoordinatorLayout_LayoutParams_android_layout_gravity
+android.support.design.R$styleable: int CoordinatorLayout_LayoutParams_layout_anchor
+android.support.design.R$styleable: int CoordinatorLayout_LayoutParams_layout_anchorGravity
+android.support.design.R$styleable: int CoordinatorLayout_LayoutParams_layout_behavior
+android.support.design.R$styleable: int CoordinatorLayout_LayoutParams_layout_keyline
 android.support.design.R$styleable: int CoordinatorLayout_keylines
 android.support.design.R$styleable: int CoordinatorLayout_statusBarBackground
 android.support.design.R$styleable: int[] DesignTheme
@@ -1464,8 +1330,6 @@ android.support.design.R$styleable: int DrawerArrowToggle_gapBetweenBars
 android.support.design.R$styleable: int DrawerArrowToggle_spinBars
 android.support.design.R$styleable: int DrawerArrowToggle_thickness
 android.support.design.R$styleable: int[] FloatingActionButton
-android.support.design.R$styleable: int[] FloatingActionButton_Behavior_Layout
-android.support.design.R$styleable: int FloatingActionButton_Behavior_Layout_behavior_autoHide
 android.support.design.R$styleable: int FloatingActionButton_backgroundTint
 android.support.design.R$styleable: int FloatingActionButton_backgroundTintMode
 android.support.design.R$styleable: int FloatingActionButton_borderWidth
@@ -1530,7 +1394,6 @@ android.support.design.R$styleable: int MenuView_android_itemTextAppearance
 android.support.design.R$styleable: int MenuView_android_verticalDivider
 android.support.design.R$styleable: int MenuView_android_windowAnimationStyle
 android.support.design.R$styleable: int MenuView_preserveIconSpacing
-android.support.design.R$styleable: int MenuView_subMenuArrow
 android.support.design.R$styleable: int[] NavigationView
 android.support.design.R$styleable: int NavigationView_android_background
 android.support.design.R$styleable: int NavigationView_android_fitsSystemWindows
@@ -1545,11 +1408,9 @@ android.support.design.R$styleable: int NavigationView_menu
 android.support.design.R$styleable: int[] PopupWindow
 android.support.design.R$styleable: int[] PopupWindowBackgroundState
 android.support.design.R$styleable: int PopupWindowBackgroundState_state_above_anchor
-android.support.design.R$styleable: int PopupWindow_android_popupAnimationStyle
 android.support.design.R$styleable: int PopupWindow_android_popupBackground
 android.support.design.R$styleable: int PopupWindow_overlapAnchor
 android.support.design.R$styleable: int[] RecyclerView
-android.support.design.R$styleable: int RecyclerView_android_descendantFocusability
 android.support.design.R$styleable: int RecyclerView_android_orientation
 android.support.design.R$styleable: int RecyclerView_layoutManager
 android.support.design.R$styleable: int RecyclerView_reverseLayout
@@ -1557,8 +1418,8 @@ android.support.design.R$styleable: int RecyclerView_spanCount
 android.support.design.R$styleable: int RecyclerView_stackFromEnd
 android.support.design.R$styleable: int[] ScrimInsetsFrameLayout
 android.support.design.R$styleable: int ScrimInsetsFrameLayout_insetForeground
-android.support.design.R$styleable: int[] ScrollingViewBehavior_Layout
-android.support.design.R$styleable: int ScrollingViewBehavior_Layout_behavior_overlapTop
+android.support.design.R$styleable: int[] ScrollingViewBehavior_Params
+android.support.design.R$styleable: int ScrollingViewBehavior_Params_behavior_overlapTop
 android.support.design.R$styleable: int[] SearchView
 android.support.design.R$styleable: int SearchView_android_focusable
 android.support.design.R$styleable: int SearchView_android_imeOptions
@@ -1597,11 +1458,7 @@ android.support.design.R$styleable: int SwitchCompat_switchMinWidth
 android.support.design.R$styleable: int SwitchCompat_switchPadding
 android.support.design.R$styleable: int SwitchCompat_switchTextAppearance
 android.support.design.R$styleable: int SwitchCompat_thumbTextPadding
-android.support.design.R$styleable: int SwitchCompat_thumbTint
-android.support.design.R$styleable: int SwitchCompat_thumbTintMode
 android.support.design.R$styleable: int SwitchCompat_track
-android.support.design.R$styleable: int SwitchCompat_trackTint
-android.support.design.R$styleable: int SwitchCompat_trackTintMode
 android.support.design.R$styleable: int[] TabItem
 android.support.design.R$styleable: int TabItem_android_icon
 android.support.design.R$styleable: int TabItem_android_layout
@@ -1645,23 +1502,15 @@ android.support.design.R$styleable: int TextInputLayout_errorTextAppearance
 android.support.design.R$styleable: int TextInputLayout_hintAnimationEnabled
 android.support.design.R$styleable: int TextInputLayout_hintEnabled
 android.support.design.R$styleable: int TextInputLayout_hintTextAppearance
-android.support.design.R$styleable: int TextInputLayout_passwordToggleContentDescription
-android.support.design.R$styleable: int TextInputLayout_passwordToggleDrawable
-android.support.design.R$styleable: int TextInputLayout_passwordToggleEnabled
-android.support.design.R$styleable: int TextInputLayout_passwordToggleTint
-android.support.design.R$styleable: int TextInputLayout_passwordToggleTintMode
 android.support.design.R$styleable: int[] Toolbar
 android.support.design.R$styleable: int Toolbar_android_gravity
 android.support.design.R$styleable: int Toolbar_android_minHeight
-android.support.design.R$styleable: int Toolbar_buttonGravity
 android.support.design.R$styleable: int Toolbar_collapseContentDescription
 android.support.design.R$styleable: int Toolbar_collapseIcon
 android.support.design.R$styleable: int Toolbar_contentInsetEnd
-android.support.design.R$styleable: int Toolbar_contentInsetEndWithActions
 android.support.design.R$styleable: int Toolbar_contentInsetLeft
 android.support.design.R$styleable: int Toolbar_contentInsetRight
 android.support.design.R$styleable: int Toolbar_contentInsetStart
-android.support.design.R$styleable: int Toolbar_contentInsetStartWithNavigation
 android.support.design.R$styleable: int Toolbar_logo
 android.support.design.R$styleable: int Toolbar_logoDescription
 android.support.design.R$styleable: int Toolbar_maxButtonHeight
@@ -1672,7 +1521,6 @@ android.support.design.R$styleable: int Toolbar_subtitle
 android.support.design.R$styleable: int Toolbar_subtitleTextAppearance
 android.support.design.R$styleable: int Toolbar_subtitleTextColor
 android.support.design.R$styleable: int Toolbar_title
-android.support.design.R$styleable: int Toolbar_titleMargin
 android.support.design.R$styleable: int Toolbar_titleMarginBottom
 android.support.design.R$styleable: int Toolbar_titleMarginEnd
 android.support.design.R$styleable: int Toolbar_titleMarginStart
@@ -1713,7 +1561,6 @@ android.support.design.internal.NavigationMenuItemView: void setChecked(boolean)
 android.support.design.internal.NavigationMenuItemView: void setIcon(android.graphics.drawable.Drawable)
 android.support.design.internal.NavigationMenuItemView: void setIconTintList(android.content.res.ColorStateList)
 android.support.design.internal.NavigationMenuItemView: void setTextColor(android.content.res.ColorStateList)
-android.support.design.internal.NavigationMenuItemView: void setNeedsEmptyIcon(boolean)
 android.support.design.internal.NavigationMenuView
 android.support.design.internal.NavigationMenuView: NavigationMenuView(android.content.Context)
 android.support.design.internal.NavigationMenuView: NavigationMenuView(android.content.Context,android.util.AttributeSet)
@@ -1742,11 +1589,6 @@ android.support.design.widget.BottomSheetBehavior
 android.support.design.widget.BottomSheetBehavior: BottomSheetBehavior()
 android.support.design.widget.BottomSheetBehavior: BottomSheetBehavior(android.content.Context,android.util.AttributeSet)
 android.support.design.widget.BottomSheetBehavior$SavedState: android.os.Parcelable$Creator CREATOR
-android.support.design.widget.CheckableImageButton
-android.support.design.widget.CheckableImageButton: CheckableImageButton(android.content.Context)
-android.support.design.widget.CheckableImageButton: CheckableImageButton(android.content.Context,android.util.AttributeSet)
-android.support.design.widget.CheckableImageButton: CheckableImageButton(android.content.Context,android.util.AttributeSet,int)
-android.support.design.widget.CheckableImageButton: void setChecked(boolean)
 android.support.design.widget.CollapsingToolbarLayout: void setTitle(java.lang.CharSequence)
 android.support.design.widget.CollapsingToolbarLayout: java.lang.CharSequence getTitle()
 android.support.design.widget.CollapsingToolbarLayout: void setTitleEnabled(boolean)
@@ -1763,12 +1605,10 @@ android.support.design.widget.CollapsingToolbarLayout: void setStatusBarScrimRes
 android.support.design.widget.CollapsingToolbarLayout: android.graphics.drawable.Drawable getStatusBarScrim()
 android.support.design.widget.CollapsingToolbarLayout: void setCollapsedTitleTextAppearance(int)
 android.support.design.widget.CollapsingToolbarLayout: void setCollapsedTitleTextColor(int)
-android.support.design.widget.CollapsingToolbarLayout: void setCollapsedTitleTextColor(android.content.res.ColorStateList)
 android.support.design.widget.CollapsingToolbarLayout: void setCollapsedTitleGravity(int)
 android.support.design.widget.CollapsingToolbarLayout: int getCollapsedTitleGravity()
 android.support.design.widget.CollapsingToolbarLayout: void setExpandedTitleTextAppearance(int)
 android.support.design.widget.CollapsingToolbarLayout: void setExpandedTitleColor(int)
-android.support.design.widget.CollapsingToolbarLayout: void setExpandedTitleTextColor(android.content.res.ColorStateList)
 android.support.design.widget.CollapsingToolbarLayout: void setExpandedTitleGravity(int)
 android.support.design.widget.CollapsingToolbarLayout: int getExpandedTitleGravity()
 android.support.design.widget.CollapsingToolbarLayout: void setCollapsedTitleTypeface(android.graphics.Typeface)
@@ -1783,10 +1623,7 @@ android.support.design.widget.CollapsingToolbarLayout: int getExpandedTitleMargi
 android.support.design.widget.CollapsingToolbarLayout: void setExpandedTitleMarginEnd(int)
 android.support.design.widget.CollapsingToolbarLayout: int getExpandedTitleMarginBottom()
 android.support.design.widget.CollapsingToolbarLayout: void setExpandedTitleMarginBottom(int)
-android.support.design.widget.CollapsingToolbarLayout: void setScrimVisibleHeightTrigger(int)
-android.support.design.widget.CollapsingToolbarLayout: int getScrimVisibleHeightTrigger()
-android.support.design.widget.CollapsingToolbarLayout: void setScrimAnimationDuration(long)
-android.support.design.widget.CollapsingToolbarLayout: long getScrimAnimationDuration()
+android.support.design.widget.CollapsingToolbarLayout: int getScrimTriggerOffset()
 android.support.design.widget.CoordinatorLayout
 android.support.design.widget.CoordinatorLayout: CoordinatorLayout(android.content.Context)
 android.support.design.widget.CoordinatorLayout: CoordinatorLayout(android.content.Context,android.util.AttributeSet)
@@ -1797,11 +1634,8 @@ android.support.design.widget.CoordinatorLayout: android.graphics.drawable.Drawa
 android.support.design.widget.CoordinatorLayout: void setVisibility(int)
 android.support.design.widget.CoordinatorLayout: void setStatusBarBackgroundResource(int)
 android.support.design.widget.CoordinatorLayout: void setStatusBarBackgroundColor(int)
-android.support.design.widget.CoordinatorLayout: android.support.v4.view.WindowInsetsCompat getLastWindowInsets()
 android.support.design.widget.CoordinatorLayout: int getSuggestedMinimumWidth()
 android.support.design.widget.CoordinatorLayout: int getSuggestedMinimumHeight()
-android.support.design.widget.CoordinatorLayout: void setFitsSystemWindows(boolean)
-android.support.design.widget.CoordinatorLayout: java.util.List getDependencySortedChildren()
 android.support.design.widget.CoordinatorLayout: int getNestedScrollAxes()
 android.support.design.widget.CoordinatorLayout$Behavior: CoordinatorLayout$Behavior()
 android.support.design.widget.CoordinatorLayout$Behavior: CoordinatorLayout$Behavior(android.content.Context,android.util.AttributeSet)
@@ -1818,11 +1652,8 @@ android.support.design.widget.FloatingActionButton: void setBackgroundTintMode(a
 android.support.design.widget.FloatingActionButton: void setBackgroundDrawable(android.graphics.drawable.Drawable)
 android.support.design.widget.FloatingActionButton: void setBackgroundResource(int)
 android.support.design.widget.FloatingActionButton: void setBackgroundColor(int)
-android.support.design.widget.FloatingActionButton: void setImageResource(int)
 android.support.design.widget.FloatingActionButton: void setUseCompatPadding(boolean)
 android.support.design.widget.FloatingActionButton: boolean getUseCompatPadding()
-android.support.design.widget.FloatingActionButton: void setSize(int)
-android.support.design.widget.FloatingActionButton: int getSize()
 android.support.design.widget.FloatingActionButton: int getSizeDimension()
 android.support.design.widget.FloatingActionButton: android.graphics.drawable.Drawable getContentBackground()
 android.support.design.widget.FloatingActionButton: float getCompatElevation()
@@ -1831,7 +1662,6 @@ android.support.design.widget.FloatingActionButton: android.support.design.widge
 android.support.design.widget.FloatingActionButton: void setVisibility(int)
 android.support.design.widget.FloatingActionButton$Behavior
 android.support.design.widget.FloatingActionButton$Behavior: FloatingActionButton$Behavior()
-android.support.design.widget.FloatingActionButton$Behavior: FloatingActionButton$Behavior(android.content.Context,android.util.AttributeSet)
 android.support.design.widget.HeaderBehavior: HeaderBehavior()
 android.support.design.widget.HeaderBehavior: HeaderBehavior(android.content.Context,android.util.AttributeSet)
 android.support.design.widget.HeaderScrollingViewBehavior: HeaderScrollingViewBehavior()
@@ -1891,19 +1721,9 @@ android.support.design.widget.TextInputLayout: void setErrorEnabled(boolean)
 android.support.design.widget.TextInputLayout: void setError(java.lang.CharSequence)
 android.support.design.widget.TextInputLayout: void setCounterEnabled(boolean)
 android.support.design.widget.TextInputLayout: void setCounterMaxLength(int)
-android.support.design.widget.TextInputLayout: void setEnabled(boolean)
 android.support.design.widget.TextInputLayout: int getCounterMaxLength()
 android.support.design.widget.TextInputLayout: java.lang.CharSequence getError()
 android.support.design.widget.TextInputLayout: void setHintAnimationEnabled(boolean)
-android.support.design.widget.TextInputLayout: void setPasswordVisibilityToggleDrawable(int)
-android.support.design.widget.TextInputLayout: void setPasswordVisibilityToggleDrawable(android.graphics.drawable.Drawable)
-android.support.design.widget.TextInputLayout: void setPasswordVisibilityToggleContentDescription(int)
-android.support.design.widget.TextInputLayout: void setPasswordVisibilityToggleContentDescription(java.lang.CharSequence)
-android.support.design.widget.TextInputLayout: android.graphics.drawable.Drawable getPasswordVisibilityToggleDrawable()
-android.support.design.widget.TextInputLayout: java.lang.CharSequence getPasswordVisibilityToggleContentDescription()
-android.support.design.widget.TextInputLayout: void setPasswordVisibilityToggleEnabled(boolean)
-android.support.design.widget.TextInputLayout: void setPasswordVisibilityToggleTintList(android.content.res.ColorStateList)
-android.support.design.widget.TextInputLayout: void setPasswordVisibilityToggleTintMode(android.graphics.PorterDuff$Mode)
 android.support.design.widget.TextInputLayout$SavedState: android.os.Parcelable$Creator CREATOR
 android.support.design.widget.ViewOffsetBehavior: ViewOffsetBehavior()
 android.support.design.widget.ViewOffsetBehavior: ViewOffsetBehavior(android.content.Context,android.util.AttributeSet)
@@ -1912,10 +1732,30 @@ android.support.design.widget.VisibilityAwareImageButton: VisibilityAwareImageBu
 android.support.design.widget.VisibilityAwareImageButton: VisibilityAwareImageButton(android.content.Context,android.util.AttributeSet,int)
 android.support.design.widget.VisibilityAwareImageButton: void setVisibility(int)
 android.support.design.widget.VisibilityAwareImageButton: int getUserSetVisibility()
+android.support.percent.R$attr: int layout_aspectRatio
+android.support.percent.R$attr: int layout_heightPercent
+android.support.percent.R$attr: int layout_marginBottomPercent
+android.support.percent.R$attr: int layout_marginEndPercent
+android.support.percent.R$attr: int layout_marginLeftPercent
+android.support.percent.R$attr: int layout_marginPercent
+android.support.percent.R$attr: int layout_marginRightPercent
+android.support.percent.R$attr: int layout_marginStartPercent
+android.support.percent.R$attr: int layout_marginTopPercent
+android.support.percent.R$attr: int layout_widthPercent
+android.support.percent.R$styleable: int[] PercentLayout_Layout
+android.support.percent.R$styleable: int PercentLayout_Layout_layout_aspectRatio
+android.support.percent.R$styleable: int PercentLayout_Layout_layout_heightPercent
+android.support.percent.R$styleable: int PercentLayout_Layout_layout_marginBottomPercent
+android.support.percent.R$styleable: int PercentLayout_Layout_layout_marginEndPercent
+android.support.percent.R$styleable: int PercentLayout_Layout_layout_marginLeftPercent
+android.support.percent.R$styleable: int PercentLayout_Layout_layout_marginPercent
+android.support.percent.R$styleable: int PercentLayout_Layout_layout_marginRightPercent
+android.support.percent.R$styleable: int PercentLayout_Layout_layout_marginStartPercent
+android.support.percent.R$styleable: int PercentLayout_Layout_layout_marginTopPercent
+android.support.percent.R$styleable: int PercentLayout_Layout_layout_widthPercent
 android.support.v4.app.BackStackState: android.os.Parcelable$Creator CREATOR
-android.support.v4.app.BaseFragmentActivityGingerbread: BaseFragmentActivityGingerbread()
+android.support.v4.app.BaseFragmentActivityDonut: BaseFragmentActivityDonut()
 android.support.v4.app.BaseFragmentActivityHoneycomb: BaseFragmentActivityHoneycomb()
-android.support.v4.app.BaseFragmentActivityJB: BaseFragmentActivityJB()
 android.support.v4.app.Fragment$SavedState: android.os.Parcelable$Creator CREATOR
 android.support.v4.app.FragmentActivity: FragmentActivity()
 android.support.v4.app.FragmentManagerState: android.os.Parcelable$Creator CREATOR
@@ -1935,7 +1775,6 @@ android.support.v4.media.session.ParcelableVolumeInfo: android.os.Parcelable$Cre
 android.support.v4.media.session.PlaybackStateCompat: android.os.Parcelable$Creator CREATOR
 android.support.v4.media.session.PlaybackStateCompat$CustomAction: android.os.Parcelable$Creator CREATOR
 android.support.v4.os.ResultReceiver: android.os.Parcelable$Creator CREATOR
-android.support.v4.view.AbsSavedState: android.os.Parcelable$Creator CREATOR
 android.support.v4.view.PagerTabStrip: void setTabIndicatorColor(int)
 android.support.v4.view.PagerTabStrip: void setTabIndicatorColorResource(int)
 android.support.v4.view.PagerTabStrip: int getTabIndicatorColor()
@@ -1958,6 +1797,7 @@ android.support.v4.view.ViewPager: ViewPager(android.content.Context,android.uti
 android.support.v4.view.ViewPager: void setScrollState(int)
 android.support.v4.view.ViewPager: void setAdapter(android.support.v4.view.PagerAdapter)
 android.support.v4.view.ViewPager: android.support.v4.view.PagerAdapter getAdapter()
+android.support.v4.view.ViewPager: void setOnAdapterChangeListener(android.support.v4.view.ViewPager$OnAdapterChangeListener)
 android.support.v4.view.ViewPager: int getClientWidth()
 android.support.v4.view.ViewPager: void setCurrentItem(int)
 android.support.v4.view.ViewPager: int getCurrentItem()
@@ -2014,7 +1854,6 @@ android.support.v4.widget.Space
 android.support.v4.widget.Space: Space(android.content.Context,android.util.AttributeSet,int)
 android.support.v4.widget.Space: Space(android.content.Context,android.util.AttributeSet)
 android.support.v4.widget.Space: Space(android.content.Context)
-android.support.v4.widget.SwipeRefreshLayout: void setEnabled(boolean)
 android.support.v4.widget.SwipeRefreshLayout: void setColorViewAlpha(int)
 android.support.v4.widget.SwipeRefreshLayout: void setSize(int)
 android.support.v4.widget.SwipeRefreshLayout: void setOnRefreshListener(android.support.v4.widget.SwipeRefreshLayout$OnRefreshListener)
@@ -2028,12 +1867,11 @@ android.support.v4.widget.SwipeRefreshLayout: void setColorSchemeResources(int[]
 android.support.v4.widget.SwipeRefreshLayout: void setColorSchemeColors(int[])
 android.support.v4.widget.SwipeRefreshLayout: void setDistanceToTriggerSync(int)
 android.support.v4.widget.SwipeRefreshLayout: int getProgressCircleDiameter()
-android.support.v4.widget.SwipeRefreshLayout: void setOnChildScrollUpCallback(android.support.v4.widget.SwipeRefreshLayout$OnChildScrollUpCallback)
 android.support.v4.widget.SwipeRefreshLayout: int getNestedScrollAxes()
 android.support.v4.widget.SwipeRefreshLayout: void setNestedScrollingEnabled(boolean)
 android.support.v7.app.AppCompatActivity: AppCompatActivity()
 android.support.v7.app.AppCompatActivity: void setContentView(android.view.View)
-android.support.v7.app.AppCompatDelegateImplV9$PanelFeatureState$SavedState: android.os.Parcelable$Creator CREATOR
+android.support.v7.app.AppCompatDelegateImplV7$PanelFeatureState$SavedState: android.os.Parcelable$Creator CREATOR
 android.support.v7.appcompat.R$anim: int abc_fade_in
 android.support.v7.appcompat.R$anim: int abc_fade_out
 android.support.v7.appcompat.R$anim: int abc_grow_fade_in_from_bottom
@@ -2083,7 +1921,6 @@ android.support.v7.appcompat.R$attr: int alertDialogCenterButtons
 android.support.v7.appcompat.R$attr: int alertDialogStyle
 android.support.v7.appcompat.R$attr: int alertDialogTheme
 android.support.v7.appcompat.R$attr: int allowStacking
-android.support.v7.appcompat.R$attr: int alpha
 android.support.v7.appcompat.R$attr: int arrowHeadLength
 android.support.v7.appcompat.R$attr: int arrowShaftLength
 android.support.v7.appcompat.R$attr: int autoCompleteTextViewStyle
@@ -2099,7 +1936,6 @@ android.support.v7.appcompat.R$attr: int buttonBarNegativeButtonStyle
 android.support.v7.appcompat.R$attr: int buttonBarNeutralButtonStyle
 android.support.v7.appcompat.R$attr: int buttonBarPositiveButtonStyle
 android.support.v7.appcompat.R$attr: int buttonBarStyle
-android.support.v7.appcompat.R$attr: int buttonGravity
 android.support.v7.appcompat.R$attr: int buttonPanelSideLayout
 android.support.v7.appcompat.R$attr: int buttonStyle
 android.support.v7.appcompat.R$attr: int buttonStyleSmall
@@ -2113,7 +1949,6 @@ android.support.v7.appcompat.R$attr: int collapseContentDescription
 android.support.v7.appcompat.R$attr: int collapseIcon
 android.support.v7.appcompat.R$attr: int color
 android.support.v7.appcompat.R$attr: int colorAccent
-android.support.v7.appcompat.R$attr: int colorBackgroundFloating
 android.support.v7.appcompat.R$attr: int colorButtonNormal
 android.support.v7.appcompat.R$attr: int colorControlActivated
 android.support.v7.appcompat.R$attr: int colorControlHighlight
@@ -2123,11 +1958,9 @@ android.support.v7.appcompat.R$attr: int colorPrimaryDark
 android.support.v7.appcompat.R$attr: int colorSwitchThumbNormal
 android.support.v7.appcompat.R$attr: int commitIcon
 android.support.v7.appcompat.R$attr: int contentInsetEnd
-android.support.v7.appcompat.R$attr: int contentInsetEndWithActions
 android.support.v7.appcompat.R$attr: int contentInsetLeft
 android.support.v7.appcompat.R$attr: int contentInsetRight
 android.support.v7.appcompat.R$attr: int contentInsetStart
-android.support.v7.appcompat.R$attr: int contentInsetStartWithNavigation
 android.support.v7.appcompat.R$attr: int controlBackground
 android.support.v7.appcompat.R$attr: int customNavigationLayout
 android.support.v7.appcompat.R$attr: int defaultQueryHint
@@ -2165,7 +1998,6 @@ android.support.v7.appcompat.R$attr: int listChoiceBackgroundIndicator
 android.support.v7.appcompat.R$attr: int listDividerAlertDialog
 android.support.v7.appcompat.R$attr: int listItemLayout
 android.support.v7.appcompat.R$attr: int listLayout
-android.support.v7.appcompat.R$attr: int listMenuViewStyle
 android.support.v7.appcompat.R$attr: int listPopupWindowStyle
 android.support.v7.appcompat.R$attr: int listPreferredItemHeight
 android.support.v7.appcompat.R$attr: int listPreferredItemHeightLarge
@@ -2214,7 +2046,6 @@ android.support.v7.appcompat.R$attr: int spinnerStyle
 android.support.v7.appcompat.R$attr: int splitTrack
 android.support.v7.appcompat.R$attr: int srcCompat
 android.support.v7.appcompat.R$attr: int state_above_anchor
-android.support.v7.appcompat.R$attr: int subMenuArrow
 android.support.v7.appcompat.R$attr: int submitBackground
 android.support.v7.appcompat.R$attr: int subtitle
 android.support.v7.appcompat.R$attr: int subtitleTextAppearance
@@ -2229,7 +2060,6 @@ android.support.v7.appcompat.R$attr: int textAllCaps
 android.support.v7.appcompat.R$attr: int textAppearanceLargePopupMenu
 android.support.v7.appcompat.R$attr: int textAppearanceListItem
 android.support.v7.appcompat.R$attr: int textAppearanceListItemSmall
-android.support.v7.appcompat.R$attr: int textAppearancePopupMenuHeader
 android.support.v7.appcompat.R$attr: int textAppearanceSearchResultSubtitle
 android.support.v7.appcompat.R$attr: int textAppearanceSearchResultTitle
 android.support.v7.appcompat.R$attr: int textAppearanceSmallPopupMenu
@@ -2238,13 +2068,7 @@ android.support.v7.appcompat.R$attr: int textColorSearchUrl
 android.support.v7.appcompat.R$attr: int theme
 android.support.v7.appcompat.R$attr: int thickness
 android.support.v7.appcompat.R$attr: int thumbTextPadding
-android.support.v7.appcompat.R$attr: int thumbTint
-android.support.v7.appcompat.R$attr: int thumbTintMode
-android.support.v7.appcompat.R$attr: int tickMark
-android.support.v7.appcompat.R$attr: int tickMarkTint
-android.support.v7.appcompat.R$attr: int tickMarkTintMode
 android.support.v7.appcompat.R$attr: int title
-android.support.v7.appcompat.R$attr: int titleMargin
 android.support.v7.appcompat.R$attr: int titleMarginBottom
 android.support.v7.appcompat.R$attr: int titleMarginEnd
 android.support.v7.appcompat.R$attr: int titleMarginStart
@@ -2256,8 +2080,6 @@ android.support.v7.appcompat.R$attr: int titleTextStyle
 android.support.v7.appcompat.R$attr: int toolbarNavigationButtonStyle
 android.support.v7.appcompat.R$attr: int toolbarStyle
 android.support.v7.appcompat.R$attr: int track
-android.support.v7.appcompat.R$attr: int trackTint
-android.support.v7.appcompat.R$attr: int trackTintMode
 android.support.v7.appcompat.R$attr: int voiceIcon
 android.support.v7.appcompat.R$attr: int windowActionBar
 android.support.v7.appcompat.R$attr: int windowActionBarOverlay
@@ -2270,13 +2092,15 @@ android.support.v7.appcompat.R$attr: int windowMinWidthMajor
 android.support.v7.appcompat.R$attr: int windowMinWidthMinor
 android.support.v7.appcompat.R$attr: int windowNoTitle
 android.support.v7.appcompat.R$bool: int abc_action_bar_embed_tabs
+android.support.v7.appcompat.R$bool: int abc_action_bar_embed_tabs_pre_jb
+android.support.v7.appcompat.R$bool: int abc_action_bar_expanded_action_views_exclusive
 android.support.v7.appcompat.R$bool: int abc_allow_stacked_button_bar
 android.support.v7.appcompat.R$bool: int abc_config_actionMenuItemAllCaps
+android.support.v7.appcompat.R$bool: int abc_config_allowActionMenuItemTextWithIcon
 android.support.v7.appcompat.R$bool: int abc_config_closeDialogWhenTouchOutside
 android.support.v7.appcompat.R$bool: int abc_config_showMenuShortcutsWhenKeyboardPresent
 android.support.v7.appcompat.R$color: int abc_background_cache_hint_selector_material_dark
 android.support.v7.appcompat.R$color: int abc_background_cache_hint_selector_material_light
-android.support.v7.appcompat.R$color: int abc_btn_colored_borderless_text_material
 android.support.v7.appcompat.R$color: int abc_color_highlight_material
 android.support.v7.appcompat.R$color: int abc_input_method_navigation_guard
 android.support.v7.appcompat.R$color: int abc_primary_text_disable_only_material_dark
@@ -2289,13 +2113,6 @@ android.support.v7.appcompat.R$color: int abc_search_url_text_pressed
 android.support.v7.appcompat.R$color: int abc_search_url_text_selected
 android.support.v7.appcompat.R$color: int abc_secondary_text_material_dark
 android.support.v7.appcompat.R$color: int abc_secondary_text_material_light
-android.support.v7.appcompat.R$color: int abc_tint_btn_checkable
-android.support.v7.appcompat.R$color: int abc_tint_default
-android.support.v7.appcompat.R$color: int abc_tint_edittext
-android.support.v7.appcompat.R$color: int abc_tint_seek_thumb
-android.support.v7.appcompat.R$color: int abc_tint_spinner
-android.support.v7.appcompat.R$color: int abc_tint_switch_thumb
-android.support.v7.appcompat.R$color: int abc_tint_switch_track
 android.support.v7.appcompat.R$color: int accent_material_dark
 android.support.v7.appcompat.R$color: int accent_material_light
 android.support.v7.appcompat.R$color: int background_floating_material_dark
@@ -2353,11 +2170,9 @@ android.support.v7.appcompat.R$color: int switch_thumb_material_light
 android.support.v7.appcompat.R$color: int switch_thumb_normal_material_dark
 android.support.v7.appcompat.R$color: int switch_thumb_normal_material_light
 android.support.v7.appcompat.R$dimen: int abc_action_bar_content_inset_material
-android.support.v7.appcompat.R$dimen: int abc_action_bar_content_inset_with_nav
 android.support.v7.appcompat.R$dimen: int abc_action_bar_default_height_material
 android.support.v7.appcompat.R$dimen: int abc_action_bar_default_padding_end_material
 android.support.v7.appcompat.R$dimen: int abc_action_bar_default_padding_start_material
-android.support.v7.appcompat.R$dimen: int abc_action_bar_elevation_material
 android.support.v7.appcompat.R$dimen: int abc_action_bar_icon_vertical_padding_material
 android.support.v7.appcompat.R$dimen: int abc_action_bar_overflow_padding_end_material
 android.support.v7.appcompat.R$dimen: int abc_action_bar_overflow_padding_start_material
@@ -2374,7 +2189,6 @@ android.support.v7.appcompat.R$dimen: int abc_button_inset_horizontal_material
 android.support.v7.appcompat.R$dimen: int abc_button_inset_vertical_material
 android.support.v7.appcompat.R$dimen: int abc_button_padding_horizontal_material
 android.support.v7.appcompat.R$dimen: int abc_button_padding_vertical_material
-android.support.v7.appcompat.R$dimen: int abc_cascading_menus_min_smallest_width
 android.support.v7.appcompat.R$dimen: int abc_config_prefDialogWidth
 android.support.v7.appcompat.R$dimen: int abc_control_corner_material
 android.support.v7.appcompat.R$dimen: int abc_control_inset_material
@@ -2399,9 +2213,8 @@ android.support.v7.appcompat.R$dimen: int abc_edit_text_inset_top_material
 android.support.v7.appcompat.R$dimen: int abc_floating_window_z
 android.support.v7.appcompat.R$dimen: int abc_list_item_padding_horizontal_material
 android.support.v7.appcompat.R$dimen: int abc_panel_menu_list_width
-android.support.v7.appcompat.R$dimen: int abc_progress_bar_height_material
-android.support.v7.appcompat.R$dimen: int abc_search_view_preferred_height
 android.support.v7.appcompat.R$dimen: int abc_search_view_preferred_width
+android.support.v7.appcompat.R$dimen: int abc_search_view_text_min_width
 android.support.v7.appcompat.R$dimen: int abc_seekbar_track_background_height_material
 android.support.v7.appcompat.R$dimen: int abc_seekbar_track_progress_height_material
 android.support.v7.appcompat.R$dimen: int abc_select_dialog_padding_start_material
@@ -2417,7 +2230,6 @@ android.support.v7.appcompat.R$dimen: int abc_text_size_display_4_material
 android.support.v7.appcompat.R$dimen: int abc_text_size_headline_material
 android.support.v7.appcompat.R$dimen: int abc_text_size_large_material
 android.support.v7.appcompat.R$dimen: int abc_text_size_medium_material
-android.support.v7.appcompat.R$dimen: int abc_text_size_menu_header_material
 android.support.v7.appcompat.R$dimen: int abc_text_size_menu_material
 android.support.v7.appcompat.R$dimen: int abc_text_size_small_material
 android.support.v7.appcompat.R$dimen: int abc_text_size_subhead_material
@@ -2443,33 +2255,33 @@ android.support.v7.appcompat.R$drawable: int abc_btn_default_mtrl_shape
 android.support.v7.appcompat.R$drawable: int abc_btn_radio_material
 android.support.v7.appcompat.R$drawable: int abc_btn_radio_to_on_mtrl_000
 android.support.v7.appcompat.R$drawable: int abc_btn_radio_to_on_mtrl_015
+android.support.v7.appcompat.R$drawable: int abc_btn_rating_star_off_mtrl_alpha
+android.support.v7.appcompat.R$drawable: int abc_btn_rating_star_on_mtrl_alpha
 android.support.v7.appcompat.R$drawable: int abc_btn_switch_to_on_mtrl_00001
 android.support.v7.appcompat.R$drawable: int abc_btn_switch_to_on_mtrl_00012
 android.support.v7.appcompat.R$drawable: int abc_cab_background_internal_bg
 android.support.v7.appcompat.R$drawable: int abc_cab_background_top_material
 android.support.v7.appcompat.R$drawable: int abc_cab_background_top_mtrl_alpha
 android.support.v7.appcompat.R$drawable: int abc_control_background_material
-android.support.v7.appcompat.R$drawable: int abc_dialog_material_background
+android.support.v7.appcompat.R$drawable: int abc_dialog_material_background_dark
+android.support.v7.appcompat.R$drawable: int abc_dialog_material_background_light
 android.support.v7.appcompat.R$drawable: int abc_edit_text_material
-android.support.v7.appcompat.R$drawable: int abc_ic_ab_back_material
-android.support.v7.appcompat.R$drawable: int abc_ic_arrow_drop_right_black_24dp
-android.support.v7.appcompat.R$drawable: int abc_ic_clear_material
+android.support.v7.appcompat.R$drawable: int abc_ic_ab_back_mtrl_am_alpha
+android.support.v7.appcompat.R$drawable: int abc_ic_clear_mtrl_alpha
 android.support.v7.appcompat.R$drawable: int abc_ic_commit_search_api_mtrl_alpha
-android.support.v7.appcompat.R$drawable: int abc_ic_go_search_api_material
+android.support.v7.appcompat.R$drawable: int abc_ic_go_search_api_mtrl_alpha
 android.support.v7.appcompat.R$drawable: int abc_ic_menu_copy_mtrl_am_alpha
 android.support.v7.appcompat.R$drawable: int abc_ic_menu_cut_mtrl_alpha
-android.support.v7.appcompat.R$drawable: int abc_ic_menu_overflow_material
+android.support.v7.appcompat.R$drawable: int abc_ic_menu_moreoverflow_mtrl_alpha
 android.support.v7.appcompat.R$drawable: int abc_ic_menu_paste_mtrl_am_alpha
 android.support.v7.appcompat.R$drawable: int abc_ic_menu_selectall_mtrl_alpha
 android.support.v7.appcompat.R$drawable: int abc_ic_menu_share_mtrl_alpha
-android.support.v7.appcompat.R$drawable: int abc_ic_search_api_material
+android.support.v7.appcompat.R$drawable: int abc_ic_search_api_mtrl_alpha
 android.support.v7.appcompat.R$drawable: int abc_ic_star_black_16dp
 android.support.v7.appcompat.R$drawable: int abc_ic_star_black_36dp
-android.support.v7.appcompat.R$drawable: int abc_ic_star_black_48dp
 android.support.v7.appcompat.R$drawable: int abc_ic_star_half_black_16dp
 android.support.v7.appcompat.R$drawable: int abc_ic_star_half_black_36dp
-android.support.v7.appcompat.R$drawable: int abc_ic_star_half_black_48dp
-android.support.v7.appcompat.R$drawable: int abc_ic_voice_search_api_material
+android.support.v7.appcompat.R$drawable: int abc_ic_voice_search_api_mtrl_alpha
 android.support.v7.appcompat.R$drawable: int abc_item_background_holo_dark
 android.support.v7.appcompat.R$drawable: int abc_item_background_holo_light
 android.support.v7.appcompat.R$drawable: int abc_list_divider_mtrl_alpha
@@ -2485,8 +2297,8 @@ android.support.v7.appcompat.R$drawable: int abc_list_selector_holo_dark
 android.support.v7.appcompat.R$drawable: int abc_list_selector_holo_light
 android.support.v7.appcompat.R$drawable: int abc_menu_hardkey_panel_mtrl_mult
 android.support.v7.appcompat.R$drawable: int abc_popup_background_mtrl_mult
+android.support.v7.appcompat.R$drawable: int abc_ratingbar_full_material
 android.support.v7.appcompat.R$drawable: int abc_ratingbar_indicator_material
-android.support.v7.appcompat.R$drawable: int abc_ratingbar_material
 android.support.v7.appcompat.R$drawable: int abc_ratingbar_small_material
 android.support.v7.appcompat.R$drawable: int abc_scrubber_control_off_mtrl_alpha
 android.support.v7.appcompat.R$drawable: int abc_scrubber_control_to_pressed_mtrl_000
@@ -2494,7 +2306,6 @@ android.support.v7.appcompat.R$drawable: int abc_scrubber_control_to_pressed_mtr
 android.support.v7.appcompat.R$drawable: int abc_scrubber_primary_mtrl_alpha
 android.support.v7.appcompat.R$drawable: int abc_scrubber_track_mtrl_alpha
 android.support.v7.appcompat.R$drawable: int abc_seekbar_thumb_material
-android.support.v7.appcompat.R$drawable: int abc_seekbar_tick_mark_material
 android.support.v7.appcompat.R$drawable: int abc_seekbar_track_material
 android.support.v7.appcompat.R$drawable: int abc_spinner_mtrl_am_alpha
 android.support.v7.appcompat.R$drawable: int abc_spinner_textfield_background_material
@@ -2503,15 +2314,11 @@ android.support.v7.appcompat.R$drawable: int abc_switch_track_mtrl_alpha
 android.support.v7.appcompat.R$drawable: int abc_tab_indicator_material
 android.support.v7.appcompat.R$drawable: int abc_tab_indicator_mtrl_alpha
 android.support.v7.appcompat.R$drawable: int abc_text_cursor_material
-android.support.v7.appcompat.R$drawable: int abc_text_select_handle_left_mtrl_alpha
-android.support.v7.appcompat.R$drawable: int abc_text_select_handle_middle_mtrl_alpha
-android.support.v7.appcompat.R$drawable: int abc_text_select_handle_right_mtrl_alpha
 android.support.v7.appcompat.R$drawable: int abc_textfield_activated_mtrl_alpha
 android.support.v7.appcompat.R$drawable: int abc_textfield_default_mtrl_alpha
 android.support.v7.appcompat.R$drawable: int abc_textfield_search_activated_mtrl_alpha
 android.support.v7.appcompat.R$drawable: int abc_textfield_search_default_mtrl_alpha
 android.support.v7.appcompat.R$drawable: int abc_textfield_search_material
-android.support.v7.appcompat.R$drawable: int abc_vector_test
 android.support.v7.appcompat.R$drawable: int notification_template_icon_bg
 android.support.v7.appcompat.R$id: int action0
 android.support.v7.appcompat.R$id: int action_bar
@@ -2529,11 +2336,9 @@ android.support.v7.appcompat.R$id: int action_mode_bar
 android.support.v7.appcompat.R$id: int action_mode_bar_stub
 android.support.v7.appcompat.R$id: int action_mode_close_button
 android.support.v7.appcompat.R$id: int activity_chooser_view_content
-android.support.v7.appcompat.R$id: int add
 android.support.v7.appcompat.R$id: int alertTitle
 android.support.v7.appcompat.R$id: int always
 android.support.v7.appcompat.R$id: int beginning
-android.support.v7.appcompat.R$id: int bottom
 android.support.v7.appcompat.R$id: int buttonPanel
 android.support.v7.appcompat.R$id: int cancel_action
 android.support.v7.appcompat.R$id: int checkbox
@@ -2595,7 +2400,6 @@ android.support.v7.appcompat.R$id: int src_atop
 android.support.v7.appcompat.R$id: int src_in
 android.support.v7.appcompat.R$id: int src_over
 android.support.v7.appcompat.R$id: int status_bar_latest_event_content
-android.support.v7.appcompat.R$id: int submenuarrow
 android.support.v7.appcompat.R$id: int submit_area
 android.support.v7.appcompat.R$id: int tabMode
 android.support.v7.appcompat.R$id: int text
@@ -2604,7 +2408,6 @@ android.support.v7.appcompat.R$id: int textSpacerNoButtons
 android.support.v7.appcompat.R$id: int time
 android.support.v7.appcompat.R$id: int title
 android.support.v7.appcompat.R$id: int title_template
-android.support.v7.appcompat.R$id: int top
 android.support.v7.appcompat.R$id: int topPanel
 android.support.v7.appcompat.R$id: int up
 android.support.v7.appcompat.R$id: int useLogo
@@ -2612,6 +2415,7 @@ android.support.v7.appcompat.R$id: int withText
 android.support.v7.appcompat.R$id: int wrap_content
 android.support.v7.appcompat.R$integer: int abc_config_activityDefaultDur
 android.support.v7.appcompat.R$integer: int abc_config_activityShortDur
+android.support.v7.appcompat.R$integer: int abc_max_action_buttons
 android.support.v7.appcompat.R$integer: int cancel_button_image_alpha
 android.support.v7.appcompat.R$integer: int status_bar_notification_info_maxnum
 android.support.v7.appcompat.R$layout: int abc_action_bar_title_item
@@ -2631,7 +2435,6 @@ android.support.v7.appcompat.R$layout: int abc_list_menu_item_checkbox
 android.support.v7.appcompat.R$layout: int abc_list_menu_item_icon
 android.support.v7.appcompat.R$layout: int abc_list_menu_item_layout
 android.support.v7.appcompat.R$layout: int abc_list_menu_item_radio
-android.support.v7.appcompat.R$layout: int abc_popup_menu_header_item_layout
 android.support.v7.appcompat.R$layout: int abc_popup_menu_item_layout
 android.support.v7.appcompat.R$layout: int abc_screen_content_include
 android.support.v7.appcompat.R$layout: int abc_screen_simple
@@ -2662,18 +2465,6 @@ android.support.v7.appcompat.R$string: int abc_activity_chooser_view_see_all
 android.support.v7.appcompat.R$string: int abc_activitychooserview_choose_application
 android.support.v7.appcompat.R$string: int abc_capital_off
 android.support.v7.appcompat.R$string: int abc_capital_on
-android.support.v7.appcompat.R$string: int abc_font_family_body_1_material
-android.support.v7.appcompat.R$string: int abc_font_family_body_2_material
-android.support.v7.appcompat.R$string: int abc_font_family_button_material
-android.support.v7.appcompat.R$string: int abc_font_family_caption_material
-android.support.v7.appcompat.R$string: int abc_font_family_display_1_material
-android.support.v7.appcompat.R$string: int abc_font_family_display_2_material
-android.support.v7.appcompat.R$string: int abc_font_family_display_3_material
-android.support.v7.appcompat.R$string: int abc_font_family_display_4_material
-android.support.v7.appcompat.R$string: int abc_font_family_headline_material
-android.support.v7.appcompat.R$string: int abc_font_family_menu_material
-android.support.v7.appcompat.R$string: int abc_font_family_subhead_material
-android.support.v7.appcompat.R$string: int abc_font_family_title_material
 android.support.v7.appcompat.R$string: int abc_search_hint
 android.support.v7.appcompat.R$string: int abc_searchview_description_clear
 android.support.v7.appcompat.R$string: int abc_searchview_description_query
@@ -2683,7 +2474,6 @@ android.support.v7.appcompat.R$string: int abc_searchview_description_voice
 android.support.v7.appcompat.R$string: int abc_shareactionprovider_share_with
 android.support.v7.appcompat.R$string: int abc_shareactionprovider_share_with_application
 android.support.v7.appcompat.R$string: int abc_toolbar_collapse_description
-android.support.v7.appcompat.R$string: int search_menu_title
 android.support.v7.appcompat.R$string: int status_bar_notification_info_overflow
 android.support.v7.appcompat.R$style: int AlertDialog_AppCompat
 android.support.v7.appcompat.R$style: int AlertDialog_AppCompat_Light
@@ -2732,7 +2522,6 @@ android.support.v7.appcompat.R$style: int Base_TextAppearance_AppCompat_Widget_A
 android.support.v7.appcompat.R$style: int Base_TextAppearance_AppCompat_Widget_Button
 android.support.v7.appcompat.R$style: int Base_TextAppearance_AppCompat_Widget_Button_Inverse
 android.support.v7.appcompat.R$style: int Base_TextAppearance_AppCompat_Widget_DropDownItem
-android.support.v7.appcompat.R$style: int Base_TextAppearance_AppCompat_Widget_PopupMenu_Header
 android.support.v7.appcompat.R$style: int Base_TextAppearance_AppCompat_Widget_PopupMenu_Large
 android.support.v7.appcompat.R$style: int Base_TextAppearance_AppCompat_Widget_PopupMenu_Small
 android.support.v7.appcompat.R$style: int Base_TextAppearance_AppCompat_Widget_Switch
@@ -2744,8 +2533,6 @@ android.support.v7.appcompat.R$style: int Base_ThemeOverlay_AppCompat
 android.support.v7.appcompat.R$style: int Base_ThemeOverlay_AppCompat_ActionBar
 android.support.v7.appcompat.R$style: int Base_ThemeOverlay_AppCompat_Dark
 android.support.v7.appcompat.R$style: int Base_ThemeOverlay_AppCompat_Dark_ActionBar
-android.support.v7.appcompat.R$style: int Base_ThemeOverlay_AppCompat_Dialog
-android.support.v7.appcompat.R$style: int Base_ThemeOverlay_AppCompat_Dialog_Alert
 android.support.v7.appcompat.R$style: int Base_ThemeOverlay_AppCompat_Light
 android.support.v7.appcompat.R$style: int Base_Theme_AppCompat
 android.support.v7.appcompat.R$style: int Base_Theme_AppCompat_CompactMenu
@@ -2761,12 +2548,10 @@ android.support.v7.appcompat.R$style: int Base_Theme_AppCompat_Light_DialogWhenL
 android.support.v7.appcompat.R$style: int Base_Theme_AppCompat_Light_Dialog_Alert
 android.support.v7.appcompat.R$style: int Base_Theme_AppCompat_Light_Dialog_FixedSize
 android.support.v7.appcompat.R$style: int Base_Theme_AppCompat_Light_Dialog_MinWidth
-android.support.v7.appcompat.R$style: int Base_V11_ThemeOverlay_AppCompat_Dialog
 android.support.v7.appcompat.R$style: int Base_V11_Theme_AppCompat_Dialog
 android.support.v7.appcompat.R$style: int Base_V11_Theme_AppCompat_Light_Dialog
 android.support.v7.appcompat.R$style: int Base_V12_Widget_AppCompat_AutoCompleteTextView
 android.support.v7.appcompat.R$style: int Base_V12_Widget_AppCompat_EditText
-android.support.v7.appcompat.R$style: int Base_V21_ThemeOverlay_AppCompat_Dialog
 android.support.v7.appcompat.R$style: int Base_V21_Theme_AppCompat
 android.support.v7.appcompat.R$style: int Base_V21_Theme_AppCompat_Dialog
 android.support.v7.appcompat.R$style: int Base_V21_Theme_AppCompat_Light
@@ -2775,7 +2560,6 @@ android.support.v7.appcompat.R$style: int Base_V22_Theme_AppCompat
 android.support.v7.appcompat.R$style: int Base_V22_Theme_AppCompat_Light
 android.support.v7.appcompat.R$style: int Base_V23_Theme_AppCompat
 android.support.v7.appcompat.R$style: int Base_V23_Theme_AppCompat_Light
-android.support.v7.appcompat.R$style: int Base_V7_ThemeOverlay_AppCompat_Dialog
 android.support.v7.appcompat.R$style: int Base_V7_Theme_AppCompat
 android.support.v7.appcompat.R$style: int Base_V7_Theme_AppCompat_Dialog
 android.support.v7.appcompat.R$style: int Base_V7_Theme_AppCompat_Light
@@ -2817,7 +2601,6 @@ android.support.v7.appcompat.R$style: int Base_Widget_AppCompat_Light_ActionBar_
 android.support.v7.appcompat.R$style: int Base_Widget_AppCompat_Light_ActionBar_TabView
 android.support.v7.appcompat.R$style: int Base_Widget_AppCompat_Light_PopupMenu
 android.support.v7.appcompat.R$style: int Base_Widget_AppCompat_Light_PopupMenu_Overflow
-android.support.v7.appcompat.R$style: int Base_Widget_AppCompat_ListMenuView
 android.support.v7.appcompat.R$style: int Base_Widget_AppCompat_ListPopupWindow
 android.support.v7.appcompat.R$style: int Base_Widget_AppCompat_ListView
 android.support.v7.appcompat.R$style: int Base_Widget_AppCompat_ListView_DropDown
@@ -2833,7 +2616,6 @@ android.support.v7.appcompat.R$style: int Base_Widget_AppCompat_RatingBar_Small
 android.support.v7.appcompat.R$style: int Base_Widget_AppCompat_SearchView
 android.support.v7.appcompat.R$style: int Base_Widget_AppCompat_SearchView_ActionBar
 android.support.v7.appcompat.R$style: int Base_Widget_AppCompat_SeekBar
-android.support.v7.appcompat.R$style: int Base_Widget_AppCompat_SeekBar_Discrete
 android.support.v7.appcompat.R$style: int Base_Widget_AppCompat_Spinner
 android.support.v7.appcompat.R$style: int Base_Widget_AppCompat_Spinner_Underlined
 android.support.v7.appcompat.R$style: int Base_Widget_AppCompat_TextView_SpinnerItem
@@ -2903,7 +2685,6 @@ android.support.v7.appcompat.R$style: int TextAppearance_AppCompat_Widget_Action
 android.support.v7.appcompat.R$style: int TextAppearance_AppCompat_Widget_Button
 android.support.v7.appcompat.R$style: int TextAppearance_AppCompat_Widget_Button_Inverse
 android.support.v7.appcompat.R$style: int TextAppearance_AppCompat_Widget_DropDownItem
-android.support.v7.appcompat.R$style: int TextAppearance_AppCompat_Widget_PopupMenu_Header
 android.support.v7.appcompat.R$style: int TextAppearance_AppCompat_Widget_PopupMenu_Large
 android.support.v7.appcompat.R$style: int TextAppearance_AppCompat_Widget_PopupMenu_Small
 android.support.v7.appcompat.R$style: int TextAppearance_AppCompat_Widget_Switch
@@ -2920,8 +2701,6 @@ android.support.v7.appcompat.R$style: int ThemeOverlay_AppCompat
 android.support.v7.appcompat.R$style: int ThemeOverlay_AppCompat_ActionBar
 android.support.v7.appcompat.R$style: int ThemeOverlay_AppCompat_Dark
 android.support.v7.appcompat.R$style: int ThemeOverlay_AppCompat_Dark_ActionBar
-android.support.v7.appcompat.R$style: int ThemeOverlay_AppCompat_Dialog
-android.support.v7.appcompat.R$style: int ThemeOverlay_AppCompat_Dialog_Alert
 android.support.v7.appcompat.R$style: int ThemeOverlay_AppCompat_Light
 android.support.v7.appcompat.R$style: int Theme_AppCompat
 android.support.v7.appcompat.R$style: int Theme_AppCompat_CompactMenu
@@ -2992,7 +2771,6 @@ android.support.v7.appcompat.R$style: int Widget_AppCompat_Light_PopupMenu
 android.support.v7.appcompat.R$style: int Widget_AppCompat_Light_PopupMenu_Overflow
 android.support.v7.appcompat.R$style: int Widget_AppCompat_Light_SearchView
 android.support.v7.appcompat.R$style: int Widget_AppCompat_Light_Spinner_DropDown_ActionBar
-android.support.v7.appcompat.R$style: int Widget_AppCompat_ListMenuView
 android.support.v7.appcompat.R$style: int Widget_AppCompat_ListPopupWindow
 android.support.v7.appcompat.R$style: int Widget_AppCompat_ListView
 android.support.v7.appcompat.R$style: int Widget_AppCompat_ListView_DropDown
@@ -3008,7 +2786,6 @@ android.support.v7.appcompat.R$style: int Widget_AppCompat_RatingBar_Small
 android.support.v7.appcompat.R$style: int Widget_AppCompat_SearchView
 android.support.v7.appcompat.R$style: int Widget_AppCompat_SearchView_ActionBar
 android.support.v7.appcompat.R$style: int Widget_AppCompat_SeekBar
-android.support.v7.appcompat.R$style: int Widget_AppCompat_SeekBar_Discrete
 android.support.v7.appcompat.R$style: int Widget_AppCompat_Spinner
 android.support.v7.appcompat.R$style: int Widget_AppCompat_Spinner_DropDown
 android.support.v7.appcompat.R$style: int Widget_AppCompat_Spinner_DropDown_ActionBar
@@ -3023,11 +2800,9 @@ android.support.v7.appcompat.R$styleable: int ActionBar_background
 android.support.v7.appcompat.R$styleable: int ActionBar_backgroundSplit
 android.support.v7.appcompat.R$styleable: int ActionBar_backgroundStacked
 android.support.v7.appcompat.R$styleable: int ActionBar_contentInsetEnd
-android.support.v7.appcompat.R$styleable: int ActionBar_contentInsetEndWithActions
 android.support.v7.appcompat.R$styleable: int ActionBar_contentInsetLeft
 android.support.v7.appcompat.R$styleable: int ActionBar_contentInsetRight
 android.support.v7.appcompat.R$styleable: int ActionBar_contentInsetStart
-android.support.v7.appcompat.R$styleable: int ActionBar_contentInsetStartWithNavigation
 android.support.v7.appcompat.R$styleable: int ActionBar_customNavigationLayout
 android.support.v7.appcompat.R$styleable: int ActionBar_displayOptions
 android.support.v7.appcompat.R$styleable: int ActionBar_divider
@@ -3071,19 +2846,6 @@ android.support.v7.appcompat.R$styleable: int AlertDialog_singleChoiceItemLayout
 android.support.v7.appcompat.R$styleable: int[] AppCompatImageView
 android.support.v7.appcompat.R$styleable: int AppCompatImageView_android_src
 android.support.v7.appcompat.R$styleable: int AppCompatImageView_srcCompat
-android.support.v7.appcompat.R$styleable: int[] AppCompatSeekBar
-android.support.v7.appcompat.R$styleable: int AppCompatSeekBar_android_thumb
-android.support.v7.appcompat.R$styleable: int AppCompatSeekBar_tickMark
-android.support.v7.appcompat.R$styleable: int AppCompatSeekBar_tickMarkTint
-android.support.v7.appcompat.R$styleable: int AppCompatSeekBar_tickMarkTintMode
-android.support.v7.appcompat.R$styleable: int[] AppCompatTextHelper
-android.support.v7.appcompat.R$styleable: int AppCompatTextHelper_android_drawableBottom
-android.support.v7.appcompat.R$styleable: int AppCompatTextHelper_android_drawableEnd
-android.support.v7.appcompat.R$styleable: int AppCompatTextHelper_android_drawableLeft
-android.support.v7.appcompat.R$styleable: int AppCompatTextHelper_android_drawableRight
-android.support.v7.appcompat.R$styleable: int AppCompatTextHelper_android_drawableStart
-android.support.v7.appcompat.R$styleable: int AppCompatTextHelper_android_drawableTop
-android.support.v7.appcompat.R$styleable: int AppCompatTextHelper_android_textAppearance
 android.support.v7.appcompat.R$styleable: int[] AppCompatTextView
 android.support.v7.appcompat.R$styleable: int AppCompatTextView_android_textAppearance
 android.support.v7.appcompat.R$styleable: int AppCompatTextView_textAllCaps
@@ -3137,7 +2899,6 @@ android.support.v7.appcompat.R$styleable: int AppCompatTheme_buttonStyleSmall
 android.support.v7.appcompat.R$styleable: int AppCompatTheme_checkboxStyle
 android.support.v7.appcompat.R$styleable: int AppCompatTheme_checkedTextViewStyle
 android.support.v7.appcompat.R$styleable: int AppCompatTheme_colorAccent
-android.support.v7.appcompat.R$styleable: int AppCompatTheme_colorBackgroundFloating
 android.support.v7.appcompat.R$styleable: int AppCompatTheme_colorButtonNormal
 android.support.v7.appcompat.R$styleable: int AppCompatTheme_colorControlActivated
 android.support.v7.appcompat.R$styleable: int AppCompatTheme_colorControlHighlight
@@ -3159,7 +2920,6 @@ android.support.v7.appcompat.R$styleable: int AppCompatTheme_homeAsUpIndicator
 android.support.v7.appcompat.R$styleable: int AppCompatTheme_imageButtonStyle
 android.support.v7.appcompat.R$styleable: int AppCompatTheme_listChoiceBackgroundIndicator
 android.support.v7.appcompat.R$styleable: int AppCompatTheme_listDividerAlertDialog
-android.support.v7.appcompat.R$styleable: int AppCompatTheme_listMenuViewStyle
 android.support.v7.appcompat.R$styleable: int AppCompatTheme_listPopupWindowStyle
 android.support.v7.appcompat.R$styleable: int AppCompatTheme_listPreferredItemHeight
 android.support.v7.appcompat.R$styleable: int AppCompatTheme_listPreferredItemHeightLarge
@@ -3185,7 +2945,6 @@ android.support.v7.appcompat.R$styleable: int AppCompatTheme_switchStyle
 android.support.v7.appcompat.R$styleable: int AppCompatTheme_textAppearanceLargePopupMenu
 android.support.v7.appcompat.R$styleable: int AppCompatTheme_textAppearanceListItem
 android.support.v7.appcompat.R$styleable: int AppCompatTheme_textAppearanceListItemSmall
-android.support.v7.appcompat.R$styleable: int AppCompatTheme_textAppearancePopupMenuHeader
 android.support.v7.appcompat.R$styleable: int AppCompatTheme_textAppearanceSearchResultSubtitle
 android.support.v7.appcompat.R$styleable: int AppCompatTheme_textAppearanceSearchResultTitle
 android.support.v7.appcompat.R$styleable: int AppCompatTheme_textAppearanceSmallPopupMenu
@@ -3205,10 +2964,6 @@ android.support.v7.appcompat.R$styleable: int AppCompatTheme_windowMinWidthMinor
 android.support.v7.appcompat.R$styleable: int AppCompatTheme_windowNoTitle
 android.support.v7.appcompat.R$styleable: int[] ButtonBarLayout
 android.support.v7.appcompat.R$styleable: int ButtonBarLayout_allowStacking
-android.support.v7.appcompat.R$styleable: int[] ColorStateListItem
-android.support.v7.appcompat.R$styleable: int ColorStateListItem_alpha
-android.support.v7.appcompat.R$styleable: int ColorStateListItem_android_alpha
-android.support.v7.appcompat.R$styleable: int ColorStateListItem_android_color
 android.support.v7.appcompat.R$styleable: int[] CompoundButton
 android.support.v7.appcompat.R$styleable: int CompoundButton_android_button
 android.support.v7.appcompat.R$styleable: int CompoundButton_buttonTint
@@ -3274,11 +3029,9 @@ android.support.v7.appcompat.R$styleable: int MenuView_android_itemTextAppearanc
 android.support.v7.appcompat.R$styleable: int MenuView_android_verticalDivider
 android.support.v7.appcompat.R$styleable: int MenuView_android_windowAnimationStyle
 android.support.v7.appcompat.R$styleable: int MenuView_preserveIconSpacing
-android.support.v7.appcompat.R$styleable: int MenuView_subMenuArrow
 android.support.v7.appcompat.R$styleable: int[] PopupWindow
 android.support.v7.appcompat.R$styleable: int[] PopupWindowBackgroundState
 android.support.v7.appcompat.R$styleable: int PopupWindowBackgroundState_state_above_anchor
-android.support.v7.appcompat.R$styleable: int PopupWindow_android_popupAnimationStyle
 android.support.v7.appcompat.R$styleable: int PopupWindow_android_popupBackground
 android.support.v7.appcompat.R$styleable: int PopupWindow_overlapAnchor
 android.support.v7.appcompat.R$styleable: int[] SearchView
@@ -3315,11 +3068,7 @@ android.support.v7.appcompat.R$styleable: int SwitchCompat_switchMinWidth
 android.support.v7.appcompat.R$styleable: int SwitchCompat_switchPadding
 android.support.v7.appcompat.R$styleable: int SwitchCompat_switchTextAppearance
 android.support.v7.appcompat.R$styleable: int SwitchCompat_thumbTextPadding
-android.support.v7.appcompat.R$styleable: int SwitchCompat_thumbTint
-android.support.v7.appcompat.R$styleable: int SwitchCompat_thumbTintMode
 android.support.v7.appcompat.R$styleable: int SwitchCompat_track
-android.support.v7.appcompat.R$styleable: int SwitchCompat_trackTint
-android.support.v7.appcompat.R$styleable: int SwitchCompat_trackTintMode
 android.support.v7.appcompat.R$styleable: int[] TextAppearance
 android.support.v7.appcompat.R$styleable: int TextAppearance_android_shadowColor
 android.support.v7.appcompat.R$styleable: int TextAppearance_android_shadowDx
@@ -3333,15 +3082,12 @@ android.support.v7.appcompat.R$styleable: int TextAppearance_textAllCaps
 android.support.v7.appcompat.R$styleable: int[] Toolbar
 android.support.v7.appcompat.R$styleable: int Toolbar_android_gravity
 android.support.v7.appcompat.R$styleable: int Toolbar_android_minHeight
-android.support.v7.appcompat.R$styleable: int Toolbar_buttonGravity
 android.support.v7.appcompat.R$styleable: int Toolbar_collapseContentDescription
 android.support.v7.appcompat.R$styleable: int Toolbar_collapseIcon
 android.support.v7.appcompat.R$styleable: int Toolbar_contentInsetEnd
-android.support.v7.appcompat.R$styleable: int Toolbar_contentInsetEndWithActions
 android.support.v7.appcompat.R$styleable: int Toolbar_contentInsetLeft
 android.support.v7.appcompat.R$styleable: int Toolbar_contentInsetRight
 android.support.v7.appcompat.R$styleable: int Toolbar_contentInsetStart
-android.support.v7.appcompat.R$styleable: int Toolbar_contentInsetStartWithNavigation
 android.support.v7.appcompat.R$styleable: int Toolbar_logo
 android.support.v7.appcompat.R$styleable: int Toolbar_logoDescription
 android.support.v7.appcompat.R$styleable: int Toolbar_maxButtonHeight
@@ -3352,7 +3098,6 @@ android.support.v7.appcompat.R$styleable: int Toolbar_subtitle
 android.support.v7.appcompat.R$styleable: int Toolbar_subtitleTextAppearance
 android.support.v7.appcompat.R$styleable: int Toolbar_subtitleTextColor
 android.support.v7.appcompat.R$styleable: int Toolbar_title
-android.support.v7.appcompat.R$styleable: int Toolbar_titleMargin
 android.support.v7.appcompat.R$styleable: int Toolbar_titleMarginBottom
 android.support.v7.appcompat.R$styleable: int Toolbar_titleMarginEnd
 android.support.v7.appcompat.R$styleable: int Toolbar_titleMarginStart
@@ -3419,7 +3164,6 @@ android.support.v7.recyclerview.R$dimen: int item_touch_helper_swipe_escape_max_
 android.support.v7.recyclerview.R$dimen: int item_touch_helper_swipe_escape_velocity
 android.support.v7.recyclerview.R$id: int item_touch_helper_previous_elevation
 android.support.v7.recyclerview.R$styleable: int[] RecyclerView
-android.support.v7.recyclerview.R$styleable: int RecyclerView_android_descendantFocusability
 android.support.v7.recyclerview.R$styleable: int RecyclerView_android_orientation
 android.support.v7.recyclerview.R$styleable: int RecyclerView_layoutManager
 android.support.v7.recyclerview.R$styleable: int RecyclerView_reverseLayout
@@ -3442,14 +3186,13 @@ android.support.v7.view.menu.ExpandedMenuView: ExpandedMenuView(android.content.
 android.support.v7.view.menu.ExpandedMenuView: ExpandedMenuView(android.content.Context,android.util.AttributeSet,int)
 android.support.v7.view.menu.ExpandedMenuView: int getWindowAnimations()
 android.support.v7.view.menu.ListMenuItemView
-android.support.v7.view.menu.ListMenuItemView: ListMenuItemView(android.content.Context,android.util.AttributeSet)
 android.support.v7.view.menu.ListMenuItemView: ListMenuItemView(android.content.Context,android.util.AttributeSet,int)
+android.support.v7.view.menu.ListMenuItemView: ListMenuItemView(android.content.Context,android.util.AttributeSet)
 android.support.v7.view.menu.ListMenuItemView: void setForceShowIcon(boolean)
 android.support.v7.view.menu.ListMenuItemView: void setTitle(java.lang.CharSequence)
 android.support.v7.view.menu.ListMenuItemView: android.support.v7.view.menu.MenuItemImpl getItemData()
 android.support.v7.view.menu.ListMenuItemView: void setCheckable(boolean)
 android.support.v7.view.menu.ListMenuItemView: void setChecked(boolean)
-android.support.v7.view.menu.ListMenuItemView: void setSubMenuArrowVisible(boolean)
 android.support.v7.view.menu.ListMenuItemView: void setIcon(android.graphics.drawable.Drawable)
 android.support.v7.view.menu.ListMenuItemView: android.view.LayoutInflater getInflater()
 android.support.v7.widget.AbsActionBarView: AbsActionBarView(android.content.Context)
@@ -3630,8 +3373,6 @@ android.support.v7.widget.CardView: void setUseCompatPadding(boolean)
 android.support.v7.widget.CardView: void setMinimumWidth(int)
 android.support.v7.widget.CardView: void setMinimumHeight(int)
 android.support.v7.widget.CardView: void setCardBackgroundColor(int)
-android.support.v7.widget.CardView: void setCardBackgroundColor(android.content.res.ColorStateList)
-android.support.v7.widget.CardView: android.content.res.ColorStateList getCardBackgroundColor()
 android.support.v7.widget.CardView: int getContentPaddingLeft()
 android.support.v7.widget.CardView: int getContentPaddingRight()
 android.support.v7.widget.CardView: int getContentPaddingTop()
@@ -3659,7 +3400,6 @@ android.support.v7.widget.DialogTitle
 android.support.v7.widget.DialogTitle: DialogTitle(android.content.Context,android.util.AttributeSet,int)
 android.support.v7.widget.DialogTitle: DialogTitle(android.content.Context,android.util.AttributeSet)
 android.support.v7.widget.DialogTitle: DialogTitle(android.content.Context)
-android.support.v7.widget.DropDownListView: void setListSelectionHidden(boolean)
 android.support.v7.widget.FitWindowsFrameLayout
 android.support.v7.widget.FitWindowsFrameLayout: FitWindowsFrameLayout(android.content.Context)
 android.support.v7.widget.FitWindowsFrameLayout: FitWindowsFrameLayout(android.content.Context,android.util.AttributeSet)
@@ -3702,7 +3442,6 @@ android.support.v7.widget.LinearLayoutManager: LinearLayoutManager(android.conte
 android.support.v7.widget.LinearLayoutManager$SavedState: android.os.Parcelable$Creator CREATOR
 android.support.v7.widget.ListViewCompat: void setSelector(android.graphics.drawable.Drawable)
 android.support.v7.widget.ListViewCompat: void setSelectorEnabled(boolean)
-android.support.v7.widget.MenuPopupWindow$MenuDropDownListView: void setHoverListener(android.support.v7.widget.MenuItemHoverListener)
 android.support.v7.widget.RecyclerView
 android.support.v7.widget.RecyclerView: RecyclerView(android.content.Context)
 android.support.v7.widget.RecyclerView: RecyclerView(android.content.Context,android.util.AttributeSet)
@@ -3717,8 +3456,6 @@ android.support.v7.widget.RecyclerView: android.support.v7.widget.RecyclerView$A
 android.support.v7.widget.RecyclerView: void setRecyclerListener(android.support.v7.widget.RecyclerView$RecyclerListener)
 android.support.v7.widget.RecyclerView: int getBaseline()
 android.support.v7.widget.RecyclerView: void setLayoutManager(android.support.v7.widget.RecyclerView$LayoutManager)
-android.support.v7.widget.RecyclerView: void setOnFlingListener(android.support.v7.widget.RecyclerView$OnFlingListener)
-android.support.v7.widget.RecyclerView: android.support.v7.widget.RecyclerView$OnFlingListener getOnFlingListener()
 android.support.v7.widget.RecyclerView: android.support.v7.widget.RecyclerView$LayoutManager getLayoutManager()
 android.support.v7.widget.RecyclerView: android.support.v7.widget.RecyclerView$RecycledViewPool getRecycledViewPool()
 android.support.v7.widget.RecyclerView: void setRecycledViewPool(android.support.v7.widget.RecyclerView$RecycledViewPool)
@@ -3734,8 +3471,6 @@ android.support.v7.widget.RecyclerView: int getMaxFlingVelocity()
 android.support.v7.widget.RecyclerView: float getScrollFactor()
 android.support.v7.widget.RecyclerView: void setItemAnimator(android.support.v7.widget.RecyclerView$ItemAnimator)
 android.support.v7.widget.RecyclerView: android.support.v7.widget.RecyclerView$ItemAnimator getItemAnimator()
-android.support.v7.widget.RecyclerView: boolean getPreserveFocusAfterLayout()
-android.support.v7.widget.RecyclerView: void setPreserveFocusAfterLayout(boolean)
 android.support.v7.widget.RecyclerView: void setNestedScrollingEnabled(boolean)
 android.support.v7.widget.RecyclerView: android.support.v4.view.NestedScrollingChildHelper getScrollingChildHelper()
 android.support.v7.widget.RecyclerView$LayoutManager: RecyclerView$LayoutManager()
@@ -3768,7 +3503,6 @@ android.support.v7.widget.SearchView: android.support.v4.widget.CursorAdapter ge
 android.support.v7.widget.SearchView: void setMaxWidth(int)
 android.support.v7.widget.SearchView: int getMaxWidth()
 android.support.v7.widget.SearchView: int getPreferredWidth()
-android.support.v7.widget.SearchView: int getPreferredHeight()
 android.support.v7.widget.SearchView: void setImeVisibility(boolean)
 android.support.v7.widget.SearchView: void setQuery(java.lang.CharSequence)
 android.support.v7.widget.SearchView$SavedState: android.os.Parcelable$Creator CREATOR
@@ -3778,7 +3512,6 @@ android.support.v7.widget.SearchView$SearchAutoComplete: SearchView$SearchAutoCo
 android.support.v7.widget.SearchView$SearchAutoComplete: SearchView$SearchAutoComplete(android.content.Context,android.util.AttributeSet,int)
 android.support.v7.widget.SearchView$SearchAutoComplete: void setSearchView(android.support.v7.widget.SearchView)
 android.support.v7.widget.SearchView$SearchAutoComplete: void setThreshold(int)
-android.support.v7.widget.SearchView$SearchAutoComplete: int getSearchViewTextMinWidthDp()
 android.support.v7.widget.StaggeredGridLayoutManager
 android.support.v7.widget.StaggeredGridLayoutManager: StaggeredGridLayoutManager(android.content.Context,android.util.AttributeSet,int,int)
 android.support.v7.widget.StaggeredGridLayoutManager: StaggeredGridLayoutManager(int,int)
@@ -3794,17 +3527,9 @@ android.support.v7.widget.SwitchCompat: int getThumbTextPadding()
 android.support.v7.widget.SwitchCompat: void setTrackDrawable(android.graphics.drawable.Drawable)
 android.support.v7.widget.SwitchCompat: void setTrackResource(int)
 android.support.v7.widget.SwitchCompat: android.graphics.drawable.Drawable getTrackDrawable()
-android.support.v7.widget.SwitchCompat: void setTrackTintList(android.content.res.ColorStateList)
-android.support.v7.widget.SwitchCompat: android.content.res.ColorStateList getTrackTintList()
-android.support.v7.widget.SwitchCompat: void setTrackTintMode(android.graphics.PorterDuff$Mode)
-android.support.v7.widget.SwitchCompat: android.graphics.PorterDuff$Mode getTrackTintMode()
 android.support.v7.widget.SwitchCompat: void setThumbDrawable(android.graphics.drawable.Drawable)
 android.support.v7.widget.SwitchCompat: void setThumbResource(int)
 android.support.v7.widget.SwitchCompat: android.graphics.drawable.Drawable getThumbDrawable()
-android.support.v7.widget.SwitchCompat: void setThumbTintList(android.content.res.ColorStateList)
-android.support.v7.widget.SwitchCompat: android.content.res.ColorStateList getThumbTintList()
-android.support.v7.widget.SwitchCompat: void setThumbTintMode(android.graphics.PorterDuff$Mode)
-android.support.v7.widget.SwitchCompat: android.graphics.PorterDuff$Mode getThumbTintMode()
 android.support.v7.widget.SwitchCompat: void setSplitTrack(boolean)
 android.support.v7.widget.SwitchCompat: boolean getSplitTrack()
 android.support.v7.widget.SwitchCompat: java.lang.CharSequence getTextOn()
@@ -3826,14 +3551,6 @@ android.support.v7.widget.Toolbar: Toolbar(android.content.Context,android.util.
 android.support.v7.widget.Toolbar: Toolbar(android.content.Context,android.util.AttributeSet,int)
 android.support.v7.widget.Toolbar: void setPopupTheme(int)
 android.support.v7.widget.Toolbar: int getPopupTheme()
-android.support.v7.widget.Toolbar: int getTitleMarginStart()
-android.support.v7.widget.Toolbar: void setTitleMarginStart(int)
-android.support.v7.widget.Toolbar: int getTitleMarginTop()
-android.support.v7.widget.Toolbar: void setTitleMarginTop(int)
-android.support.v7.widget.Toolbar: int getTitleMarginEnd()
-android.support.v7.widget.Toolbar: void setTitleMarginEnd(int)
-android.support.v7.widget.Toolbar: int getTitleMarginBottom()
-android.support.v7.widget.Toolbar: void setTitleMarginBottom(int)
 android.support.v7.widget.Toolbar: void setLogo(int)
 android.support.v7.widget.Toolbar: void setLogo(android.graphics.drawable.Drawable)
 android.support.v7.widget.Toolbar: android.graphics.drawable.Drawable getLogo()
@@ -3864,14 +3581,6 @@ android.support.v7.widget.Toolbar: int getContentInsetStart()
 android.support.v7.widget.Toolbar: int getContentInsetEnd()
 android.support.v7.widget.Toolbar: int getContentInsetLeft()
 android.support.v7.widget.Toolbar: int getContentInsetRight()
-android.support.v7.widget.Toolbar: int getContentInsetStartWithNavigation()
-android.support.v7.widget.Toolbar: void setContentInsetStartWithNavigation(int)
-android.support.v7.widget.Toolbar: int getContentInsetEndWithActions()
-android.support.v7.widget.Toolbar: void setContentInsetEndWithActions(int)
-android.support.v7.widget.Toolbar: int getCurrentContentInsetStart()
-android.support.v7.widget.Toolbar: int getCurrentContentInsetEnd()
-android.support.v7.widget.Toolbar: int getCurrentContentInsetLeft()
-android.support.v7.widget.Toolbar: int getCurrentContentInsetRight()
 android.support.v7.widget.Toolbar: android.support.v7.widget.DecorToolbar getWrapper()
 android.support.v7.widget.Toolbar: void setCollapsible(boolean)
 android.support.v7.widget.Toolbar$SavedState: android.os.Parcelable$Creator CREATOR
@@ -3928,8 +3637,6 @@ android.support.v8.renderscript.RenderScript: void rsnAllocationSyncAll(long,lon
 android.support.v8.renderscript.RenderScript: void rsnAllocationSetSurface(long,long,android.view.Surface)
 android.support.v8.renderscript.RenderScript: void rsnAllocationIoSend(long,long)
 android.support.v8.renderscript.RenderScript: void rsnAllocationIoReceive(long,long)
-android.support.v8.renderscript.RenderScript: java.nio.ByteBuffer rsnAllocationGetByteBuffer(long,long,int,int,int)
-android.support.v8.renderscript.RenderScript: long rsnAllocationGetStride(long,long)
 android.support.v8.renderscript.RenderScript: void rsnAllocationGenerateMipmaps(long,long)
 android.support.v8.renderscript.RenderScript: void rsnAllocationCopyFromBitmap(long,long,android.graphics.Bitmap)
 android.support.v8.renderscript.RenderScript: void rsnAllocationData1D(long,long,int,int,int,java.lang.Object,int,int,int,boolean)
@@ -3952,8 +3659,6 @@ android.support.v8.renderscript.RenderScript: void rsnScriptForEach(long,long,lo
 android.support.v8.renderscript.RenderScript: void rsnScriptForEach(long,long,long,int,long,long,boolean)
 android.support.v8.renderscript.RenderScript: void rsnScriptForEachClipped(long,long,long,int,long,long,byte[],int,int,int,int,int,int,boolean)
 android.support.v8.renderscript.RenderScript: void rsnScriptForEachClipped(long,long,long,int,long,long,int,int,int,int,int,int,boolean)
-android.support.v8.renderscript.RenderScript: void rsnScriptForEach(long,long,int,long[],long,byte[],int[])
-android.support.v8.renderscript.RenderScript: void rsnScriptReduce(long,long,int,long[],long,int[])
 android.support.v8.renderscript.RenderScript: void rsnScriptInvokeV(long,long,int,byte[],boolean)
 android.support.v8.renderscript.RenderScript: void rsnScriptSetVarI(long,long,int,int,boolean)
 android.support.v8.renderscript.RenderScript: void rsnScriptSetVarJ(long,long,int,long,boolean)
@@ -3992,7 +3697,7 @@ android.support.v8.renderscript.RenderScript: void rsnIncContextFinish(long)
 android.support.v8.renderscript.RenderScript: void rsnIncObjDestroy(long,long)
 android.support.v8.renderscript.RenderScript: long rsnIncElementCreate(long,long,int,boolean,int)
 android.support.v8.renderscript.RenderScript: long rsnIncTypeCreate(long,long,int,int,int,boolean,boolean,int)
-android.support.v8.renderscript.RenderScript: long rsnIncAllocationCreateTyped(long,long,long,long,int)
+android.support.v8.renderscript.RenderScript: long rsnIncAllocationCreateTyped(long,long,long,long)
 android.support.v8.renderscript.RenderScript$ContextType: android.support.v8.renderscript.RenderScript$ContextType[] values()
 android.support.v8.renderscript.RenderScript$ContextType: android.support.v8.renderscript.RenderScript$ContextType valueOf(java.lang.String)
 android.support.v8.renderscript.RenderScript$Priority: android.support.v8.renderscript.RenderScript$Priority[] values()
@@ -4016,7 +3721,6 @@ com.concorso.android.stradesicure.R$anim: int abc_slide_out_bottom
 com.concorso.android.stradesicure.R$anim: int abc_slide_out_top
 com.concorso.android.stradesicure.R$anim: int alpha
 com.concorso.android.stradesicure.R$anim: int cycle_2
-com.concorso.android.stradesicure.R$anim: int design_appbar_state_list_animator
 com.concorso.android.stradesicure.R$anim: int design_bottom_sheet_slide_in
 com.concorso.android.stradesicure.R$anim: int design_bottom_sheet_slide_out
 com.concorso.android.stradesicure.R$anim: int design_fab_in
@@ -4081,7 +3785,6 @@ com.concorso.android.stradesicure.R$attr: int alertDialogCenterButtons
 com.concorso.android.stradesicure.R$attr: int alertDialogStyle
 com.concorso.android.stradesicure.R$attr: int alertDialogTheme
 com.concorso.android.stradesicure.R$attr: int allowStacking
-com.concorso.android.stradesicure.R$attr: int alpha
 com.concorso.android.stradesicure.R$attr: int animationDuration
 com.concorso.android.stradesicure.R$attr: int arrowHeadLength
 com.concorso.android.stradesicure.R$attr: int arrowShaftLength
@@ -4092,11 +3795,9 @@ com.concorso.android.stradesicure.R$attr: int backgroundStacked
 com.concorso.android.stradesicure.R$attr: int backgroundTint
 com.concorso.android.stradesicure.R$attr: int backgroundTintMode
 com.concorso.android.stradesicure.R$attr: int barLength
-com.concorso.android.stradesicure.R$attr: int behavior_autoHide
 com.concorso.android.stradesicure.R$attr: int behavior_hideable
 com.concorso.android.stradesicure.R$attr: int behavior_overlapTop
 com.concorso.android.stradesicure.R$attr: int behavior_peekHeight
-com.concorso.android.stradesicure.R$attr: int behavior_skipCollapsed
 com.concorso.android.stradesicure.R$attr: int borderWidth
 com.concorso.android.stradesicure.R$attr: int borderlessButtonStyle
 com.concorso.android.stradesicure.R$attr: int bottomSheetDialogTheme
@@ -4106,7 +3807,6 @@ com.concorso.android.stradesicure.R$attr: int buttonBarNegativeButtonStyle
 com.concorso.android.stradesicure.R$attr: int buttonBarNeutralButtonStyle
 com.concorso.android.stradesicure.R$attr: int buttonBarPositiveButtonStyle
 com.concorso.android.stradesicure.R$attr: int buttonBarStyle
-com.concorso.android.stradesicure.R$attr: int buttonGravity
 com.concorso.android.stradesicure.R$attr: int buttonPanelSideLayout
 com.concorso.android.stradesicure.R$attr: int buttonStyle
 com.concorso.android.stradesicure.R$attr: int buttonStyleSmall
@@ -4128,7 +3828,6 @@ com.concorso.android.stradesicure.R$attr: int collapsedTitleGravity
 com.concorso.android.stradesicure.R$attr: int collapsedTitleTextAppearance
 com.concorso.android.stradesicure.R$attr: int color
 com.concorso.android.stradesicure.R$attr: int colorAccent
-com.concorso.android.stradesicure.R$attr: int colorBackgroundFloating
 com.concorso.android.stradesicure.R$attr: int colorButtonNormal
 com.concorso.android.stradesicure.R$attr: int colorControlActivated
 com.concorso.android.stradesicure.R$attr: int colorControlHighlight
@@ -4138,11 +3837,9 @@ com.concorso.android.stradesicure.R$attr: int colorPrimaryDark
 com.concorso.android.stradesicure.R$attr: int colorSwitchThumbNormal
 com.concorso.android.stradesicure.R$attr: int commitIcon
 com.concorso.android.stradesicure.R$attr: int contentInsetEnd
-com.concorso.android.stradesicure.R$attr: int contentInsetEndWithActions
 com.concorso.android.stradesicure.R$attr: int contentInsetLeft
 com.concorso.android.stradesicure.R$attr: int contentInsetRight
 com.concorso.android.stradesicure.R$attr: int contentInsetStart
-com.concorso.android.stradesicure.R$attr: int contentInsetStartWithNavigation
 com.concorso.android.stradesicure.R$attr: int contentPadding
 com.concorso.android.stradesicure.R$attr: int contentPaddingBottom
 com.concorso.android.stradesicure.R$attr: int contentPaddingLeft
@@ -4233,19 +3930,26 @@ com.concorso.android.stradesicure.R$attr: int layout
 com.concorso.android.stradesicure.R$attr: int layoutManager
 com.concorso.android.stradesicure.R$attr: int layout_anchor
 com.concorso.android.stradesicure.R$attr: int layout_anchorGravity
+com.concorso.android.stradesicure.R$attr: int layout_aspectRatio
 com.concorso.android.stradesicure.R$attr: int layout_behavior
 com.concorso.android.stradesicure.R$attr: int layout_collapseMode
 com.concorso.android.stradesicure.R$attr: int layout_collapseParallaxMultiplier
-com.concorso.android.stradesicure.R$attr: int layout_dodgeInsetEdges
-com.concorso.android.stradesicure.R$attr: int layout_insetEdge
+com.concorso.android.stradesicure.R$attr: int layout_heightPercent
 com.concorso.android.stradesicure.R$attr: int layout_keyline
+com.concorso.android.stradesicure.R$attr: int layout_marginBottomPercent
+com.concorso.android.stradesicure.R$attr: int layout_marginEndPercent
+com.concorso.android.stradesicure.R$attr: int layout_marginLeftPercent
+com.concorso.android.stradesicure.R$attr: int layout_marginPercent
+com.concorso.android.stradesicure.R$attr: int layout_marginRightPercent
+com.concorso.android.stradesicure.R$attr: int layout_marginStartPercent
+com.concorso.android.stradesicure.R$attr: int layout_marginTopPercent
 com.concorso.android.stradesicure.R$attr: int layout_scrollFlags
 com.concorso.android.stradesicure.R$attr: int layout_scrollInterpolator
+com.concorso.android.stradesicure.R$attr: int layout_widthPercent
 com.concorso.android.stradesicure.R$attr: int listChoiceBackgroundIndicator
 com.concorso.android.stradesicure.R$attr: int listDividerAlertDialog
 com.concorso.android.stradesicure.R$attr: int listItemLayout
 com.concorso.android.stradesicure.R$attr: int listLayout
-com.concorso.android.stradesicure.R$attr: int listMenuViewStyle
 com.concorso.android.stradesicure.R$attr: int listPopupWindowStyle
 com.concorso.android.stradesicure.R$attr: int listPreferredItemHeight
 com.concorso.android.stradesicure.R$attr: int listPreferredItemHeightLarge
@@ -4269,11 +3973,6 @@ com.concorso.android.stradesicure.R$attr: int pageIndicatorColor
 com.concorso.android.stradesicure.R$attr: int panelBackground
 com.concorso.android.stradesicure.R$attr: int panelMenuListTheme
 com.concorso.android.stradesicure.R$attr: int panelMenuListWidth
-com.concorso.android.stradesicure.R$attr: int passwordToggleContentDescription
-com.concorso.android.stradesicure.R$attr: int passwordToggleDrawable
-com.concorso.android.stradesicure.R$attr: int passwordToggleEnabled
-com.concorso.android.stradesicure.R$attr: int passwordToggleTint
-com.concorso.android.stradesicure.R$attr: int passwordToggleTintMode
 com.concorso.android.stradesicure.R$attr: int popupMenuStyle
 com.concorso.android.stradesicure.R$attr: int popupTheme
 com.concorso.android.stradesicure.R$attr: int popupWindowStyle
@@ -4289,8 +3988,6 @@ com.concorso.android.stradesicure.R$attr: int ratingBarStyleIndicator
 com.concorso.android.stradesicure.R$attr: int ratingBarStyleSmall
 com.concorso.android.stradesicure.R$attr: int reverseLayout
 com.concorso.android.stradesicure.R$attr: int rippleColor
-com.concorso.android.stradesicure.R$attr: int scrimAnimationDuration
-com.concorso.android.stradesicure.R$attr: int scrimVisibleHeightTrigger
 com.concorso.android.stradesicure.R$attr: int searchHintIcon
 com.concorso.android.stradesicure.R$attr: int searchIcon
 com.concorso.android.stradesicure.R$attr: int searchViewStyle
@@ -4309,11 +4006,8 @@ com.concorso.android.stradesicure.R$attr: int splitTrack
 com.concorso.android.stradesicure.R$attr: int srcCompat
 com.concorso.android.stradesicure.R$attr: int stackFromEnd
 com.concorso.android.stradesicure.R$attr: int state_above_anchor
-com.concorso.android.stradesicure.R$attr: int state_collapsed
-com.concorso.android.stradesicure.R$attr: int state_collapsible
 com.concorso.android.stradesicure.R$attr: int statusBarBackground
 com.concorso.android.stradesicure.R$attr: int statusBarScrim
-com.concorso.android.stradesicure.R$attr: int subMenuArrow
 com.concorso.android.stradesicure.R$attr: int submitBackground
 com.concorso.android.stradesicure.R$attr: int subtitle
 com.concorso.android.stradesicure.R$attr: int subtitleTextAppearance
@@ -4344,7 +4038,6 @@ com.concorso.android.stradesicure.R$attr: int textAllCaps
 com.concorso.android.stradesicure.R$attr: int textAppearanceLargePopupMenu
 com.concorso.android.stradesicure.R$attr: int textAppearanceListItem
 com.concorso.android.stradesicure.R$attr: int textAppearanceListItemSmall
-com.concorso.android.stradesicure.R$attr: int textAppearancePopupMenuHeader
 com.concorso.android.stradesicure.R$attr: int textAppearanceSearchResultSubtitle
 com.concorso.android.stradesicure.R$attr: int textAppearanceSearchResultTitle
 com.concorso.android.stradesicure.R$attr: int textAppearanceSmallPopupMenu
@@ -4354,14 +4047,8 @@ com.concorso.android.stradesicure.R$attr: int textColorSearchUrl
 com.concorso.android.stradesicure.R$attr: int theme
 com.concorso.android.stradesicure.R$attr: int thickness
 com.concorso.android.stradesicure.R$attr: int thumbTextPadding
-com.concorso.android.stradesicure.R$attr: int thumbTint
-com.concorso.android.stradesicure.R$attr: int thumbTintMode
-com.concorso.android.stradesicure.R$attr: int tickMark
-com.concorso.android.stradesicure.R$attr: int tickMarkTint
-com.concorso.android.stradesicure.R$attr: int tickMarkTintMode
 com.concorso.android.stradesicure.R$attr: int title
 com.concorso.android.stradesicure.R$attr: int titleEnabled
-com.concorso.android.stradesicure.R$attr: int titleMargin
 com.concorso.android.stradesicure.R$attr: int titleMarginBottom
 com.concorso.android.stradesicure.R$attr: int titleMarginEnd
 com.concorso.android.stradesicure.R$attr: int titleMarginStart
@@ -4374,8 +4061,6 @@ com.concorso.android.stradesicure.R$attr: int toolbarId
 com.concorso.android.stradesicure.R$attr: int toolbarNavigationButtonStyle
 com.concorso.android.stradesicure.R$attr: int toolbarStyle
 com.concorso.android.stradesicure.R$attr: int track
-com.concorso.android.stradesicure.R$attr: int trackTint
-com.concorso.android.stradesicure.R$attr: int trackTintMode
 com.concorso.android.stradesicure.R$attr: int useCompatPadding
 com.concorso.android.stradesicure.R$attr: int voiceIcon
 com.concorso.android.stradesicure.R$attr: int windowActionBar
@@ -4389,13 +4074,15 @@ com.concorso.android.stradesicure.R$attr: int windowMinWidthMajor
 com.concorso.android.stradesicure.R$attr: int windowMinWidthMinor
 com.concorso.android.stradesicure.R$attr: int windowNoTitle
 com.concorso.android.stradesicure.R$bool: int abc_action_bar_embed_tabs
+com.concorso.android.stradesicure.R$bool: int abc_action_bar_embed_tabs_pre_jb
+com.concorso.android.stradesicure.R$bool: int abc_action_bar_expanded_action_views_exclusive
 com.concorso.android.stradesicure.R$bool: int abc_allow_stacked_button_bar
 com.concorso.android.stradesicure.R$bool: int abc_config_actionMenuItemAllCaps
+com.concorso.android.stradesicure.R$bool: int abc_config_allowActionMenuItemTextWithIcon
 com.concorso.android.stradesicure.R$bool: int abc_config_closeDialogWhenTouchOutside
 com.concorso.android.stradesicure.R$bool: int abc_config_showMenuShortcutsWhenKeyboardPresent
 com.concorso.android.stradesicure.R$color: int abc_background_cache_hint_selector_material_dark
 com.concorso.android.stradesicure.R$color: int abc_background_cache_hint_selector_material_light
-com.concorso.android.stradesicure.R$color: int abc_btn_colored_borderless_text_material
 com.concorso.android.stradesicure.R$color: int abc_color_highlight_material
 com.concorso.android.stradesicure.R$color: int abc_input_method_navigation_guard
 com.concorso.android.stradesicure.R$color: int abc_primary_text_disable_only_material_dark
@@ -4408,13 +4095,6 @@ com.concorso.android.stradesicure.R$color: int abc_search_url_text_pressed
 com.concorso.android.stradesicure.R$color: int abc_search_url_text_selected
 com.concorso.android.stradesicure.R$color: int abc_secondary_text_material_dark
 com.concorso.android.stradesicure.R$color: int abc_secondary_text_material_light
-com.concorso.android.stradesicure.R$color: int abc_tint_btn_checkable
-com.concorso.android.stradesicure.R$color: int abc_tint_default
-com.concorso.android.stradesicure.R$color: int abc_tint_edittext
-com.concorso.android.stradesicure.R$color: int abc_tint_seek_thumb
-com.concorso.android.stradesicure.R$color: int abc_tint_spinner
-com.concorso.android.stradesicure.R$color: int abc_tint_switch_thumb
-com.concorso.android.stradesicure.R$color: int abc_tint_switch_track
 com.concorso.android.stradesicure.R$color: int about_libraries_accent
 com.concorso.android.stradesicure.R$color: int about_libraries_card
 com.concorso.android.stradesicure.R$color: int about_libraries_card_dark
@@ -4457,7 +4137,6 @@ com.concorso.android.stradesicure.R$color: int color_accent
 com.concorso.android.stradesicure.R$color: int color_blank
 com.concorso.android.stradesicure.R$color: int color_primary
 com.concorso.android.stradesicure.R$color: int color_primary_dark
-com.concorso.android.stradesicure.R$color: int design_error
 com.concorso.android.stradesicure.R$color: int design_fab_shadow_end_color
 com.concorso.android.stradesicure.R$color: int design_fab_shadow_mid_color
 com.concorso.android.stradesicure.R$color: int design_fab_shadow_start_color
@@ -4468,7 +4147,6 @@ com.concorso.android.stradesicure.R$color: int design_fab_stroke_top_outer_color
 com.concorso.android.stradesicure.R$color: int design_snackbar_background_color
 com.concorso.android.stradesicure.R$color: int design_textinput_error_color_dark
 com.concorso.android.stradesicure.R$color: int design_textinput_error_color_light
-com.concorso.android.stradesicure.R$color: int design_tint_password_toggle
 com.concorso.android.stradesicure.R$color: int dim_foreground_disabled_material_dark
 com.concorso.android.stradesicure.R$color: int dim_foreground_disabled_material_light
 com.concorso.android.stradesicure.R$color: int dim_foreground_material_dark
@@ -4579,11 +4257,9 @@ com.concorso.android.stradesicure.R$color: int tick_cross_stroke_color
 com.concorso.android.stradesicure.R$color: int touch_effect
 com.concorso.android.stradesicure.R$color: int tutorial
 com.concorso.android.stradesicure.R$dimen: int abc_action_bar_content_inset_material
-com.concorso.android.stradesicure.R$dimen: int abc_action_bar_content_inset_with_nav
 com.concorso.android.stradesicure.R$dimen: int abc_action_bar_default_height_material
 com.concorso.android.stradesicure.R$dimen: int abc_action_bar_default_padding_end_material
 com.concorso.android.stradesicure.R$dimen: int abc_action_bar_default_padding_start_material
-com.concorso.android.stradesicure.R$dimen: int abc_action_bar_elevation_material
 com.concorso.android.stradesicure.R$dimen: int abc_action_bar_icon_vertical_padding_material
 com.concorso.android.stradesicure.R$dimen: int abc_action_bar_overflow_padding_end_material
 com.concorso.android.stradesicure.R$dimen: int abc_action_bar_overflow_padding_start_material
@@ -4600,7 +4276,6 @@ com.concorso.android.stradesicure.R$dimen: int abc_button_inset_horizontal_mater
 com.concorso.android.stradesicure.R$dimen: int abc_button_inset_vertical_material
 com.concorso.android.stradesicure.R$dimen: int abc_button_padding_horizontal_material
 com.concorso.android.stradesicure.R$dimen: int abc_button_padding_vertical_material
-com.concorso.android.stradesicure.R$dimen: int abc_cascading_menus_min_smallest_width
 com.concorso.android.stradesicure.R$dimen: int abc_config_prefDialogWidth
 com.concorso.android.stradesicure.R$dimen: int abc_control_corner_material
 com.concorso.android.stradesicure.R$dimen: int abc_control_inset_material
@@ -4625,9 +4300,8 @@ com.concorso.android.stradesicure.R$dimen: int abc_edit_text_inset_top_material
 com.concorso.android.stradesicure.R$dimen: int abc_floating_window_z
 com.concorso.android.stradesicure.R$dimen: int abc_list_item_padding_horizontal_material
 com.concorso.android.stradesicure.R$dimen: int abc_panel_menu_list_width
-com.concorso.android.stradesicure.R$dimen: int abc_progress_bar_height_material
-com.concorso.android.stradesicure.R$dimen: int abc_search_view_preferred_height
 com.concorso.android.stradesicure.R$dimen: int abc_search_view_preferred_width
+com.concorso.android.stradesicure.R$dimen: int abc_search_view_text_min_width
 com.concorso.android.stradesicure.R$dimen: int abc_seekbar_track_background_height_material
 com.concorso.android.stradesicure.R$dimen: int abc_seekbar_track_progress_height_material
 com.concorso.android.stradesicure.R$dimen: int abc_select_dialog_padding_start_material
@@ -4643,7 +4317,6 @@ com.concorso.android.stradesicure.R$dimen: int abc_text_size_display_4_material
 com.concorso.android.stradesicure.R$dimen: int abc_text_size_headline_material
 com.concorso.android.stradesicure.R$dimen: int abc_text_size_large_material
 com.concorso.android.stradesicure.R$dimen: int abc_text_size_medium_material
-com.concorso.android.stradesicure.R$dimen: int abc_text_size_menu_header_material
 com.concorso.android.stradesicure.R$dimen: int abc_text_size_menu_material
 com.concorso.android.stradesicure.R$dimen: int abc_text_size_small_material
 com.concorso.android.stradesicure.R$dimen: int abc_text_size_subhead_material
@@ -4659,14 +4332,8 @@ com.concorso.android.stradesicure.R$dimen: int cardview_default_elevation
 com.concorso.android.stradesicure.R$dimen: int cardview_default_radius
 com.concorso.android.stradesicure.R$dimen: int category_item_text_size
 com.concorso.android.stradesicure.R$dimen: int design_appbar_elevation
-com.concorso.android.stradesicure.R$dimen: int design_bottom_navigation_active_item_max_width
-com.concorso.android.stradesicure.R$dimen: int design_bottom_navigation_active_text_size
-com.concorso.android.stradesicure.R$dimen: int design_bottom_navigation_height
-com.concorso.android.stradesicure.R$dimen: int design_bottom_navigation_item_max_width
-com.concorso.android.stradesicure.R$dimen: int design_bottom_navigation_margin
-com.concorso.android.stradesicure.R$dimen: int design_bottom_navigation_text_size
 com.concorso.android.stradesicure.R$dimen: int design_bottom_sheet_modal_elevation
-com.concorso.android.stradesicure.R$dimen: int design_bottom_sheet_peek_height_min
+com.concorso.android.stradesicure.R$dimen: int design_bottom_sheet_modal_peek_height
 com.concorso.android.stradesicure.R$dimen: int design_fab_border_width
 com.concorso.android.stradesicure.R$dimen: int design_fab_elevation
 com.concorso.android.stradesicure.R$dimen: int design_fab_image_size
@@ -4738,33 +4405,33 @@ com.concorso.android.stradesicure.R$drawable: int abc_btn_default_mtrl_shape
 com.concorso.android.stradesicure.R$drawable: int abc_btn_radio_material
 com.concorso.android.stradesicure.R$drawable: int abc_btn_radio_to_on_mtrl_000
 com.concorso.android.stradesicure.R$drawable: int abc_btn_radio_to_on_mtrl_015
+com.concorso.android.stradesicure.R$drawable: int abc_btn_rating_star_off_mtrl_alpha
+com.concorso.android.stradesicure.R$drawable: int abc_btn_rating_star_on_mtrl_alpha
 com.concorso.android.stradesicure.R$drawable: int abc_btn_switch_to_on_mtrl_00001
 com.concorso.android.stradesicure.R$drawable: int abc_btn_switch_to_on_mtrl_00012
 com.concorso.android.stradesicure.R$drawable: int abc_cab_background_internal_bg
 com.concorso.android.stradesicure.R$drawable: int abc_cab_background_top_material
 com.concorso.android.stradesicure.R$drawable: int abc_cab_background_top_mtrl_alpha
 com.concorso.android.stradesicure.R$drawable: int abc_control_background_material
-com.concorso.android.stradesicure.R$drawable: int abc_dialog_material_background
+com.concorso.android.stradesicure.R$drawable: int abc_dialog_material_background_dark
+com.concorso.android.stradesicure.R$drawable: int abc_dialog_material_background_light
 com.concorso.android.stradesicure.R$drawable: int abc_edit_text_material
-com.concorso.android.stradesicure.R$drawable: int abc_ic_ab_back_material
-com.concorso.android.stradesicure.R$drawable: int abc_ic_arrow_drop_right_black_24dp
-com.concorso.android.stradesicure.R$drawable: int abc_ic_clear_material
+com.concorso.android.stradesicure.R$drawable: int abc_ic_ab_back_mtrl_am_alpha
+com.concorso.android.stradesicure.R$drawable: int abc_ic_clear_mtrl_alpha
 com.concorso.android.stradesicure.R$drawable: int abc_ic_commit_search_api_mtrl_alpha
-com.concorso.android.stradesicure.R$drawable: int abc_ic_go_search_api_material
+com.concorso.android.stradesicure.R$drawable: int abc_ic_go_search_api_mtrl_alpha
 com.concorso.android.stradesicure.R$drawable: int abc_ic_menu_copy_mtrl_am_alpha
 com.concorso.android.stradesicure.R$drawable: int abc_ic_menu_cut_mtrl_alpha
-com.concorso.android.stradesicure.R$drawable: int abc_ic_menu_overflow_material
+com.concorso.android.stradesicure.R$drawable: int abc_ic_menu_moreoverflow_mtrl_alpha
 com.concorso.android.stradesicure.R$drawable: int abc_ic_menu_paste_mtrl_am_alpha
 com.concorso.android.stradesicure.R$drawable: int abc_ic_menu_selectall_mtrl_alpha
 com.concorso.android.stradesicure.R$drawable: int abc_ic_menu_share_mtrl_alpha
-com.concorso.android.stradesicure.R$drawable: int abc_ic_search_api_material
+com.concorso.android.stradesicure.R$drawable: int abc_ic_search_api_mtrl_alpha
 com.concorso.android.stradesicure.R$drawable: int abc_ic_star_black_16dp
 com.concorso.android.stradesicure.R$drawable: int abc_ic_star_black_36dp
-com.concorso.android.stradesicure.R$drawable: int abc_ic_star_black_48dp
 com.concorso.android.stradesicure.R$drawable: int abc_ic_star_half_black_16dp
 com.concorso.android.stradesicure.R$drawable: int abc_ic_star_half_black_36dp
-com.concorso.android.stradesicure.R$drawable: int abc_ic_star_half_black_48dp
-com.concorso.android.stradesicure.R$drawable: int abc_ic_voice_search_api_material
+com.concorso.android.stradesicure.R$drawable: int abc_ic_voice_search_api_mtrl_alpha
 com.concorso.android.stradesicure.R$drawable: int abc_item_background_holo_dark
 com.concorso.android.stradesicure.R$drawable: int abc_item_background_holo_light
 com.concorso.android.stradesicure.R$drawable: int abc_list_divider_mtrl_alpha
@@ -4780,8 +4447,8 @@ com.concorso.android.stradesicure.R$drawable: int abc_list_selector_holo_dark
 com.concorso.android.stradesicure.R$drawable: int abc_list_selector_holo_light
 com.concorso.android.stradesicure.R$drawable: int abc_menu_hardkey_panel_mtrl_mult
 com.concorso.android.stradesicure.R$drawable: int abc_popup_background_mtrl_mult
+com.concorso.android.stradesicure.R$drawable: int abc_ratingbar_full_material
 com.concorso.android.stradesicure.R$drawable: int abc_ratingbar_indicator_material
-com.concorso.android.stradesicure.R$drawable: int abc_ratingbar_material
 com.concorso.android.stradesicure.R$drawable: int abc_ratingbar_small_material
 com.concorso.android.stradesicure.R$drawable: int abc_scrubber_control_off_mtrl_alpha
 com.concorso.android.stradesicure.R$drawable: int abc_scrubber_control_to_pressed_mtrl_000
@@ -4789,7 +4456,6 @@ com.concorso.android.stradesicure.R$drawable: int abc_scrubber_control_to_presse
 com.concorso.android.stradesicure.R$drawable: int abc_scrubber_primary_mtrl_alpha
 com.concorso.android.stradesicure.R$drawable: int abc_scrubber_track_mtrl_alpha
 com.concorso.android.stradesicure.R$drawable: int abc_seekbar_thumb_material
-com.concorso.android.stradesicure.R$drawable: int abc_seekbar_tick_mark_material
 com.concorso.android.stradesicure.R$drawable: int abc_seekbar_track_material
 com.concorso.android.stradesicure.R$drawable: int abc_spinner_mtrl_am_alpha
 com.concorso.android.stradesicure.R$drawable: int abc_spinner_textfield_background_material
@@ -4798,15 +4464,11 @@ com.concorso.android.stradesicure.R$drawable: int abc_switch_track_mtrl_alpha
 com.concorso.android.stradesicure.R$drawable: int abc_tab_indicator_material
 com.concorso.android.stradesicure.R$drawable: int abc_tab_indicator_mtrl_alpha
 com.concorso.android.stradesicure.R$drawable: int abc_text_cursor_material
-com.concorso.android.stradesicure.R$drawable: int abc_text_select_handle_left_mtrl_alpha
-com.concorso.android.stradesicure.R$drawable: int abc_text_select_handle_middle_mtrl_alpha
-com.concorso.android.stradesicure.R$drawable: int abc_text_select_handle_right_mtrl_alpha
 com.concorso.android.stradesicure.R$drawable: int abc_textfield_activated_mtrl_alpha
 com.concorso.android.stradesicure.R$drawable: int abc_textfield_default_mtrl_alpha
 com.concorso.android.stradesicure.R$drawable: int abc_textfield_search_activated_mtrl_alpha
 com.concorso.android.stradesicure.R$drawable: int abc_textfield_search_default_mtrl_alpha
 com.concorso.android.stradesicure.R$drawable: int abc_textfield_search_material
-com.concorso.android.stradesicure.R$drawable: int abc_vector_test
 com.concorso.android.stradesicure.R$drawable: int answer_quiz_fab
 com.concorso.android.stradesicure.R$drawable: int art_bike
 com.concorso.android.stradesicure.R$drawable: int art_game
@@ -4819,7 +4481,6 @@ com.concorso.android.stradesicure.R$drawable: int back
 com.concorso.android.stradesicure.R$drawable: int button_background
 com.concorso.android.stradesicure.R$drawable: int button_rect_normal
 com.concorso.android.stradesicure.R$drawable: int design_fab_background
-com.concorso.android.stradesicure.R$drawable: int design_ic_visibility
 com.concorso.android.stradesicure.R$drawable: int design_snackbar_background
 com.concorso.android.stradesicure.R$drawable: int ic_arrow_back
 com.concorso.android.stradesicure.R$drawable: int ic_arrow_back_black
@@ -4867,7 +4528,6 @@ com.concorso.android.stradesicure.R$drawable: int image_category_sixth
 com.concorso.android.stradesicure.R$drawable: int image_category_sixth_raster
 com.concorso.android.stradesicure.R$drawable: int image_category_third
 com.concorso.android.stradesicure.R$drawable: int image_category_third_raster
-com.concorso.android.stradesicure.R$drawable: int navigation_empty_icon
 com.concorso.android.stradesicure.R$drawable: int notification_template_icon_bg
 com.concorso.android.stradesicure.R$drawable: int selector_button
 com.concorso.android.stradesicure.R$drawable: int selector_checkable
@@ -4905,14 +4565,11 @@ com.concorso.android.stradesicure.R$id: int action_mode_bar
 com.concorso.android.stradesicure.R$id: int action_mode_bar_stub
 com.concorso.android.stradesicure.R$id: int action_mode_close_button
 com.concorso.android.stradesicure.R$id: int activity_chooser_view_content
-com.concorso.android.stradesicure.R$id: int add
 com.concorso.android.stradesicure.R$id: int alertTitle
-com.concorso.android.stradesicure.R$id: int all
 com.concorso.android.stradesicure.R$id: int always
 com.concorso.android.stradesicure.R$id: int answer
 com.concorso.android.stradesicure.R$id: int answer_false
 com.concorso.android.stradesicure.R$id: int answer_true
-com.concorso.android.stradesicure.R$id: int auto
 com.concorso.android.stradesicure.R$id: int back
 com.concorso.android.stradesicure.R$id: int beginning
 com.concorso.android.stradesicure.R$id: int blurred_view
@@ -5077,14 +4734,12 @@ com.concorso.android.stradesicure.R$id: int src_in
 com.concorso.android.stradesicure.R$id: int src_over
 com.concorso.android.stradesicure.R$id: int start
 com.concorso.android.stradesicure.R$id: int status_bar_latest_event_content
-com.concorso.android.stradesicure.R$id: int submenuarrow
 com.concorso.android.stradesicure.R$id: int submitAnswer
 com.concorso.android.stradesicure.R$id: int submit_area
 com.concorso.android.stradesicure.R$id: int tabMode
 com.concorso.android.stradesicure.R$id: int text
 com.concorso.android.stradesicure.R$id: int text2
 com.concorso.android.stradesicure.R$id: int textSpacerNoButtons
-com.concorso.android.stradesicure.R$id: int text_input_password_toggle
 com.concorso.android.stradesicure.R$id: int time
 com.concorso.android.stradesicure.R$id: int title
 com.concorso.android.stradesicure.R$id: int title_template
@@ -5092,7 +4747,6 @@ com.concorso.android.stradesicure.R$id: int toolbar
 com.concorso.android.stradesicure.R$id: int toolbar_player
 com.concorso.android.stradesicure.R$id: int top
 com.concorso.android.stradesicure.R$id: int topPanel
-com.concorso.android.stradesicure.R$id: int touch_outside
 com.concorso.android.stradesicure.R$id: int up
 com.concorso.android.stradesicure.R$id: int useLogo
 com.concorso.android.stradesicure.R$id: int view_offset_helper
@@ -5100,7 +4754,7 @@ com.concorso.android.stradesicure.R$id: int withText
 com.concorso.android.stradesicure.R$id: int wrap_content
 com.concorso.android.stradesicure.R$integer: int abc_config_activityDefaultDur
 com.concorso.android.stradesicure.R$integer: int abc_config_activityShortDur
-com.concorso.android.stradesicure.R$integer: int app_bar_elevation_anim_duration
+com.concorso.android.stradesicure.R$integer: int abc_max_action_buttons
 com.concorso.android.stradesicure.R$integer: int bottom_sheet_slide_duration
 com.concorso.android.stradesicure.R$integer: int cancel_button_image_alpha
 com.concorso.android.stradesicure.R$integer: int design_snackbar_text_max_lines
@@ -5129,7 +4783,6 @@ com.concorso.android.stradesicure.R$layout: int abc_list_menu_item_checkbox
 com.concorso.android.stradesicure.R$layout: int abc_list_menu_item_icon
 com.concorso.android.stradesicure.R$layout: int abc_list_menu_item_layout
 com.concorso.android.stradesicure.R$layout: int abc_list_menu_item_radio
-com.concorso.android.stradesicure.R$layout: int abc_popup_menu_header_item_layout
 com.concorso.android.stradesicure.R$layout: int abc_popup_menu_item_layout
 com.concorso.android.stradesicure.R$layout: int abc_screen_content_include
 com.concorso.android.stradesicure.R$layout: int abc_screen_simple
@@ -5159,7 +4812,6 @@ com.concorso.android.stradesicure.R$layout: int design_navigation_item_separator
 com.concorso.android.stradesicure.R$layout: int design_navigation_item_subheader
 com.concorso.android.stradesicure.R$layout: int design_navigation_menu
 com.concorso.android.stradesicure.R$layout: int design_navigation_menu_item
-com.concorso.android.stradesicure.R$layout: int design_text_input_password_icon
 com.concorso.android.stradesicure.R$layout: int fab_done
 com.concorso.android.stradesicure.R$layout: int fragment_categories
 com.concorso.android.stradesicure.R$layout: int fragment_grid_menu
@@ -5207,18 +4859,6 @@ com.concorso.android.stradesicure.R$string: int abc_activity_chooser_view_see_al
 com.concorso.android.stradesicure.R$string: int abc_activitychooserview_choose_application
 com.concorso.android.stradesicure.R$string: int abc_capital_off
 com.concorso.android.stradesicure.R$string: int abc_capital_on
-com.concorso.android.stradesicure.R$string: int abc_font_family_body_1_material
-com.concorso.android.stradesicure.R$string: int abc_font_family_body_2_material
-com.concorso.android.stradesicure.R$string: int abc_font_family_button_material
-com.concorso.android.stradesicure.R$string: int abc_font_family_caption_material
-com.concorso.android.stradesicure.R$string: int abc_font_family_display_1_material
-com.concorso.android.stradesicure.R$string: int abc_font_family_display_2_material
-com.concorso.android.stradesicure.R$string: int abc_font_family_display_3_material
-com.concorso.android.stradesicure.R$string: int abc_font_family_display_4_material
-com.concorso.android.stradesicure.R$string: int abc_font_family_headline_material
-com.concorso.android.stradesicure.R$string: int abc_font_family_menu_material
-com.concorso.android.stradesicure.R$string: int abc_font_family_subhead_material
-com.concorso.android.stradesicure.R$string: int abc_font_family_title_material
 com.concorso.android.stradesicure.R$string: int abc_search_hint
 com.concorso.android.stradesicure.R$string: int abc_searchview_description_clear
 com.concorso.android.stradesicure.R$string: int abc_searchview_description_query
@@ -6909,7 +6549,6 @@ com.concorso.android.stradesicure.R$string: int pref_title_splash_duration
 com.concorso.android.stradesicure.R$string: int pref_title_splash_enable
 com.concorso.android.stradesicure.R$string: int pref_title_tutorial_enable
 com.concorso.android.stradesicure.R$string: int quiz_of_quizzes
-com.concorso.android.stradesicure.R$string: int search_menu_title
 com.concorso.android.stradesicure.R$string: int sign_out
 com.concorso.android.stradesicure.R$string: int status_bar_notification_info_overflow
 com.concorso.android.stradesicure.R$string: int title_activity_settings
@@ -6971,7 +6610,6 @@ com.concorso.android.stradesicure.R$style: int Base_TextAppearance_AppCompat_Wid
 com.concorso.android.stradesicure.R$style: int Base_TextAppearance_AppCompat_Widget_Button
 com.concorso.android.stradesicure.R$style: int Base_TextAppearance_AppCompat_Widget_Button_Inverse
 com.concorso.android.stradesicure.R$style: int Base_TextAppearance_AppCompat_Widget_DropDownItem
-com.concorso.android.stradesicure.R$style: int Base_TextAppearance_AppCompat_Widget_PopupMenu_Header
 com.concorso.android.stradesicure.R$style: int Base_TextAppearance_AppCompat_Widget_PopupMenu_Large
 com.concorso.android.stradesicure.R$style: int Base_TextAppearance_AppCompat_Widget_PopupMenu_Small
 com.concorso.android.stradesicure.R$style: int Base_TextAppearance_AppCompat_Widget_Switch
@@ -6997,19 +6635,15 @@ com.concorso.android.stradesicure.R$style: int Base_ThemeOverlay_AppCompat
 com.concorso.android.stradesicure.R$style: int Base_ThemeOverlay_AppCompat_ActionBar
 com.concorso.android.stradesicure.R$style: int Base_ThemeOverlay_AppCompat_Dark
 com.concorso.android.stradesicure.R$style: int Base_ThemeOverlay_AppCompat_Dark_ActionBar
-com.concorso.android.stradesicure.R$style: int Base_ThemeOverlay_AppCompat_Dialog
-com.concorso.android.stradesicure.R$style: int Base_ThemeOverlay_AppCompat_Dialog_Alert
 com.concorso.android.stradesicure.R$style: int Base_ThemeOverlay_AppCompat_Light
 com.concorso.android.stradesicure.R$style: int Base_V11_Theme_AppCompat_Dialog
 com.concorso.android.stradesicure.R$style: int Base_V11_Theme_AppCompat_Light_Dialog
-com.concorso.android.stradesicure.R$style: int Base_V11_ThemeOverlay_AppCompat_Dialog
 com.concorso.android.stradesicure.R$style: int Base_V12_Widget_AppCompat_AutoCompleteTextView
 com.concorso.android.stradesicure.R$style: int Base_V12_Widget_AppCompat_EditText
 com.concorso.android.stradesicure.R$style: int Base_V21_Theme_AppCompat
 com.concorso.android.stradesicure.R$style: int Base_V21_Theme_AppCompat_Dialog
 com.concorso.android.stradesicure.R$style: int Base_V21_Theme_AppCompat_Light
 com.concorso.android.stradesicure.R$style: int Base_V21_Theme_AppCompat_Light_Dialog
-com.concorso.android.stradesicure.R$style: int Base_V21_ThemeOverlay_AppCompat_Dialog
 com.concorso.android.stradesicure.R$style: int Base_V22_Theme_AppCompat
 com.concorso.android.stradesicure.R$style: int Base_V22_Theme_AppCompat_Light
 com.concorso.android.stradesicure.R$style: int Base_V23_Theme_AppCompat
@@ -7018,7 +6652,6 @@ com.concorso.android.stradesicure.R$style: int Base_V7_Theme_AppCompat
 com.concorso.android.stradesicure.R$style: int Base_V7_Theme_AppCompat_Dialog
 com.concorso.android.stradesicure.R$style: int Base_V7_Theme_AppCompat_Light
 com.concorso.android.stradesicure.R$style: int Base_V7_Theme_AppCompat_Light_Dialog
-com.concorso.android.stradesicure.R$style: int Base_V7_ThemeOverlay_AppCompat_Dialog
 com.concorso.android.stradesicure.R$style: int Base_V7_Widget_AppCompat_AutoCompleteTextView
 com.concorso.android.stradesicure.R$style: int Base_V7_Widget_AppCompat_EditText
 com.concorso.android.stradesicure.R$style: int Base_Widget_AppCompat_ActionBar
@@ -7056,7 +6689,6 @@ com.concorso.android.stradesicure.R$style: int Base_Widget_AppCompat_Light_Actio
 com.concorso.android.stradesicure.R$style: int Base_Widget_AppCompat_Light_ActionBar_TabView
 com.concorso.android.stradesicure.R$style: int Base_Widget_AppCompat_Light_PopupMenu
 com.concorso.android.stradesicure.R$style: int Base_Widget_AppCompat_Light_PopupMenu_Overflow
-com.concorso.android.stradesicure.R$style: int Base_Widget_AppCompat_ListMenuView
 com.concorso.android.stradesicure.R$style: int Base_Widget_AppCompat_ListPopupWindow
 com.concorso.android.stradesicure.R$style: int Base_Widget_AppCompat_ListView
 com.concorso.android.stradesicure.R$style: int Base_Widget_AppCompat_ListView_DropDown
@@ -7072,13 +6704,11 @@ com.concorso.android.stradesicure.R$style: int Base_Widget_AppCompat_RatingBar_S
 com.concorso.android.stradesicure.R$style: int Base_Widget_AppCompat_SearchView
 com.concorso.android.stradesicure.R$style: int Base_Widget_AppCompat_SearchView_ActionBar
 com.concorso.android.stradesicure.R$style: int Base_Widget_AppCompat_SeekBar
-com.concorso.android.stradesicure.R$style: int Base_Widget_AppCompat_SeekBar_Discrete
 com.concorso.android.stradesicure.R$style: int Base_Widget_AppCompat_Spinner
 com.concorso.android.stradesicure.R$style: int Base_Widget_AppCompat_Spinner_Underlined
 com.concorso.android.stradesicure.R$style: int Base_Widget_AppCompat_TextView_SpinnerItem
 com.concorso.android.stradesicure.R$style: int Base_Widget_AppCompat_Toolbar
 com.concorso.android.stradesicure.R$style: int Base_Widget_AppCompat_Toolbar_Button_Navigation
-com.concorso.android.stradesicure.R$style: int Base_Widget_Design_AppBarLayout
 com.concorso.android.stradesicure.R$style: int Base_Widget_Design_TabLayout
 com.concorso.android.stradesicure.R$style: int CardView
 com.concorso.android.stradesicure.R$style: int CardView_Dark
@@ -7178,7 +6808,6 @@ com.concorso.android.stradesicure.R$style: int TextAppearance_AppCompat_Widget_A
 com.concorso.android.stradesicure.R$style: int TextAppearance_AppCompat_Widget_Button
 com.concorso.android.stradesicure.R$style: int TextAppearance_AppCompat_Widget_Button_Inverse
 com.concorso.android.stradesicure.R$style: int TextAppearance_AppCompat_Widget_DropDownItem
-com.concorso.android.stradesicure.R$style: int TextAppearance_AppCompat_Widget_PopupMenu_Header
 com.concorso.android.stradesicure.R$style: int TextAppearance_AppCompat_Widget_PopupMenu_Large
 com.concorso.android.stradesicure.R$style: int TextAppearance_AppCompat_Widget_PopupMenu_Small
 com.concorso.android.stradesicure.R$style: int TextAppearance_AppCompat_Widget_Switch
@@ -7236,8 +6865,6 @@ com.concorso.android.stradesicure.R$style: int ThemeOverlay_AppCompat
 com.concorso.android.stradesicure.R$style: int ThemeOverlay_AppCompat_ActionBar
 com.concorso.android.stradesicure.R$style: int ThemeOverlay_AppCompat_Dark
 com.concorso.android.stradesicure.R$style: int ThemeOverlay_AppCompat_Dark_ActionBar
-com.concorso.android.stradesicure.R$style: int ThemeOverlay_AppCompat_Dialog
-com.concorso.android.stradesicure.R$style: int ThemeOverlay_AppCompat_Dialog_Alert
 com.concorso.android.stradesicure.R$style: int ThemeOverlay_AppCompat_Light
 com.concorso.android.stradesicure.R$style: int Toolbar
 com.concorso.android.stradesicure.R$style: int Topeka_ActionButton
@@ -7289,7 +6916,6 @@ com.concorso.android.stradesicure.R$style: int Widget_AppCompat_Light_PopupMenu
 com.concorso.android.stradesicure.R$style: int Widget_AppCompat_Light_PopupMenu_Overflow
 com.concorso.android.stradesicure.R$style: int Widget_AppCompat_Light_SearchView
 com.concorso.android.stradesicure.R$style: int Widget_AppCompat_Light_Spinner_DropDown_ActionBar
-com.concorso.android.stradesicure.R$style: int Widget_AppCompat_ListMenuView
 com.concorso.android.stradesicure.R$style: int Widget_AppCompat_ListPopupWindow
 com.concorso.android.stradesicure.R$style: int Widget_AppCompat_ListView
 com.concorso.android.stradesicure.R$style: int Widget_AppCompat_ListView_DropDown
@@ -7305,7 +6931,6 @@ com.concorso.android.stradesicure.R$style: int Widget_AppCompat_RatingBar_Small
 com.concorso.android.stradesicure.R$style: int Widget_AppCompat_SearchView
 com.concorso.android.stradesicure.R$style: int Widget_AppCompat_SearchView_ActionBar
 com.concorso.android.stradesicure.R$style: int Widget_AppCompat_SeekBar
-com.concorso.android.stradesicure.R$style: int Widget_AppCompat_SeekBar_Discrete
 com.concorso.android.stradesicure.R$style: int Widget_AppCompat_Spinner
 com.concorso.android.stradesicure.R$style: int Widget_AppCompat_Spinner_DropDown
 com.concorso.android.stradesicure.R$style: int Widget_AppCompat_Spinner_DropDown_ActionBar
@@ -7336,11 +6961,9 @@ com.concorso.android.stradesicure.R$styleable: int ActionBar_background
 com.concorso.android.stradesicure.R$styleable: int ActionBar_backgroundSplit
 com.concorso.android.stradesicure.R$styleable: int ActionBar_backgroundStacked
 com.concorso.android.stradesicure.R$styleable: int ActionBar_contentInsetEnd
-com.concorso.android.stradesicure.R$styleable: int ActionBar_contentInsetEndWithActions
 com.concorso.android.stradesicure.R$styleable: int ActionBar_contentInsetLeft
 com.concorso.android.stradesicure.R$styleable: int ActionBar_contentInsetRight
 com.concorso.android.stradesicure.R$styleable: int ActionBar_contentInsetStart
-com.concorso.android.stradesicure.R$styleable: int ActionBar_contentInsetStartWithNavigation
 com.concorso.android.stradesicure.R$styleable: int ActionBar_customNavigationLayout
 com.concorso.android.stradesicure.R$styleable: int ActionBar_displayOptions
 com.concorso.android.stradesicure.R$styleable: int ActionBar_divider
@@ -7387,28 +7010,12 @@ com.concorso.android.stradesicure.R$styleable: int[] AppBarLayout
 com.concorso.android.stradesicure.R$styleable: int AppBarLayout_android_background
 com.concorso.android.stradesicure.R$styleable: int AppBarLayout_elevation
 com.concorso.android.stradesicure.R$styleable: int AppBarLayout_expanded
-com.concorso.android.stradesicure.R$styleable: int[] AppBarLayoutStates
-com.concorso.android.stradesicure.R$styleable: int AppBarLayoutStates_state_collapsed
-com.concorso.android.stradesicure.R$styleable: int AppBarLayoutStates_state_collapsible
-com.concorso.android.stradesicure.R$styleable: int[] AppBarLayout_Layout
-com.concorso.android.stradesicure.R$styleable: int AppBarLayout_Layout_layout_scrollFlags
-com.concorso.android.stradesicure.R$styleable: int AppBarLayout_Layout_layout_scrollInterpolator
+com.concorso.android.stradesicure.R$styleable: int[] AppBarLayout_LayoutParams
+com.concorso.android.stradesicure.R$styleable: int AppBarLayout_LayoutParams_layout_scrollFlags
+com.concorso.android.stradesicure.R$styleable: int AppBarLayout_LayoutParams_layout_scrollInterpolator
 com.concorso.android.stradesicure.R$styleable: int[] AppCompatImageView
 com.concorso.android.stradesicure.R$styleable: int AppCompatImageView_android_src
 com.concorso.android.stradesicure.R$styleable: int AppCompatImageView_srcCompat
-com.concorso.android.stradesicure.R$styleable: int[] AppCompatSeekBar
-com.concorso.android.stradesicure.R$styleable: int AppCompatSeekBar_android_thumb
-com.concorso.android.stradesicure.R$styleable: int AppCompatSeekBar_tickMark
-com.concorso.android.stradesicure.R$styleable: int AppCompatSeekBar_tickMarkTint
-com.concorso.android.stradesicure.R$styleable: int AppCompatSeekBar_tickMarkTintMode
-com.concorso.android.stradesicure.R$styleable: int[] AppCompatTextHelper
-com.concorso.android.stradesicure.R$styleable: int AppCompatTextHelper_android_drawableBottom
-com.concorso.android.stradesicure.R$styleable: int AppCompatTextHelper_android_drawableEnd
-com.concorso.android.stradesicure.R$styleable: int AppCompatTextHelper_android_drawableLeft
-com.concorso.android.stradesicure.R$styleable: int AppCompatTextHelper_android_drawableRight
-com.concorso.android.stradesicure.R$styleable: int AppCompatTextHelper_android_drawableStart
-com.concorso.android.stradesicure.R$styleable: int AppCompatTextHelper_android_drawableTop
-com.concorso.android.stradesicure.R$styleable: int AppCompatTextHelper_android_textAppearance
 com.concorso.android.stradesicure.R$styleable: int[] AppCompatTextView
 com.concorso.android.stradesicure.R$styleable: int AppCompatTextView_android_textAppearance
 com.concorso.android.stradesicure.R$styleable: int AppCompatTextView_textAllCaps
@@ -7462,7 +7069,6 @@ com.concorso.android.stradesicure.R$styleable: int AppCompatTheme_buttonStyleSma
 com.concorso.android.stradesicure.R$styleable: int AppCompatTheme_checkboxStyle
 com.concorso.android.stradesicure.R$styleable: int AppCompatTheme_checkedTextViewStyle
 com.concorso.android.stradesicure.R$styleable: int AppCompatTheme_colorAccent
-com.concorso.android.stradesicure.R$styleable: int AppCompatTheme_colorBackgroundFloating
 com.concorso.android.stradesicure.R$styleable: int AppCompatTheme_colorButtonNormal
 com.concorso.android.stradesicure.R$styleable: int AppCompatTheme_colorControlActivated
 com.concorso.android.stradesicure.R$styleable: int AppCompatTheme_colorControlHighlight
@@ -7484,7 +7090,6 @@ com.concorso.android.stradesicure.R$styleable: int AppCompatTheme_homeAsUpIndica
 com.concorso.android.stradesicure.R$styleable: int AppCompatTheme_imageButtonStyle
 com.concorso.android.stradesicure.R$styleable: int AppCompatTheme_listChoiceBackgroundIndicator
 com.concorso.android.stradesicure.R$styleable: int AppCompatTheme_listDividerAlertDialog
-com.concorso.android.stradesicure.R$styleable: int AppCompatTheme_listMenuViewStyle
 com.concorso.android.stradesicure.R$styleable: int AppCompatTheme_listPopupWindowStyle
 com.concorso.android.stradesicure.R$styleable: int AppCompatTheme_listPreferredItemHeight
 com.concorso.android.stradesicure.R$styleable: int AppCompatTheme_listPreferredItemHeightLarge
@@ -7510,7 +7115,6 @@ com.concorso.android.stradesicure.R$styleable: int AppCompatTheme_switchStyle
 com.concorso.android.stradesicure.R$styleable: int AppCompatTheme_textAppearanceLargePopupMenu
 com.concorso.android.stradesicure.R$styleable: int AppCompatTheme_textAppearanceListItem
 com.concorso.android.stradesicure.R$styleable: int AppCompatTheme_textAppearanceListItemSmall
-com.concorso.android.stradesicure.R$styleable: int AppCompatTheme_textAppearancePopupMenuHeader
 com.concorso.android.stradesicure.R$styleable: int AppCompatTheme_textAppearanceSearchResultSubtitle
 com.concorso.android.stradesicure.R$styleable: int AppCompatTheme_textAppearanceSearchResultTitle
 com.concorso.android.stradesicure.R$styleable: int AppCompatTheme_textAppearanceSmallPopupMenu
@@ -7528,10 +7132,9 @@ com.concorso.android.stradesicure.R$styleable: int AppCompatTheme_windowFixedWid
 com.concorso.android.stradesicure.R$styleable: int AppCompatTheme_windowMinWidthMajor
 com.concorso.android.stradesicure.R$styleable: int AppCompatTheme_windowMinWidthMinor
 com.concorso.android.stradesicure.R$styleable: int AppCompatTheme_windowNoTitle
-com.concorso.android.stradesicure.R$styleable: int[] BottomSheetBehavior_Layout
-com.concorso.android.stradesicure.R$styleable: int BottomSheetBehavior_Layout_behavior_hideable
-com.concorso.android.stradesicure.R$styleable: int BottomSheetBehavior_Layout_behavior_peekHeight
-com.concorso.android.stradesicure.R$styleable: int BottomSheetBehavior_Layout_behavior_skipCollapsed
+com.concorso.android.stradesicure.R$styleable: int[] BottomSheetBehavior_Params
+com.concorso.android.stradesicure.R$styleable: int BottomSheetBehavior_Params_behavior_hideable
+com.concorso.android.stradesicure.R$styleable: int BottomSheetBehavior_Params_behavior_peekHeight
 com.concorso.android.stradesicure.R$styleable: int[] ButtonBarLayout
 com.concorso.android.stradesicure.R$styleable: int ButtonBarLayout_allowStacking
 com.concorso.android.stradesicure.R$styleable: int[] CardView
@@ -7548,6 +7151,9 @@ com.concorso.android.stradesicure.R$styleable: int CardView_contentPaddingBottom
 com.concorso.android.stradesicure.R$styleable: int CardView_contentPaddingLeft
 com.concorso.android.stradesicure.R$styleable: int CardView_contentPaddingRight
 com.concorso.android.stradesicure.R$styleable: int CardView_contentPaddingTop
+com.concorso.android.stradesicure.R$styleable: int[] CollapsingAppBarLayout_LayoutParams
+com.concorso.android.stradesicure.R$styleable: int CollapsingAppBarLayout_LayoutParams_layout_collapseMode
+com.concorso.android.stradesicure.R$styleable: int CollapsingAppBarLayout_LayoutParams_layout_collapseParallaxMultiplier
 com.concorso.android.stradesicure.R$styleable: int[] CollapsingToolbarLayout
 com.concorso.android.stradesicure.R$styleable: int CollapsingToolbarLayout_collapsedTitleGravity
 com.concorso.android.stradesicure.R$styleable: int CollapsingToolbarLayout_collapsedTitleTextAppearance
@@ -7559,19 +7165,10 @@ com.concorso.android.stradesicure.R$styleable: int CollapsingToolbarLayout_expan
 com.concorso.android.stradesicure.R$styleable: int CollapsingToolbarLayout_expandedTitleMarginStart
 com.concorso.android.stradesicure.R$styleable: int CollapsingToolbarLayout_expandedTitleMarginTop
 com.concorso.android.stradesicure.R$styleable: int CollapsingToolbarLayout_expandedTitleTextAppearance
-com.concorso.android.stradesicure.R$styleable: int CollapsingToolbarLayout_scrimAnimationDuration
-com.concorso.android.stradesicure.R$styleable: int CollapsingToolbarLayout_scrimVisibleHeightTrigger
 com.concorso.android.stradesicure.R$styleable: int CollapsingToolbarLayout_statusBarScrim
 com.concorso.android.stradesicure.R$styleable: int CollapsingToolbarLayout_title
 com.concorso.android.stradesicure.R$styleable: int CollapsingToolbarLayout_titleEnabled
 com.concorso.android.stradesicure.R$styleable: int CollapsingToolbarLayout_toolbarId
-com.concorso.android.stradesicure.R$styleable: int[] CollapsingToolbarLayout_Layout
-com.concorso.android.stradesicure.R$styleable: int CollapsingToolbarLayout_Layout_layout_collapseMode
-com.concorso.android.stradesicure.R$styleable: int CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier
-com.concorso.android.stradesicure.R$styleable: int[] ColorStateListItem
-com.concorso.android.stradesicure.R$styleable: int ColorStateListItem_alpha
-com.concorso.android.stradesicure.R$styleable: int ColorStateListItem_android_alpha
-com.concorso.android.stradesicure.R$styleable: int ColorStateListItem_android_color
 com.concorso.android.stradesicure.R$styleable: int[] CompoundButton
 com.concorso.android.stradesicure.R$styleable: int CompoundButton_android_button
 com.concorso.android.stradesicure.R$styleable: int CompoundButton_buttonTint
@@ -7579,14 +7176,12 @@ com.concorso.android.stradesicure.R$styleable: int CompoundButton_buttonTintMode
 com.concorso.android.stradesicure.R$styleable: int[] CoordinatorLayout
 com.concorso.android.stradesicure.R$styleable: int CoordinatorLayout_keylines
 com.concorso.android.stradesicure.R$styleable: int CoordinatorLayout_statusBarBackground
-com.concorso.android.stradesicure.R$styleable: int[] CoordinatorLayout_Layout
-com.concorso.android.stradesicure.R$styleable: int CoordinatorLayout_Layout_android_layout_gravity
-com.concorso.android.stradesicure.R$styleable: int CoordinatorLayout_Layout_layout_anchor
-com.concorso.android.stradesicure.R$styleable: int CoordinatorLayout_Layout_layout_anchorGravity
-com.concorso.android.stradesicure.R$styleable: int CoordinatorLayout_Layout_layout_behavior
-com.concorso.android.stradesicure.R$styleable: int CoordinatorLayout_Layout_layout_dodgeInsetEdges
-com.concorso.android.stradesicure.R$styleable: int CoordinatorLayout_Layout_layout_insetEdge
-com.concorso.android.stradesicure.R$styleable: int CoordinatorLayout_Layout_layout_keyline
+com.concorso.android.stradesicure.R$styleable: int[] CoordinatorLayout_LayoutParams
+com.concorso.android.stradesicure.R$styleable: int CoordinatorLayout_LayoutParams_android_layout_gravity
+com.concorso.android.stradesicure.R$styleable: int CoordinatorLayout_LayoutParams_layout_anchor
+com.concorso.android.stradesicure.R$styleable: int CoordinatorLayout_LayoutParams_layout_anchorGravity
+com.concorso.android.stradesicure.R$styleable: int CoordinatorLayout_LayoutParams_layout_behavior
+com.concorso.android.stradesicure.R$styleable: int CoordinatorLayout_LayoutParams_layout_keyline
 com.concorso.android.stradesicure.R$styleable: int[] DesignTheme
 com.concorso.android.stradesicure.R$styleable: int DesignTheme_bottomSheetDialogTheme
 com.concorso.android.stradesicure.R$styleable: int DesignTheme_bottomSheetStyle
@@ -7611,8 +7206,6 @@ com.concorso.android.stradesicure.R$styleable: int FloatingActionButton_fabSize
 com.concorso.android.stradesicure.R$styleable: int FloatingActionButton_pressedTranslationZ
 com.concorso.android.stradesicure.R$styleable: int FloatingActionButton_rippleColor
 com.concorso.android.stradesicure.R$styleable: int FloatingActionButton_useCompatPadding
-com.concorso.android.stradesicure.R$styleable: int[] FloatingActionButton_Behavior_Layout
-com.concorso.android.stradesicure.R$styleable: int FloatingActionButton_Behavior_Layout_behavior_autoHide
 com.concorso.android.stradesicure.R$styleable: int[] ForegroundLinearLayout
 com.concorso.android.stradesicure.R$styleable: int ForegroundLinearLayout_android_foreground
 com.concorso.android.stradesicure.R$styleable: int ForegroundLinearLayout_android_foregroundGravity
@@ -7695,7 +7288,6 @@ com.concorso.android.stradesicure.R$styleable: int MenuView_android_itemTextAppe
 com.concorso.android.stradesicure.R$styleable: int MenuView_android_verticalDivider
 com.concorso.android.stradesicure.R$styleable: int MenuView_android_windowAnimationStyle
 com.concorso.android.stradesicure.R$styleable: int MenuView_preserveIconSpacing
-com.concorso.android.stradesicure.R$styleable: int MenuView_subMenuArrow
 com.concorso.android.stradesicure.R$styleable: int[] NavigationView
 com.concorso.android.stradesicure.R$styleable: int NavigationView_android_background
 com.concorso.android.stradesicure.R$styleable: int NavigationView_android_fitsSystemWindows
@@ -7707,14 +7299,23 @@ com.concorso.android.stradesicure.R$styleable: int NavigationView_itemIconTint
 com.concorso.android.stradesicure.R$styleable: int NavigationView_itemTextAppearance
 com.concorso.android.stradesicure.R$styleable: int NavigationView_itemTextColor
 com.concorso.android.stradesicure.R$styleable: int NavigationView_menu
+com.concorso.android.stradesicure.R$styleable: int[] PercentLayout_Layout
+com.concorso.android.stradesicure.R$styleable: int PercentLayout_Layout_layout_aspectRatio
+com.concorso.android.stradesicure.R$styleable: int PercentLayout_Layout_layout_heightPercent
+com.concorso.android.stradesicure.R$styleable: int PercentLayout_Layout_layout_marginBottomPercent
+com.concorso.android.stradesicure.R$styleable: int PercentLayout_Layout_layout_marginEndPercent
+com.concorso.android.stradesicure.R$styleable: int PercentLayout_Layout_layout_marginLeftPercent
+com.concorso.android.stradesicure.R$styleable: int PercentLayout_Layout_layout_marginPercent
+com.concorso.android.stradesicure.R$styleable: int PercentLayout_Layout_layout_marginRightPercent
+com.concorso.android.stradesicure.R$styleable: int PercentLayout_Layout_layout_marginStartPercent
+com.concorso.android.stradesicure.R$styleable: int PercentLayout_Layout_layout_marginTopPercent
+com.concorso.android.stradesicure.R$styleable: int PercentLayout_Layout_layout_widthPercent
 com.concorso.android.stradesicure.R$styleable: int[] PopupWindow
-com.concorso.android.stradesicure.R$styleable: int PopupWindow_android_popupAnimationStyle
 com.concorso.android.stradesicure.R$styleable: int PopupWindow_android_popupBackground
 com.concorso.android.stradesicure.R$styleable: int PopupWindow_overlapAnchor
 com.concorso.android.stradesicure.R$styleable: int[] PopupWindowBackgroundState
 com.concorso.android.stradesicure.R$styleable: int PopupWindowBackgroundState_state_above_anchor
 com.concorso.android.stradesicure.R$styleable: int[] RecyclerView
-com.concorso.android.stradesicure.R$styleable: int RecyclerView_android_descendantFocusability
 com.concorso.android.stradesicure.R$styleable: int RecyclerView_android_orientation
 com.concorso.android.stradesicure.R$styleable: int RecyclerView_layoutManager
 com.concorso.android.stradesicure.R$styleable: int RecyclerView_reverseLayout
@@ -7722,8 +7323,8 @@ com.concorso.android.stradesicure.R$styleable: int RecyclerView_spanCount
 com.concorso.android.stradesicure.R$styleable: int RecyclerView_stackFromEnd
 com.concorso.android.stradesicure.R$styleable: int[] ScrimInsetsFrameLayout
 com.concorso.android.stradesicure.R$styleable: int ScrimInsetsFrameLayout_insetForeground
-com.concorso.android.stradesicure.R$styleable: int[] ScrollingViewBehavior_Layout
-com.concorso.android.stradesicure.R$styleable: int ScrollingViewBehavior_Layout_behavior_overlapTop
+com.concorso.android.stradesicure.R$styleable: int[] ScrollingViewBehavior_Params
+com.concorso.android.stradesicure.R$styleable: int ScrollingViewBehavior_Params_behavior_overlapTop
 com.concorso.android.stradesicure.R$styleable: int[] SearchView
 com.concorso.android.stradesicure.R$styleable: int SearchView_android_focusable
 com.concorso.android.stradesicure.R$styleable: int SearchView_android_imeOptions
@@ -7762,11 +7363,7 @@ com.concorso.android.stradesicure.R$styleable: int SwitchCompat_switchMinWidth
 com.concorso.android.stradesicure.R$styleable: int SwitchCompat_switchPadding
 com.concorso.android.stradesicure.R$styleable: int SwitchCompat_switchTextAppearance
 com.concorso.android.stradesicure.R$styleable: int SwitchCompat_thumbTextPadding
-com.concorso.android.stradesicure.R$styleable: int SwitchCompat_thumbTint
-com.concorso.android.stradesicure.R$styleable: int SwitchCompat_thumbTintMode
 com.concorso.android.stradesicure.R$styleable: int SwitchCompat_track
-com.concorso.android.stradesicure.R$styleable: int SwitchCompat_trackTint
-com.concorso.android.stradesicure.R$styleable: int SwitchCompat_trackTintMode
 com.concorso.android.stradesicure.R$styleable: int[] TabItem
 com.concorso.android.stradesicure.R$styleable: int TabItem_android_icon
 com.concorso.android.stradesicure.R$styleable: int TabItem_android_layout
@@ -7810,23 +7407,15 @@ com.concorso.android.stradesicure.R$styleable: int TextInputLayout_errorTextAppe
 com.concorso.android.stradesicure.R$styleable: int TextInputLayout_hintAnimationEnabled
 com.concorso.android.stradesicure.R$styleable: int TextInputLayout_hintEnabled
 com.concorso.android.stradesicure.R$styleable: int TextInputLayout_hintTextAppearance
-com.concorso.android.stradesicure.R$styleable: int TextInputLayout_passwordToggleContentDescription
-com.concorso.android.stradesicure.R$styleable: int TextInputLayout_passwordToggleDrawable
-com.concorso.android.stradesicure.R$styleable: int TextInputLayout_passwordToggleEnabled
-com.concorso.android.stradesicure.R$styleable: int TextInputLayout_passwordToggleTint
-com.concorso.android.stradesicure.R$styleable: int TextInputLayout_passwordToggleTintMode
 com.concorso.android.stradesicure.R$styleable: int[] Toolbar
 com.concorso.android.stradesicure.R$styleable: int Toolbar_android_gravity
 com.concorso.android.stradesicure.R$styleable: int Toolbar_android_minHeight
-com.concorso.android.stradesicure.R$styleable: int Toolbar_buttonGravity
 com.concorso.android.stradesicure.R$styleable: int Toolbar_collapseContentDescription
 com.concorso.android.stradesicure.R$styleable: int Toolbar_collapseIcon
 com.concorso.android.stradesicure.R$styleable: int Toolbar_contentInsetEnd
-com.concorso.android.stradesicure.R$styleable: int Toolbar_contentInsetEndWithActions
 com.concorso.android.stradesicure.R$styleable: int Toolbar_contentInsetLeft
 com.concorso.android.stradesicure.R$styleable: int Toolbar_contentInsetRight
 com.concorso.android.stradesicure.R$styleable: int Toolbar_contentInsetStart
-com.concorso.android.stradesicure.R$styleable: int Toolbar_contentInsetStartWithNavigation
 com.concorso.android.stradesicure.R$styleable: int Toolbar_logo
 com.concorso.android.stradesicure.R$styleable: int Toolbar_logoDescription
 com.concorso.android.stradesicure.R$styleable: int Toolbar_maxButtonHeight
@@ -7837,7 +7426,6 @@ com.concorso.android.stradesicure.R$styleable: int Toolbar_subtitle
 com.concorso.android.stradesicure.R$styleable: int Toolbar_subtitleTextAppearance
 com.concorso.android.stradesicure.R$styleable: int Toolbar_subtitleTextColor
 com.concorso.android.stradesicure.R$styleable: int Toolbar_title
-com.concorso.android.stradesicure.R$styleable: int Toolbar_titleMargin
 com.concorso.android.stradesicure.R$styleable: int Toolbar_titleMarginBottom
 com.concorso.android.stradesicure.R$styleable: int Toolbar_titleMarginEnd
 com.concorso.android.stradesicure.R$styleable: int Toolbar_titleMarginStart
@@ -8133,8 +7721,11 @@ com.mikepenz.aboutlibraries.R$attr: int windowMinWidthMajor
 com.mikepenz.aboutlibraries.R$attr: int windowMinWidthMinor
 com.mikepenz.aboutlibraries.R$attr: int windowNoTitle
 com.mikepenz.aboutlibraries.R$bool: int abc_action_bar_embed_tabs
+com.mikepenz.aboutlibraries.R$bool: int abc_action_bar_embed_tabs_pre_jb
+com.mikepenz.aboutlibraries.R$bool: int abc_action_bar_expanded_action_views_exclusive
 com.mikepenz.aboutlibraries.R$bool: int abc_allow_stacked_button_bar
 com.mikepenz.aboutlibraries.R$bool: int abc_config_actionMenuItemAllCaps
+com.mikepenz.aboutlibraries.R$bool: int abc_config_allowActionMenuItemTextWithIcon
 com.mikepenz.aboutlibraries.R$bool: int abc_config_closeDialogWhenTouchOutside
 com.mikepenz.aboutlibraries.R$bool: int abc_config_showMenuShortcutsWhenKeyboardPresent
 com.mikepenz.aboutlibraries.R$color: int abc_background_cache_hint_selector_material_dark
@@ -8279,6 +7870,7 @@ com.mikepenz.aboutlibraries.R$dimen: int abc_floating_window_z
 com.mikepenz.aboutlibraries.R$dimen: int abc_list_item_padding_horizontal_material
 com.mikepenz.aboutlibraries.R$dimen: int abc_panel_menu_list_width
 com.mikepenz.aboutlibraries.R$dimen: int abc_search_view_preferred_width
+com.mikepenz.aboutlibraries.R$dimen: int abc_search_view_text_min_width
 com.mikepenz.aboutlibraries.R$dimen: int abc_seekbar_track_background_height_material
 com.mikepenz.aboutlibraries.R$dimen: int abc_seekbar_track_progress_height_material
 com.mikepenz.aboutlibraries.R$dimen: int abc_select_dialog_padding_start_material
@@ -8331,23 +7923,33 @@ com.mikepenz.aboutlibraries.R$drawable: int abc_btn_default_mtrl_shape
 com.mikepenz.aboutlibraries.R$drawable: int abc_btn_radio_material
 com.mikepenz.aboutlibraries.R$drawable: int abc_btn_radio_to_on_mtrl_000
 com.mikepenz.aboutlibraries.R$drawable: int abc_btn_radio_to_on_mtrl_015
+com.mikepenz.aboutlibraries.R$drawable: int abc_btn_rating_star_off_mtrl_alpha
+com.mikepenz.aboutlibraries.R$drawable: int abc_btn_rating_star_on_mtrl_alpha
 com.mikepenz.aboutlibraries.R$drawable: int abc_btn_switch_to_on_mtrl_00001
 com.mikepenz.aboutlibraries.R$drawable: int abc_btn_switch_to_on_mtrl_00012
 com.mikepenz.aboutlibraries.R$drawable: int abc_cab_background_internal_bg
 com.mikepenz.aboutlibraries.R$drawable: int abc_cab_background_top_material
 com.mikepenz.aboutlibraries.R$drawable: int abc_cab_background_top_mtrl_alpha
 com.mikepenz.aboutlibraries.R$drawable: int abc_control_background_material
+com.mikepenz.aboutlibraries.R$drawable: int abc_dialog_material_background_dark
+com.mikepenz.aboutlibraries.R$drawable: int abc_dialog_material_background_light
 com.mikepenz.aboutlibraries.R$drawable: int abc_edit_text_material
+com.mikepenz.aboutlibraries.R$drawable: int abc_ic_ab_back_mtrl_am_alpha
+com.mikepenz.aboutlibraries.R$drawable: int abc_ic_clear_mtrl_alpha
 com.mikepenz.aboutlibraries.R$drawable: int abc_ic_commit_search_api_mtrl_alpha
+com.mikepenz.aboutlibraries.R$drawable: int abc_ic_go_search_api_mtrl_alpha
 com.mikepenz.aboutlibraries.R$drawable: int abc_ic_menu_copy_mtrl_am_alpha
 com.mikepenz.aboutlibraries.R$drawable: int abc_ic_menu_cut_mtrl_alpha
+com.mikepenz.aboutlibraries.R$drawable: int abc_ic_menu_moreoverflow_mtrl_alpha
 com.mikepenz.aboutlibraries.R$drawable: int abc_ic_menu_paste_mtrl_am_alpha
 com.mikepenz.aboutlibraries.R$drawable: int abc_ic_menu_selectall_mtrl_alpha
 com.mikepenz.aboutlibraries.R$drawable: int abc_ic_menu_share_mtrl_alpha
+com.mikepenz.aboutlibraries.R$drawable: int abc_ic_search_api_mtrl_alpha
 com.mikepenz.aboutlibraries.R$drawable: int abc_ic_star_black_16dp
 com.mikepenz.aboutlibraries.R$drawable: int abc_ic_star_black_36dp
 com.mikepenz.aboutlibraries.R$drawable: int abc_ic_star_half_black_16dp
 com.mikepenz.aboutlibraries.R$drawable: int abc_ic_star_half_black_36dp
+com.mikepenz.aboutlibraries.R$drawable: int abc_ic_voice_search_api_mtrl_alpha
 com.mikepenz.aboutlibraries.R$drawable: int abc_item_background_holo_dark
 com.mikepenz.aboutlibraries.R$drawable: int abc_item_background_holo_light
 com.mikepenz.aboutlibraries.R$drawable: int abc_list_divider_mtrl_alpha
@@ -8363,6 +7965,7 @@ com.mikepenz.aboutlibraries.R$drawable: int abc_list_selector_holo_dark
 com.mikepenz.aboutlibraries.R$drawable: int abc_list_selector_holo_light
 com.mikepenz.aboutlibraries.R$drawable: int abc_menu_hardkey_panel_mtrl_mult
 com.mikepenz.aboutlibraries.R$drawable: int abc_popup_background_mtrl_mult
+com.mikepenz.aboutlibraries.R$drawable: int abc_ratingbar_full_material
 com.mikepenz.aboutlibraries.R$drawable: int abc_ratingbar_indicator_material
 com.mikepenz.aboutlibraries.R$drawable: int abc_ratingbar_small_material
 com.mikepenz.aboutlibraries.R$drawable: int abc_scrubber_control_off_mtrl_alpha
@@ -8506,6 +8109,7 @@ com.mikepenz.aboutlibraries.R$id: int withText
 com.mikepenz.aboutlibraries.R$id: int wrap_content
 com.mikepenz.aboutlibraries.R$integer: int abc_config_activityDefaultDur
 com.mikepenz.aboutlibraries.R$integer: int abc_config_activityShortDur
+com.mikepenz.aboutlibraries.R$integer: int abc_max_action_buttons
 com.mikepenz.aboutlibraries.R$integer: int cancel_button_image_alpha
 com.mikepenz.aboutlibraries.R$integer: int status_bar_notification_info_maxnum
 com.mikepenz.aboutlibraries.R$layout: int abc_action_bar_title_item
@@ -11134,8 +10738,11 @@ com.mikepenz.fastadapter.R$attr: int windowMinWidthMajor
 com.mikepenz.fastadapter.R$attr: int windowMinWidthMinor
 com.mikepenz.fastadapter.R$attr: int windowNoTitle
 com.mikepenz.fastadapter.R$bool: int abc_action_bar_embed_tabs
+com.mikepenz.fastadapter.R$bool: int abc_action_bar_embed_tabs_pre_jb
+com.mikepenz.fastadapter.R$bool: int abc_action_bar_expanded_action_views_exclusive
 com.mikepenz.fastadapter.R$bool: int abc_allow_stacked_button_bar
 com.mikepenz.fastadapter.R$bool: int abc_config_actionMenuItemAllCaps
+com.mikepenz.fastadapter.R$bool: int abc_config_allowActionMenuItemTextWithIcon
 com.mikepenz.fastadapter.R$bool: int abc_config_closeDialogWhenTouchOutside
 com.mikepenz.fastadapter.R$bool: int abc_config_showMenuShortcutsWhenKeyboardPresent
 com.mikepenz.fastadapter.R$color: int abc_background_cache_hint_selector_material_dark
@@ -11253,6 +10860,7 @@ com.mikepenz.fastadapter.R$dimen: int abc_floating_window_z
 com.mikepenz.fastadapter.R$dimen: int abc_list_item_padding_horizontal_material
 com.mikepenz.fastadapter.R$dimen: int abc_panel_menu_list_width
 com.mikepenz.fastadapter.R$dimen: int abc_search_view_preferred_width
+com.mikepenz.fastadapter.R$dimen: int abc_search_view_text_min_width
 com.mikepenz.fastadapter.R$dimen: int abc_seekbar_track_background_height_material
 com.mikepenz.fastadapter.R$dimen: int abc_seekbar_track_progress_height_material
 com.mikepenz.fastadapter.R$dimen: int abc_select_dialog_padding_start_material
@@ -11296,23 +10904,33 @@ com.mikepenz.fastadapter.R$drawable: int abc_btn_default_mtrl_shape
 com.mikepenz.fastadapter.R$drawable: int abc_btn_radio_material
 com.mikepenz.fastadapter.R$drawable: int abc_btn_radio_to_on_mtrl_000
 com.mikepenz.fastadapter.R$drawable: int abc_btn_radio_to_on_mtrl_015
+com.mikepenz.fastadapter.R$drawable: int abc_btn_rating_star_off_mtrl_alpha
+com.mikepenz.fastadapter.R$drawable: int abc_btn_rating_star_on_mtrl_alpha
 com.mikepenz.fastadapter.R$drawable: int abc_btn_switch_to_on_mtrl_00001
 com.mikepenz.fastadapter.R$drawable: int abc_btn_switch_to_on_mtrl_00012
 com.mikepenz.fastadapter.R$drawable: int abc_cab_background_internal_bg
 com.mikepenz.fastadapter.R$drawable: int abc_cab_background_top_material
 com.mikepenz.fastadapter.R$drawable: int abc_cab_background_top_mtrl_alpha
 com.mikepenz.fastadapter.R$drawable: int abc_control_background_material
+com.mikepenz.fastadapter.R$drawable: int abc_dialog_material_background_dark
+com.mikepenz.fastadapter.R$drawable: int abc_dialog_material_background_light
 com.mikepenz.fastadapter.R$drawable: int abc_edit_text_material
+com.mikepenz.fastadapter.R$drawable: int abc_ic_ab_back_mtrl_am_alpha
+com.mikepenz.fastadapter.R$drawable: int abc_ic_clear_mtrl_alpha
 com.mikepenz.fastadapter.R$drawable: int abc_ic_commit_search_api_mtrl_alpha
+com.mikepenz.fastadapter.R$drawable: int abc_ic_go_search_api_mtrl_alpha
 com.mikepenz.fastadapter.R$drawable: int abc_ic_menu_copy_mtrl_am_alpha
 com.mikepenz.fastadapter.R$drawable: int abc_ic_menu_cut_mtrl_alpha
+com.mikepenz.fastadapter.R$drawable: int abc_ic_menu_moreoverflow_mtrl_alpha
 com.mikepenz.fastadapter.R$drawable: int abc_ic_menu_paste_mtrl_am_alpha
 com.mikepenz.fastadapter.R$drawable: int abc_ic_menu_selectall_mtrl_alpha
 com.mikepenz.fastadapter.R$drawable: int abc_ic_menu_share_mtrl_alpha
+com.mikepenz.fastadapter.R$drawable: int abc_ic_search_api_mtrl_alpha
 com.mikepenz.fastadapter.R$drawable: int abc_ic_star_black_16dp
 com.mikepenz.fastadapter.R$drawable: int abc_ic_star_black_36dp
 com.mikepenz.fastadapter.R$drawable: int abc_ic_star_half_black_16dp
 com.mikepenz.fastadapter.R$drawable: int abc_ic_star_half_black_36dp
+com.mikepenz.fastadapter.R$drawable: int abc_ic_voice_search_api_mtrl_alpha
 com.mikepenz.fastadapter.R$drawable: int abc_item_background_holo_dark
 com.mikepenz.fastadapter.R$drawable: int abc_item_background_holo_light
 com.mikepenz.fastadapter.R$drawable: int abc_list_divider_mtrl_alpha
@@ -11328,6 +10946,7 @@ com.mikepenz.fastadapter.R$drawable: int abc_list_selector_holo_dark
 com.mikepenz.fastadapter.R$drawable: int abc_list_selector_holo_light
 com.mikepenz.fastadapter.R$drawable: int abc_menu_hardkey_panel_mtrl_mult
 com.mikepenz.fastadapter.R$drawable: int abc_popup_background_mtrl_mult
+com.mikepenz.fastadapter.R$drawable: int abc_ratingbar_full_material
 com.mikepenz.fastadapter.R$drawable: int abc_ratingbar_indicator_material
 com.mikepenz.fastadapter.R$drawable: int abc_ratingbar_small_material
 com.mikepenz.fastadapter.R$drawable: int abc_scrubber_control_off_mtrl_alpha
@@ -11446,6 +11065,7 @@ com.mikepenz.fastadapter.R$id: int withText
 com.mikepenz.fastadapter.R$id: int wrap_content
 com.mikepenz.fastadapter.R$integer: int abc_config_activityDefaultDur
 com.mikepenz.fastadapter.R$integer: int abc_config_activityShortDur
+com.mikepenz.fastadapter.R$integer: int abc_max_action_buttons
 com.mikepenz.fastadapter.R$integer: int cancel_button_image_alpha
 com.mikepenz.fastadapter.R$integer: int status_bar_notification_info_maxnum
 com.mikepenz.fastadapter.R$layout: int abc_action_bar_title_item
@@ -12405,8 +12025,11 @@ com.mikepenz.iconics.core.R$attr: int windowMinWidthMajor
 com.mikepenz.iconics.core.R$attr: int windowMinWidthMinor
 com.mikepenz.iconics.core.R$attr: int windowNoTitle
 com.mikepenz.iconics.core.R$bool: int abc_action_bar_embed_tabs
+com.mikepenz.iconics.core.R$bool: int abc_action_bar_embed_tabs_pre_jb
+com.mikepenz.iconics.core.R$bool: int abc_action_bar_expanded_action_views_exclusive
 com.mikepenz.iconics.core.R$bool: int abc_allow_stacked_button_bar
 com.mikepenz.iconics.core.R$bool: int abc_config_actionMenuItemAllCaps
+com.mikepenz.iconics.core.R$bool: int abc_config_allowActionMenuItemTextWithIcon
 com.mikepenz.iconics.core.R$bool: int abc_config_closeDialogWhenTouchOutside
 com.mikepenz.iconics.core.R$bool: int abc_config_showMenuShortcutsWhenKeyboardPresent
 com.mikepenz.iconics.core.R$color: int abc_background_cache_hint_selector_material_dark
@@ -12524,6 +12147,7 @@ com.mikepenz.iconics.core.R$dimen: int abc_floating_window_z
 com.mikepenz.iconics.core.R$dimen: int abc_list_item_padding_horizontal_material
 com.mikepenz.iconics.core.R$dimen: int abc_panel_menu_list_width
 com.mikepenz.iconics.core.R$dimen: int abc_search_view_preferred_width
+com.mikepenz.iconics.core.R$dimen: int abc_search_view_text_min_width
 com.mikepenz.iconics.core.R$dimen: int abc_seekbar_track_background_height_material
 com.mikepenz.iconics.core.R$dimen: int abc_seekbar_track_progress_height_material
 com.mikepenz.iconics.core.R$dimen: int abc_select_dialog_padding_start_material
@@ -12564,23 +12188,33 @@ com.mikepenz.iconics.core.R$drawable: int abc_btn_default_mtrl_shape
 com.mikepenz.iconics.core.R$drawable: int abc_btn_radio_material
 com.mikepenz.iconics.core.R$drawable: int abc_btn_radio_to_on_mtrl_000
 com.mikepenz.iconics.core.R$drawable: int abc_btn_radio_to_on_mtrl_015
+com.mikepenz.iconics.core.R$drawable: int abc_btn_rating_star_off_mtrl_alpha
+com.mikepenz.iconics.core.R$drawable: int abc_btn_rating_star_on_mtrl_alpha
 com.mikepenz.iconics.core.R$drawable: int abc_btn_switch_to_on_mtrl_00001
 com.mikepenz.iconics.core.R$drawable: int abc_btn_switch_to_on_mtrl_00012
 com.mikepenz.iconics.core.R$drawable: int abc_cab_background_internal_bg
 com.mikepenz.iconics.core.R$drawable: int abc_cab_background_top_material
 com.mikepenz.iconics.core.R$drawable: int abc_cab_background_top_mtrl_alpha
 com.mikepenz.iconics.core.R$drawable: int abc_control_background_material
+com.mikepenz.iconics.core.R$drawable: int abc_dialog_material_background_dark
+com.mikepenz.iconics.core.R$drawable: int abc_dialog_material_background_light
 com.mikepenz.iconics.core.R$drawable: int abc_edit_text_material
+com.mikepenz.iconics.core.R$drawable: int abc_ic_ab_back_mtrl_am_alpha
+com.mikepenz.iconics.core.R$drawable: int abc_ic_clear_mtrl_alpha
 com.mikepenz.iconics.core.R$drawable: int abc_ic_commit_search_api_mtrl_alpha
+com.mikepenz.iconics.core.R$drawable: int abc_ic_go_search_api_mtrl_alpha
 com.mikepenz.iconics.core.R$drawable: int abc_ic_menu_copy_mtrl_am_alpha
 com.mikepenz.iconics.core.R$drawable: int abc_ic_menu_cut_mtrl_alpha
+com.mikepenz.iconics.core.R$drawable: int abc_ic_menu_moreoverflow_mtrl_alpha
 com.mikepenz.iconics.core.R$drawable: int abc_ic_menu_paste_mtrl_am_alpha
 com.mikepenz.iconics.core.R$drawable: int abc_ic_menu_selectall_mtrl_alpha
 com.mikepenz.iconics.core.R$drawable: int abc_ic_menu_share_mtrl_alpha
+com.mikepenz.iconics.core.R$drawable: int abc_ic_search_api_mtrl_alpha
 com.mikepenz.iconics.core.R$drawable: int abc_ic_star_black_16dp
 com.mikepenz.iconics.core.R$drawable: int abc_ic_star_black_36dp
 com.mikepenz.iconics.core.R$drawable: int abc_ic_star_half_black_16dp
 com.mikepenz.iconics.core.R$drawable: int abc_ic_star_half_black_36dp
+com.mikepenz.iconics.core.R$drawable: int abc_ic_voice_search_api_mtrl_alpha
 com.mikepenz.iconics.core.R$drawable: int abc_item_background_holo_dark
 com.mikepenz.iconics.core.R$drawable: int abc_item_background_holo_light
 com.mikepenz.iconics.core.R$drawable: int abc_list_divider_mtrl_alpha
@@ -12596,6 +12230,7 @@ com.mikepenz.iconics.core.R$drawable: int abc_list_selector_holo_dark
 com.mikepenz.iconics.core.R$drawable: int abc_list_selector_holo_light
 com.mikepenz.iconics.core.R$drawable: int abc_menu_hardkey_panel_mtrl_mult
 com.mikepenz.iconics.core.R$drawable: int abc_popup_background_mtrl_mult
+com.mikepenz.iconics.core.R$drawable: int abc_ratingbar_full_material
 com.mikepenz.iconics.core.R$drawable: int abc_ratingbar_indicator_material
 com.mikepenz.iconics.core.R$drawable: int abc_ratingbar_small_material
 com.mikepenz.iconics.core.R$drawable: int abc_scrubber_control_off_mtrl_alpha
@@ -12714,6 +12349,7 @@ com.mikepenz.iconics.core.R$id: int withText
 com.mikepenz.iconics.core.R$id: int wrap_content
 com.mikepenz.iconics.core.R$integer: int abc_config_activityDefaultDur
 com.mikepenz.iconics.core.R$integer: int abc_config_activityShortDur
+com.mikepenz.iconics.core.R$integer: int abc_max_action_buttons
 com.mikepenz.iconics.core.R$integer: int cancel_button_image_alpha
 com.mikepenz.iconics.core.R$integer: int status_bar_notification_info_maxnum
 com.mikepenz.iconics.core.R$layout: int abc_action_bar_title_item

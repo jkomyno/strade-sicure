@@ -1,14 +1,15 @@
 package com.ss.stradesicure;
 
+import com.unity3d.player.*;
 import android.app.NativeActivity;
 import android.content.res.Configuration;
 import android.graphics.PixelFormat;
 import android.os.Bundle;
 import android.view.KeyEvent;
 import android.view.MotionEvent;
+import android.view.View;
 import android.view.Window;
-
-import com.unity3d.player.UnityPlayer;
+import android.view.WindowManager;
 
 public class UnityPlayerNativeActivity extends NativeActivity
 {

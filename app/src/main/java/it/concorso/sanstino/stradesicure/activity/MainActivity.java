@@ -5,6 +5,7 @@ import android.content.Intent;
 import android.net.Uri;
 import android.os.Bundle;
 import android.os.Handler;
+import android.support.design.widget.Snackbar;
 import android.support.v4.app.FragmentTransaction;
 import android.support.v7.app.AppCompatActivity;
 import android.util.Log;
@@ -18,6 +19,7 @@ import com.concorso.android.stradesicure.R;
 import com.mikepenz.aboutlibraries.Libs;
 import com.mikepenz.aboutlibraries.LibsBuilder;
 import com.ss.stradesicure.UnityPlayerActivity;
+import com.ss.stradesicure.UnityPlayerNativeActivity;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -75,7 +77,8 @@ public class MainActivity extends AppCompatActivity {
                         goToCategorySelectionActivity();
                         break;
                     case 1:
-                        goToGameActivity();
+                        //goToGameActivity();
+                        goToGamePlayStore();
                         break;
                     case 2:
                         goToTutorial();
@@ -99,11 +102,13 @@ public class MainActivity extends AppCompatActivity {
         startActivity(i);
     }
 
+    private void goToGamePlayStore() {
+        Uri webpage = Uri.parse("https://play.google.com/store/apps/details?id=com.ss.stradesicuregame&hl=it");
+        Intent intent = new Intent(Intent.ACTION_VIEW, webpage);
+        startActivity(intent);
+    }
+
     private void goToGameActivity() {
-        /*Snackbar snackbar = Snackbar
-                .make(menuContainer, "GAME LAUNCHED", Snackbar.LENGTH_INDEFINITE);
-        snackbar.show();
-        */
         Intent i = new Intent(MainActivity.this, UnityPlayerActivity.class);
         startActivity(i);
         // finish();
@@ -118,7 +123,6 @@ public class MainActivity extends AppCompatActivity {
     private void goToSiteActivity() {
         Uri webpage = Uri.parse(url);
         Intent intent = new Intent(Intent.ACTION_VIEW, webpage);
-
         startActivity(intent);
     }
 
