@@ -5235,7 +5235,7 @@ it.concorso.sanstino.stradesicure.activity.MainActivity:
     android.widget.LinearLayout goToSite
     android.widget.LinearLayout goToSettings
     android.widget.LinearLayout goToAbout
-    112:115:private void goToGameActivity()
+    126:129:private void goToGameActivity()
 it.concorso.sanstino.stradesicure.activity.QuizActivity:
     private static final java.lang.String TAG
     private static final java.lang.String IMAGE_CATEGORY

@@ -19916,6 +19916,7 @@ it.concorso.sanstino.stradesicure.activity.MainActivity -> it.concorso.sanstino.
     void onSaveInstanceState(android.os.Bundle) -> onSaveInstanceState
     void onCreate(android.os.Bundle) -> onCreate
     void goToCategorySelectionActivity() -> m
+    void goToGameApp(android.content.Context) -> a
     void goToGamePlayStore() -> n
     void goToTutorial() -> o
     void goToSiteActivity() -> p
@@ -19924,12 +19925,13 @@ it.concorso.sanstino.stradesicure.activity.MainActivity -> it.concorso.sanstino.
     void onDestroy() -> onDestroy
     void onBackPressed() -> onBackPressed
     void access$000(it.concorso.sanstino.stradesicure.activity.MainActivity) -> a
-    void access$100(it.concorso.sanstino.stradesicure.activity.MainActivity) -> b
-    void access$200(it.concorso.sanstino.stradesicure.activity.MainActivity) -> c
-    void access$300(it.concorso.sanstino.stradesicure.activity.MainActivity) -> d
-    void access$400(it.concorso.sanstino.stradesicure.activity.MainActivity) -> e
-    void access$500(it.concorso.sanstino.stradesicure.activity.MainActivity) -> f
-    boolean access$602(it.concorso.sanstino.stradesicure.activity.MainActivity,boolean) -> a
+    android.content.Context access$100(it.concorso.sanstino.stradesicure.activity.MainActivity) -> b
+    void access$200(it.concorso.sanstino.stradesicure.activity.MainActivity,android.content.Context) -> a
+    void access$300(it.concorso.sanstino.stradesicure.activity.MainActivity) -> c
+    void access$400(it.concorso.sanstino.stradesicure.activity.MainActivity) -> d
+    void access$500(it.concorso.sanstino.stradesicure.activity.MainActivity) -> e
+    void access$600(it.concorso.sanstino.stradesicure.activity.MainActivity) -> f
+    boolean access$702(it.concorso.sanstino.stradesicure.activity.MainActivity,boolean) -> a
     void <clinit>() -> <clinit>
 it.concorso.sanstino.stradesicure.activity.MainActivity$1 -> it.concorso.sanstino.stradesicure.activity.b:
     it.concorso.sanstino.stradesicure.activity.MainActivity this$0 -> a

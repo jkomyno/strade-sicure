@@ -2,6 +2,7 @@ package it.concorso.sanstino.stradesicure.activity;
 
 import android.content.Context;
 import android.content.Intent;
+import android.content.pm.PackageManager;
 import android.net.Uri;
 import android.os.Bundle;
 import android.os.Handler;
@@ -14,6 +15,7 @@ import android.widget.AdapterView;
 import android.widget.GridView;
 import android.widget.LinearLayout;
 import android.widget.Toast;
+import android.content.pm.PackageManager.NameNotFoundException;
 
 import com.concorso.android.stradesicure.R;
 import com.mikepenz.aboutlibraries.Libs;
@@ -66,19 +68,20 @@ public class MainActivity extends AppCompatActivity {
             startActivity(introIntent);
         }
 
-        GridView gridView = (GridView)findViewById(R.id.gridview);
+        GridView gridView = (GridView) findViewById(R.id.gridview);
         gridView.setAdapter(new MyMenuAdapter(this));
 
         gridView.setOnItemClickListener(new AdapterView.OnItemClickListener() {
             @Override
             public void onItemClick(AdapterView<?> adapterView, View view, int pos, long l) {
-                switch(pos) {
+                switch (pos) {
                     case 0:
                         goToCategorySelectionActivity();
                         break;
                     case 1:
                         //goToGameActivity();
-                        goToGamePlayStore();
+                        //goToGamePlayStore();
+                        goToGameApp(context);
                         break;
                     case 2:
                         goToTutorial();
@@ -100,6 +103,17 @@ public class MainActivity extends AppCompatActivity {
     private void goToCategorySelectionActivity() {
         Intent i = new Intent(MainActivity.this, CategorySelectionActivity.class);
         startActivity(i);
+    }
+
+    private void goToGameApp(Context context) {
+        PackageManager manager = context.getPackageManager();
+        Intent i = manager.getLaunchIntentForPackage("com.ss.stradesicure");
+        if (i==null) {
+            goToGamePlayStore();
+        } else {
+            i.addCategory(Intent.CATEGORY_LAUNCHER);
+            context.startActivity(i);
+        }
     }
 
     private void goToGamePlayStore() {

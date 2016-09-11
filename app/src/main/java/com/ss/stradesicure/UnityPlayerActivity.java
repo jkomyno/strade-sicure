@@ -2,6 +2,7 @@ package com.ss.stradesicure;
 
 import com.unity3d.player.*;
 import android.app.Activity;
+import android.content.Intent;
 import android.content.res.Configuration;
 import android.graphics.PixelFormat;
 import android.os.Bundle;
@@ -10,6 +11,8 @@ import android.view.MotionEvent;
 import android.view.View;
 import android.view.Window;
 import android.view.WindowManager;
+
+import it.concorso.sanstino.stradesicure.activity.MainActivity;
 
 public class UnityPlayerActivity extends Activity
 {
@@ -31,6 +34,8 @@ public class UnityPlayerActivity extends Activity
 	// Quit Unity
 	@Override protected void onDestroy ()
 	{
+		Intent i = new Intent(UnityPlayerActivity.this, MainActivity.class);
+		startActivity(i);
 		mUnityPlayer.quit();
 		super.onDestroy();
 	}
